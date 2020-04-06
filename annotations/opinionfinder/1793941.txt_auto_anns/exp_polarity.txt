@@ -1,0 +1,4 @@
+corpus_1793941.txt_2948_2955	neutral
+corpus_1793941.txt_2956_2962	neutral
+corpus_1793941.txt_2967_2973	negative
+corpus_1793941.txt_2983_2987	neutral

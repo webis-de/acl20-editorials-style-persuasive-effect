@@ -1,0 +1,7 @@
+corpus_1676637.txt_3472_3476	neutral
+corpus_1676637.txt_3482_3488	neutral
+corpus_1676637.txt_3492_3496	neutral
+corpus_1676637.txt_3548_3550	neutral
+corpus_1676637.txt_3562_3565	neutral
+corpus_1676637.txt_3567_3572	neutral
+corpus_1676637.txt_3610_3614	neutral

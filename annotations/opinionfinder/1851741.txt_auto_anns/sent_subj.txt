@@ -1,0 +1,17 @@
+corpus_1851741.txt_9_263	obj
+corpus_1851741.txt_272_380	obj
+corpus_1851741.txt_389_560	subj
+corpus_1851741.txt_561_733	subj
+corpus_1851741.txt_742_1021	subj
+corpus_1851741.txt_1030_1127	subj
+corpus_1851741.txt_1128_1622	subj
+corpus_1851741.txt_1631_1937	subj
+corpus_1851741.txt_1938_2079	subj
+corpus_1851741.txt_2088_2286	subj
+corpus_1851741.txt_2287_2350	subj
+corpus_1851741.txt_2359_2419	obj
+corpus_1851741.txt_2420_2559	obj
+corpus_1851741.txt_2560_2714	subj
+corpus_1851741.txt_2723_2919	subj
+corpus_1851741.txt_2920_3045	obj
+corpus_1851741.txt_3054_3065	obj

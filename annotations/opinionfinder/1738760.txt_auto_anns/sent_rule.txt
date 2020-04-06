@@ -1,0 +1,16 @@
+corpus_1738760.txt_9_360	unknown
+corpus_1738760.txt_369_504	unknown
+corpus_1738760.txt_505_704	unknown
+corpus_1738760.txt_705_950	unknown
+corpus_1738760.txt_959_1260	unknown
+corpus_1738760.txt_1261_1405	unknown
+corpus_1738760.txt_1414_1500	obj
+corpus_1738760.txt_1501_1559	unknown
+corpus_1738760.txt_1560_1801	unknown
+corpus_1738760.txt_1810_1980	unknown
+corpus_1738760.txt_1981_2114	unknown
+corpus_1738760.txt_2123_2340	unknown
+corpus_1738760.txt_2341_2491	unknown
+corpus_1738760.txt_2500_2644	unknown
+corpus_1738760.txt_2645_2788	unknown
+corpus_1738760.txt_2797_2806	obj

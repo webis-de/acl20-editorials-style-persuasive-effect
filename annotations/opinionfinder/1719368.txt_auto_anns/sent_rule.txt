@@ -1,0 +1,17 @@
+corpus_1719368.txt_9_224	unknown
+corpus_1719368.txt_225_445	unknown
+corpus_1719368.txt_454_622	unknown
+corpus_1719368.txt_623_688	unknown
+corpus_1719368.txt_689_817	unknown
+corpus_1719368.txt_818_1055	unknown
+corpus_1719368.txt_1064_1205	unknown
+corpus_1719368.txt_1206_1344	unknown
+corpus_1719368.txt_1345_1642	subj
+corpus_1719368.txt_1651_1802	unknown
+corpus_1719368.txt_1803_2274	unknown
+corpus_1719368.txt_2283_2377	unknown
+corpus_1719368.txt_2378_2532	unknown
+corpus_1719368.txt_2533_2779	unknown
+corpus_1719368.txt_2780_2874	unknown
+corpus_1719368.txt_2883_2973	unknown
+corpus_1719368.txt_2974_3035	unknown

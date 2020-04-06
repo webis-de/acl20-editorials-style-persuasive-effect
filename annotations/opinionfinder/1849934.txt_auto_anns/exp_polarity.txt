@@ -1,0 +1,8 @@
+corpus_1849934.txt_2368_2373	neutral
+corpus_1849934.txt_2381_2385	neutral
+corpus_1849934.txt_2434_2440	neutral
+corpus_1849934.txt_2470_2476	neutral
+corpus_1849934.txt_2534_2538	neutral
+corpus_1849934.txt_2550_2556	neutral
+corpus_1849934.txt_2584_2588	neutral
+corpus_1849934.txt_2619_2630	neutral

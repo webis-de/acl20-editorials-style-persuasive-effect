@@ -1,0 +1,15 @@
+corpus_1793905.txt_2061_2065	neutral
+corpus_1793905.txt_2066_2068	neutral
+corpus_1793905.txt_2085_2090	neutral
+corpus_1793905.txt_2094_2099	neutral
+corpus_1793905.txt_2118_2127	neutral
+corpus_1793905.txt_2218_2222	neutral
+corpus_1793905.txt_2238_2249	neutral
+corpus_1793905.txt_2268_2273	neutral
+corpus_1793905.txt_2279_2288	neutral
+corpus_1793905.txt_2326_2331	neutral
+corpus_1793905.txt_2332_2338	neutral
+corpus_1793905.txt_2352_2356	neutral
+corpus_1793905.txt_2365_2370	neutral
+corpus_1793905.txt_2419_2428	positive
+corpus_1793905.txt_2445_2451	neutral

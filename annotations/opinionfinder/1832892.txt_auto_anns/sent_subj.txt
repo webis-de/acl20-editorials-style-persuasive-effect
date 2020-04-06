@@ -1,0 +1,16 @@
+corpus_1832892.txt_9_279	obj
+corpus_1832892.txt_288_510	obj
+corpus_1832892.txt_511_609	subj
+corpus_1832892.txt_618_714	obj
+corpus_1832892.txt_715_861	obj
+corpus_1832892.txt_870_1095	subj
+corpus_1832892.txt_1104_1354	obj
+corpus_1832892.txt_1355_1483	obj
+corpus_1832892.txt_1492_1687	obj
+corpus_1832892.txt_1688_1932	obj
+corpus_1832892.txt_1941_2153	obj
+corpus_1832892.txt_2154_2333	subj
+corpus_1832892.txt_2342_2416	obj
+corpus_1832892.txt_2417_2569	subj
+corpus_1832892.txt_2570_2592	obj
+corpus_1832892.txt_2601_2610	obj

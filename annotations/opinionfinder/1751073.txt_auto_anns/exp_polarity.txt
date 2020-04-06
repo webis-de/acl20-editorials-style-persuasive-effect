@@ -1,0 +1,15 @@
+corpus_1751073.txt_2705_2709	positive
+corpus_1751073.txt_2713_2717	neutral
+corpus_1751073.txt_2718_2723	neutral
+corpus_1751073.txt_2763_2771	neutral
+corpus_1751073.txt_2814_2823	neutral
+corpus_1751073.txt_2878_2883	neutral
+corpus_1751073.txt_2887_2899	neutral
+corpus_1751073.txt_2900_2905	neutral
+corpus_1751073.txt_2909_2915	neutral
+corpus_1751073.txt_2919_2928	negative
+corpus_1751073.txt_2969_2974	neutral
+corpus_1751073.txt_3060_3064	neutral
+corpus_1751073.txt_3069_3073	neutral
+corpus_1751073.txt_3086_3090	neutral
+corpus_1751073.txt_3109_3117	neutral

@@ -1,0 +1,9 @@
+corpus_1855424.txt_2277_2285	neutral
+corpus_1855424.txt_2342_2347	neutral
+corpus_1855424.txt_2363_2367	neutral
+corpus_1855424.txt_2444_2456	neutral
+corpus_1855424.txt_2494_2502	neutral
+corpus_1855424.txt_2510_2514	neutral
+corpus_1855424.txt_2582_2590	neutral
+corpus_1855424.txt_2639_2645	neutral
+corpus_1855424.txt_2719_2728	neutral

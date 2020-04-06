@@ -1,0 +1,13 @@
+corpus_1673408.txt_3190_3198	positive
+corpus_1673408.txt_3257_3265	neutral
+corpus_1673408.txt_3272_3277	neutral
+corpus_1673408.txt_3282_3286	neutral
+corpus_1673408.txt_3319_3329	neutral
+corpus_1673408.txt_3334_3338	positive
+corpus_1673408.txt_3370_3374	neutral
+corpus_1673408.txt_3513_3520	negative
+corpus_1673408.txt_3542_3548	neutral
+corpus_1673408.txt_3554_3559	positive
+corpus_1673408.txt_3586_3590	neutral
+corpus_1673408.txt_3592_3602	neutral
+corpus_1673408.txt_3610_3618	negative

@@ -1,0 +1,14 @@
+corpus_1853521.txt_2463_2469	positive
+corpus_1853521.txt_2487_2492	neutral
+corpus_1853521.txt_2500_2502	neutral
+corpus_1853521.txt_2503_2512	negative
+corpus_1853521.txt_2525_2530	neutral
+corpus_1853521.txt_2531_2535	negative
+corpus_1853521.txt_2540_2544	neutral
+corpus_1853521.txt_2662_2666	neutral
+corpus_1853521.txt_2718_2720	neutral
+corpus_1853521.txt_2724_2729	neutral
+corpus_1853521.txt_2730_2736	negative
+corpus_1853521.txt_2737_2742	negative
+corpus_1853521.txt_2809_2814	negative
+corpus_1853521.txt_2857_2865	positive

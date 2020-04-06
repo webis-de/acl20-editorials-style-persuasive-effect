@@ -1,0 +1,12 @@
+corpus_1740531.txt_2325_2331	neutral
+corpus_1740531.txt_2333_2337	neutral
+corpus_1740531.txt_2348_2356	negative
+corpus_1740531.txt_2370_2376	neutral
+corpus_1740531.txt_2397_2402	negative
+corpus_1740531.txt_2451_2456	neutral
+corpus_1740531.txt_2494_2500	neutral
+corpus_1740531.txt_2524_2531	neutral
+corpus_1740531.txt_2594_2599	neutral
+corpus_1740531.txt_2609_2616	neutral
+corpus_1740531.txt_2620_2623	neutral
+corpus_1740531.txt_2632_2637	neutral

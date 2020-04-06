@@ -1,0 +1,14 @@
+corpus_1673625.txt_2908_2916	neutral
+corpus_1673625.txt_2943_2952	neutral
+corpus_1673625.txt_2959_2963	neutral
+corpus_1673625.txt_2964_2968	positive
+corpus_1673625.txt_2970_2980	neutral
+corpus_1673625.txt_2987_2993	negative
+corpus_1673625.txt_2994_3003	negative
+corpus_1673625.txt_3012_3021	negative
+corpus_1673625.txt_3092_3099	negative
+corpus_1673625.txt_3136_3141	neutral
+corpus_1673625.txt_3187_3192	neutral
+corpus_1673625.txt_3198_3202	positive
+corpus_1673625.txt_3261_3271	positive
+corpus_1673625.txt_3277_3284	neutral

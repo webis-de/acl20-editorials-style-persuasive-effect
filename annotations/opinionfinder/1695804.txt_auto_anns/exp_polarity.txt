@@ -1,0 +1,9 @@
+corpus_1695804.txt_2832_2836	neutral
+corpus_1695804.txt_2856_2862	neutral
+corpus_1695804.txt_2893_2897	neutral
+corpus_1695804.txt_2923_2934	neutral
+corpus_1695804.txt_2936_2941	neutral
+corpus_1695804.txt_2942_2946	neutral
+corpus_1695804.txt_2947_2952	neutral
+corpus_1695804.txt_2965_2972	negative
+corpus_1695804.txt_2987_3000	neutral

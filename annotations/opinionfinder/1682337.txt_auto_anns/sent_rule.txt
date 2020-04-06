@@ -1,0 +1,17 @@
+corpus_1682337.txt_9_210	obj
+corpus_1682337.txt_211_454	unknown
+corpus_1682337.txt_463_477	unknown
+corpus_1682337.txt_486_672	unknown
+corpus_1682337.txt_673_765	unknown
+corpus_1682337.txt_766_787	unknown
+corpus_1682337.txt_788_945	unknown
+corpus_1682337.txt_954_1130	unknown
+corpus_1682337.txt_1139_1390	unknown
+corpus_1682337.txt_1399_1534	unknown
+corpus_1682337.txt_1535_1858	unknown
+corpus_1682337.txt_1867_2075	subj
+corpus_1682337.txt_2076_2284	subj
+corpus_1682337.txt_2293_2310	unknown
+corpus_1682337.txt_2311_2482	unknown
+corpus_1682337.txt_2483_2573	unknown
+corpus_1682337.txt_2582_2591	obj

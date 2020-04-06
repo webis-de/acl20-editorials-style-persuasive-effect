@@ -1,0 +1,17 @@
+corpus_1650400.txt_9_247	subj
+corpus_1650400.txt_256_510	subj
+corpus_1650400.txt_511_692	obj
+corpus_1650400.txt_701_825	obj
+corpus_1650400.txt_826_968	obj
+corpus_1650400.txt_977_1151	subj
+corpus_1650400.txt_1152_1209	subj
+corpus_1650400.txt_1210_1316	subj
+corpus_1650400.txt_1325_1461	subj
+corpus_1650400.txt_1462_1751	subj
+corpus_1650400.txt_1760_1808	obj
+corpus_1650400.txt_1809_1978	obj
+corpus_1650400.txt_1979_2066	obj
+corpus_1650400.txt_2075_2182	obj
+corpus_1650400.txt_2182_2364	subj
+corpus_1650400.txt_2364_2479	obj
+corpus_1650400.txt_2488_2497	obj

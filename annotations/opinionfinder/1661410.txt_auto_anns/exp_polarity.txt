@@ -1,0 +1,12 @@
+corpus_1661410.txt_3024_3029	negative
+corpus_1661410.txt_3046_3054	neutral
+corpus_1661410.txt_3066_3072	negative
+corpus_1661410.txt_3131_3141	negative
+corpus_1661410.txt_3142_3150	negative
+corpus_1661410.txt_3198_3203	neutral
+corpus_1661410.txt_3253_3261	neutral
+corpus_1661410.txt_3262_3267	positive
+corpus_1661410.txt_3278_3283	negative
+corpus_1661410.txt_3306_3313	neutral
+corpus_1661410.txt_3336_3345	neutral
+corpus_1661410.txt_3355_3360	neutral

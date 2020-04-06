@@ -1,0 +1,10 @@
+corpus_1824628.txt_2036_2044	positive
+corpus_1824628.txt_2045_2049	negative
+corpus_1824628.txt_2053_2062	neutral
+corpus_1824628.txt_2133_2140	neutral
+corpus_1824628.txt_2220_2226	neutral
+corpus_1824628.txt_2288_2293	neutral
+corpus_1824628.txt_2302_2310	negative
+corpus_1824628.txt_2331_2341	negative
+corpus_1824628.txt_2368_2373	neutral
+corpus_1824628.txt_2384_2388	positive

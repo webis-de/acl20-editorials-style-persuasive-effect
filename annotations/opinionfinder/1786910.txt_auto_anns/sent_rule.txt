@@ -1,0 +1,16 @@
+corpus_1786910.txt_9_299	unknown
+corpus_1786910.txt_300_453	unknown
+corpus_1786910.txt_454_626	unknown
+corpus_1786910.txt_635_927	unknown
+corpus_1786910.txt_928_1132	subj
+corpus_1786910.txt_1141_1441	unknown
+corpus_1786910.txt_1442_1628	unknown
+corpus_1786910.txt_1629_1698	unknown
+corpus_1786910.txt_1707_1801	unknown
+corpus_1786910.txt_1802_1996	unknown
+corpus_1786910.txt_1997_2166	unknown
+corpus_1786910.txt_2175_2291	unknown
+corpus_1786910.txt_2292_2452	unknown
+corpus_1786910.txt_2461_2676	unknown
+corpus_1786910.txt_2677_2796	unknown
+corpus_1786910.txt_2805_2814	obj

@@ -1,0 +1,17 @@
+corpus_1821300.txt_9_120	obj
+corpus_1821300.txt_121_334	obj
+corpus_1821300.txt_335_569	subj
+corpus_1821300.txt_578_726	subj
+corpus_1821300.txt_727_917	subj
+corpus_1821300.txt_918_1068	subj
+corpus_1821300.txt_1069_1189	obj
+corpus_1821300.txt_1198_1286	obj
+corpus_1821300.txt_1287_1406	subj
+corpus_1821300.txt_1407_1542	obj
+corpus_1821300.txt_1543_1686	subj
+corpus_1821300.txt_1695_1900	subj
+corpus_1821300.txt_1901_1965	subj
+corpus_1821300.txt_1974_2122	obj
+corpus_1821300.txt_2131_2265	obj
+corpus_1821300.txt_2266_2445	obj
+corpus_1821300.txt_2454_2463	obj

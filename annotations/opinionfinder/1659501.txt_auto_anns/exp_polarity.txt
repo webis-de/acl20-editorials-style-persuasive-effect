@@ -1,0 +1,13 @@
+corpus_1659501.txt_2022_2033	neutral
+corpus_1659501.txt_2098_2102	negative
+corpus_1659501.txt_2179_2183	neutral
+corpus_1659501.txt_2191_2195	neutral
+corpus_1659501.txt_2196_2204	neutral
+corpus_1659501.txt_2242_2246	neutral
+corpus_1659501.txt_2281_2289	neutral
+corpus_1659501.txt_2291_2298	neutral
+corpus_1659501.txt_2368_2373	neutral
+corpus_1659501.txt_2390_2396	neutral
+corpus_1659501.txt_2415_2422	neutral
+corpus_1659501.txt_2476_2479	neutral
+corpus_1659501.txt_2508_2512	neutral

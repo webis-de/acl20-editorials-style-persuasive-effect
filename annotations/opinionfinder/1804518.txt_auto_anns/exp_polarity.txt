@@ -1,0 +1,15 @@
+corpus_1804518.txt_1979_1990	positive
+corpus_1804518.txt_2011_2017	neutral
+corpus_1804518.txt_2027_2034	neutral
+corpus_1804518.txt_2060_2064	negative
+corpus_1804518.txt_2085_2090	neutral
+corpus_1804518.txt_2151_2155	negative
+corpus_1804518.txt_2247_2255	neutral
+corpus_1804518.txt_2268_2274	neutral
+corpus_1804518.txt_2308_2316	neutral
+corpus_1804518.txt_2407_2411	neutral
+corpus_1804518.txt_2419_2424	negative
+corpus_1804518.txt_2429_2434	neutral
+corpus_1804518.txt_2452_2459	neutral
+corpus_1804518.txt_2460_2468	neutral
+corpus_1804518.txt_2484_2492	neutral

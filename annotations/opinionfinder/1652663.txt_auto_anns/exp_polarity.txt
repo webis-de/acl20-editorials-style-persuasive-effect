@@ -1,0 +1,14 @@
+corpus_1652663.txt_2594_2600	positive
+corpus_1652663.txt_2619_2625	negative
+corpus_1652663.txt_2629_2635	negative
+corpus_1652663.txt_2636_2644	negative
+corpus_1652663.txt_2697_2701	positive
+corpus_1652663.txt_2755_2760	neutral
+corpus_1652663.txt_2816_2822	neutral
+corpus_1652663.txt_2839_2847	neutral
+corpus_1652663.txt_2880_2885	neutral
+corpus_1652663.txt_2938_2946	neutral
+corpus_1652663.txt_3018_3029	neutral
+corpus_1652663.txt_3055_3061	neutral
+corpus_1652663.txt_3071_3079	neutral
+corpus_1652663.txt_3116_3121	neutral

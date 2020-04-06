@@ -1,0 +1,8 @@
+corpus_1741150.txt_3145_3149	neutral
+corpus_1741150.txt_3168_3172	neutral
+corpus_1741150.txt_3177_3181	neutral
+corpus_1741150.txt_3236_3244	neutral
+corpus_1741150.txt_3253_3259	neutral
+corpus_1741150.txt_3260_3265	positive
+corpus_1741150.txt_3270_3277	neutral
+corpus_1741150.txt_3278_3287	neutral

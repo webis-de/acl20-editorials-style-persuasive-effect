@@ -1,0 +1,17 @@
+corpus_1675619.txt_9_242	subj
+corpus_1675619.txt_243_341	obj
+corpus_1675619.txt_350_606	subj
+corpus_1675619.txt_607_715	obj
+corpus_1675619.txt_724_1020	subj
+corpus_1675619.txt_1021_1194	obj
+corpus_1675619.txt_1203_1347	subj
+corpus_1675619.txt_1348_1588	subj
+corpus_1675619.txt_1589_1830	subj
+corpus_1675619.txt_1839_2040	subj
+corpus_1675619.txt_2049_2104	subj
+corpus_1675619.txt_2105_2412	obj
+corpus_1675619.txt_2413_2585	subj
+corpus_1675619.txt_2594_2766	obj
+corpus_1675619.txt_2767_2921	subj
+corpus_1675619.txt_2930_3050	obj
+corpus_1675619.txt_3059_3068	obj

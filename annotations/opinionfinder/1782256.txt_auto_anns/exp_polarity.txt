@@ -1,0 +1,6 @@
+corpus_1782256.txt_2415_2422	neutral
+corpus_1782256.txt_2443_2447	neutral
+corpus_1782256.txt_2473_2477	neutral
+corpus_1782256.txt_2478_2484	negative
+corpus_1782256.txt_2502_2507	neutral
+corpus_1782256.txt_2552_2560	neutral

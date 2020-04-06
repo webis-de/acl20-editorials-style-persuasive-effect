@@ -1,0 +1,5 @@
+corpus_1704105.txt_2309_2314	neutral
+corpus_1704105.txt_2323_2331	neutral
+corpus_1704105.txt_2413_2417	neutral
+corpus_1704105.txt_2423_2427	neutral
+corpus_1704105.txt_2441_2450	positive

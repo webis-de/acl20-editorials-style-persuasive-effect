@@ -1,0 +1,5 @@
+corpus_1796192.txt_2307_2311	positive
+corpus_1796192.txt_2321_2329	negative
+corpus_1796192.txt_2330_2335	negative
+corpus_1796192.txt_2341_2346	positive
+corpus_1796192.txt_2367_2372	negative

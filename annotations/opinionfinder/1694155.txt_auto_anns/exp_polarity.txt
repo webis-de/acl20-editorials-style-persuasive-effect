@@ -1,0 +1,10 @@
+corpus_1694155.txt_2935_2941	neutral
+corpus_1694155.txt_2950_2955	neutral
+corpus_1694155.txt_2987_2991	neutral
+corpus_1694155.txt_2997_3001	neutral
+corpus_1694155.txt_3015_3021	neutral
+corpus_1694155.txt_3046_3052	neutral
+corpus_1694155.txt_3104_3108	neutral
+corpus_1694155.txt_3143_3151	neutral
+corpus_1694155.txt_3200_3206	neutral
+corpus_1694155.txt_3210_3218	neutral

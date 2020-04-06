@@ -1,0 +1,14 @@
+corpus_1817567.txt_9_245	obj
+corpus_1817567.txt_246_380	unknown
+corpus_1817567.txt_389_517	unknown
+corpus_1817567.txt_518_732	unknown
+corpus_1817567.txt_741_1010	unknown
+corpus_1817567.txt_1011_1137	subj
+corpus_1817567.txt_1146_1357	unknown
+corpus_1817567.txt_1358_1586	unknown
+corpus_1817567.txt_1595_1882	unknown
+corpus_1817567.txt_1891_2086	unknown
+corpus_1817567.txt_2087_2224	unknown
+corpus_1817567.txt_2233_2358	unknown
+corpus_1817567.txt_2359_2559	unknown
+corpus_1817567.txt_2568_2577	obj

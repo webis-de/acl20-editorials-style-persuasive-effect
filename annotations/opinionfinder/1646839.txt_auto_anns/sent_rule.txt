@@ -1,0 +1,16 @@
+corpus_1646839.txt_9_51	obj
+corpus_1646839.txt_52_284	unknown
+corpus_1646839.txt_285_499	unknown
+corpus_1646839.txt_508_702	unknown
+corpus_1646839.txt_703_849	unknown
+corpus_1646839.txt_850_1048	unknown
+corpus_1646839.txt_1057_1408	unknown
+corpus_1646839.txt_1417_1664	unknown
+corpus_1646839.txt_1665_1848	unknown
+corpus_1646839.txt_1857_1921	unknown
+corpus_1646839.txt_1922_2221	unknown
+corpus_1646839.txt_2222_2357	unknown
+corpus_1646839.txt_2358_2639	unknown
+corpus_1646839.txt_2648_2879	unknown
+corpus_1646839.txt_2880_3155	unknown
+corpus_1646839.txt_3164_3173	unknown

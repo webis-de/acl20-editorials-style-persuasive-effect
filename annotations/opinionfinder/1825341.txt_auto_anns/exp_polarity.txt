@@ -1,0 +1,8 @@
+corpus_1825341.txt_2969_2977	neutral
+corpus_1825341.txt_3000_3008	neutral
+corpus_1825341.txt_3080_3082	neutral
+corpus_1825341.txt_3105_3111	neutral
+corpus_1825341.txt_3157_3163	neutral
+corpus_1825341.txt_3193_3197	neutral
+corpus_1825341.txt_3223_3229	neutral
+corpus_1825341.txt_3248_3258	neutral

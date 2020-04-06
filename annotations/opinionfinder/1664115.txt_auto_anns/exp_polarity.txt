@@ -1,0 +1,15 @@
+corpus_1664115.txt_2846_2855	neutral
+corpus_1664115.txt_2867_2872	neutral
+corpus_1664115.txt_2873_2882	neutral
+corpus_1664115.txt_2900_2905	neutral
+corpus_1664115.txt_2917_2923	neutral
+corpus_1664115.txt_2949_2957	neutral
+corpus_1664115.txt_2961_2968	neutral
+corpus_1664115.txt_2972_2978	neutral
+corpus_1664115.txt_3101_3107	positive
+corpus_1664115.txt_3139_3145	neutral
+corpus_1664115.txt_3146_3153	neutral
+corpus_1664115.txt_3192_3196	negative
+corpus_1664115.txt_3197_3202	negative
+corpus_1664115.txt_3375_3380	negative
+corpus_1664115.txt_3404_3409	neutral

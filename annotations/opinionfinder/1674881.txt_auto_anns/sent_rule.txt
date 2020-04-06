@@ -1,0 +1,16 @@
+corpus_1674881.txt_9_156	unknown
+corpus_1674881.txt_157_425	subj
+corpus_1674881.txt_426_603	unknown
+corpus_1674881.txt_604_806	unknown
+corpus_1674881.txt_815_937	subj
+corpus_1674881.txt_938_1160	subj
+corpus_1674881.txt_1161_1298	unknown
+corpus_1674881.txt_1299_1443	unknown
+corpus_1674881.txt_1452_1693	unknown
+corpus_1674881.txt_1694_1837	unknown
+corpus_1674881.txt_1838_2045	unknown
+corpus_1674881.txt_2046_2161	unknown
+corpus_1674881.txt_2170_2451	unknown
+corpus_1674881.txt_2452_2525	unknown
+corpus_1674881.txt_2526_2605	unknown
+corpus_1674881.txt_2606_2709	unknown

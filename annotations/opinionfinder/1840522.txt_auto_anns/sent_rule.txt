@@ -1,0 +1,17 @@
+corpus_1840522.txt_9_166	unknown
+corpus_1840522.txt_167_370	unknown
+corpus_1840522.txt_379_503	unknown
+corpus_1840522.txt_512_745	subj
+corpus_1840522.txt_754_852	unknown
+corpus_1840522.txt_853_1021	unknown
+corpus_1840522.txt_1030_1245	unknown
+corpus_1840522.txt_1246_1496	unknown
+corpus_1840522.txt_1505_1825	subj
+corpus_1840522.txt_1834_1936	unknown
+corpus_1840522.txt_1937_2079	unknown
+corpus_1840522.txt_2088_2204	unknown
+corpus_1840522.txt_2205_2387	unknown
+corpus_1840522.txt_2396_2518	unknown
+corpus_1840522.txt_2519_2601	unknown
+corpus_1840522.txt_2602_2682	unknown
+corpus_1840522.txt_2691_2699	obj

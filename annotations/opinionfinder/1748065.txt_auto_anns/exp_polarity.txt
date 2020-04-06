@@ -1,0 +1,6 @@
+corpus_1748065.txt_2615_2620	negative
+corpus_1748065.txt_2642_2647	negative
+corpus_1748065.txt_2653_2660	neutral
+corpus_1748065.txt_2664_2668	neutral
+corpus_1748065.txt_2688_2697	neutral
+corpus_1748065.txt_2707_2710	negative

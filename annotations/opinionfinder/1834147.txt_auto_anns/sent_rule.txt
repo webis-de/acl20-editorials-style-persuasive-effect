@@ -1,0 +1,13 @@
+corpus_1834147.txt_9_118	obj
+corpus_1834147.txt_119_204	unknown
+corpus_1834147.txt_205_437	subj
+corpus_1834147.txt_446_796	unknown
+corpus_1834147.txt_797_887	unknown
+corpus_1834147.txt_896_1094	unknown
+corpus_1834147.txt_1095_1241	unknown
+corpus_1834147.txt_1250_1437	unknown
+corpus_1834147.txt_1438_1931	unknown
+corpus_1834147.txt_1940_2216	unknown
+corpus_1834147.txt_2217_2386	unknown
+corpus_1834147.txt_2395_2590	unknown
+corpus_1834147.txt_2591_2642	obj

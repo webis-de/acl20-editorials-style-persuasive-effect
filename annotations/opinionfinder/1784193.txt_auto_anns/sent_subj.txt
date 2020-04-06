@@ -1,0 +1,15 @@
+corpus_1784193.txt_9_217	subj
+corpus_1784193.txt_218_388	subj
+corpus_1784193.txt_389_493	obj
+corpus_1784193.txt_502_867	subj
+corpus_1784193.txt_868_1001	obj
+corpus_1784193.txt_1002_1133	obj
+corpus_1784193.txt_1134_1313	obj
+corpus_1784193.txt_1314_1482	subj
+corpus_1784193.txt_1491_1734	subj
+corpus_1784193.txt_1735_1911	subj
+corpus_1784193.txt_1912_2048	subj
+corpus_1784193.txt_2057_2410	subj
+corpus_1784193.txt_2411_2528	obj
+corpus_1784193.txt_2529_2686	subj
+corpus_1784193.txt_2695_2703	obj

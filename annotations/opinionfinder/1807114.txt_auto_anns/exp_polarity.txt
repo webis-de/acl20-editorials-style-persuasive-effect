@@ -1,0 +1,11 @@
+corpus_1807114.txt_2468_2470	neutral
+corpus_1807114.txt_2538_2543	neutral
+corpus_1807114.txt_2565_2569	neutral
+corpus_1807114.txt_2722_2730	neutral
+corpus_1807114.txt_2739_2745	neutral
+corpus_1807114.txt_2746_2752	neutral
+corpus_1807114.txt_2802_2804	neutral
+corpus_1807114.txt_2843_2848	neutral
+corpus_1807114.txt_2916_2921	neutral
+corpus_1807114.txt_2938_2943	neutral
+corpus_1807114.txt_3008_3014	neutral

@@ -1,0 +1,17 @@
+corpus_1807116.txt_9_92	obj
+corpus_1807116.txt_93_214	subj
+corpus_1807116.txt_215_328	subj
+corpus_1807116.txt_337_515	subj
+corpus_1807116.txt_516_729	obj
+corpus_1807116.txt_738_998	obj
+corpus_1807116.txt_999_1279	subj
+corpus_1807116.txt_1288_1576	obj
+corpus_1807116.txt_1585_1728	obj
+corpus_1807116.txt_1729_1916	subj
+corpus_1807116.txt_1925_1987	subj
+corpus_1807116.txt_1988_2169	subj
+corpus_1807116.txt_2170_2244	subj
+corpus_1807116.txt_2245_2440	subj
+corpus_1807116.txt_2449_2548	subj
+corpus_1807116.txt_2549_2647	subj
+corpus_1807116.txt_2656_2665	obj

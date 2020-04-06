@@ -1,0 +1,13 @@
+corpus_1744436.txt_9_212	obj
+corpus_1744436.txt_221_495	subj
+corpus_1744436.txt_496_542	obj
+corpus_1744436.txt_551_849	subj
+corpus_1744436.txt_850_1050	obj
+corpus_1744436.txt_1051_1146	subj
+corpus_1744436.txt_1147_1330	subj
+corpus_1744436.txt_1339_1669	subj
+corpus_1744436.txt_1678_1772	subj
+corpus_1744436.txt_1773_2020	subj
+corpus_1744436.txt_2029_2119	obj
+corpus_1744436.txt_2120_2284	subj
+corpus_1744436.txt_2285_2489	subj

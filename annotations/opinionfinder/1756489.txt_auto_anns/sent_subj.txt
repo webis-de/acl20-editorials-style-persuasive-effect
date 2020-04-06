@@ -1,0 +1,14 @@
+corpus_1756489.txt_9_368	subj
+corpus_1756489.txt_377_589	subj
+corpus_1756489.txt_590_749	obj
+corpus_1756489.txt_758_873	subj
+corpus_1756489.txt_882_1132	subj
+corpus_1756489.txt_1133_1278	obj
+corpus_1756489.txt_1287_1486	subj
+corpus_1756489.txt_1487_1686	subj
+corpus_1756489.txt_1695_1922	subj
+corpus_1756489.txt_1931_2086	subj
+corpus_1756489.txt_2087_2135	obj
+corpus_1756489.txt_2144_2429	obj
+corpus_1756489.txt_2438_2512	obj
+corpus_1756489.txt_2513_2549	obj

@@ -1,0 +1,6 @@
+corpus_1849004.txt_3355_3360	neutral
+corpus_1849004.txt_3364_3370	neutral
+corpus_1849004.txt_3399_3406	neutral
+corpus_1849004.txt_3424_3434	neutral
+corpus_1849004.txt_3458_3470	neutral
+corpus_1849004.txt_3562_3571	neutral

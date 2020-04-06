@@ -1,0 +1,12 @@
+corpus_1843224.txt_2733_2739	neutral
+corpus_1843224.txt_2747_2753	neutral
+corpus_1843224.txt_2757_2761	neutral
+corpus_1843224.txt_2769_2777	neutral
+corpus_1843224.txt_2792_2796	neutral
+corpus_1843224.txt_2797_2804	positive
+corpus_1843224.txt_2815_2821	neutral
+corpus_1843224.txt_2882_2889	neutral
+corpus_1843224.txt_2890_2895	neutral
+corpus_1843224.txt_2896_2902	neutral
+corpus_1843224.txt_2928_2934	negative
+corpus_1843224.txt_2935_2939	neutral

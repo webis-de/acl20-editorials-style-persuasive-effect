@@ -1,0 +1,4 @@
+corpus_1695196.txt_2529_2533	neutral
+corpus_1695196.txt_2553_2556	negative
+corpus_1695196.txt_2557_2565	negative
+corpus_1695196.txt_2594_2605	neutral

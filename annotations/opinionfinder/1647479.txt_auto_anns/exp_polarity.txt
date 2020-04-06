@@ -1,0 +1,10 @@
+corpus_1647479.txt_2191_2197	neutral
+corpus_1647479.txt_2206_2210	neutral
+corpus_1647479.txt_2234_2240	neutral
+corpus_1647479.txt_2277_2281	neutral
+corpus_1647479.txt_2293_2300	neutral
+corpus_1647479.txt_2335_2341	neutral
+corpus_1647479.txt_2345_2356	neutral
+corpus_1647479.txt_2357_2359	neutral
+corpus_1647479.txt_2378_2382	neutral
+corpus_1647479.txt_2383_2387	neutral

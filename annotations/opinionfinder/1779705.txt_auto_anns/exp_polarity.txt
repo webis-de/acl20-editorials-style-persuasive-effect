@@ -1,0 +1,9 @@
+corpus_1779705.txt_3197_3206	negative
+corpus_1779705.txt_3239_3245	negative
+corpus_1779705.txt_3246_3253	negative
+corpus_1779705.txt_3272_3282	negative
+corpus_1779705.txt_3292_3303	negative
+corpus_1779705.txt_3352_3359	positive
+corpus_1779705.txt_3360_3366	positive
+corpus_1779705.txt_3389_3395	neutral
+corpus_1779705.txt_3417_3422	neutral

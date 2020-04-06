@@ -1,0 +1,16 @@
+corpus_1830984.txt_3100_3107	neutral
+corpus_1830984.txt_3132_3136	neutral
+corpus_1830984.txt_3140_3144	neutral
+corpus_1830984.txt_3145_3152	positive
+corpus_1830984.txt_3154_3163	negative
+corpus_1830984.txt_3171_3181	negative
+corpus_1830984.txt_3185_3192	neutral
+corpus_1830984.txt_3226_3233	neutral
+corpus_1830984.txt_3261_3265	negative
+corpus_1830984.txt_3280_3285	neutral
+corpus_1830984.txt_3294_3300	neutral
+corpus_1830984.txt_3320_3325	neutral
+corpus_1830984.txt_3329_3333	neutral
+corpus_1830984.txt_3352_3359	neutral
+corpus_1830984.txt_3383_3389	neutral
+corpus_1830984.txt_3413_3421	neutral

@@ -1,0 +1,9 @@
+corpus_1808081.txt_2329_2344	neutral
+corpus_1808081.txt_2349_2356	positive
+corpus_1808081.txt_2371_2376	neutral
+corpus_1808081.txt_2385_2389	negative
+corpus_1808081.txt_2393_2404	negative
+corpus_1808081.txt_2419_2426	positive
+corpus_1808081.txt_2449_2458	positive
+corpus_1808081.txt_2510_2513	neutral
+corpus_1808081.txt_2539_2545	positive

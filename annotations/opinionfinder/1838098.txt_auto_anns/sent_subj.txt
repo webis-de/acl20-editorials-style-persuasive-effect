@@ -1,0 +1,16 @@
+corpus_1838098.txt_9_173	obj
+corpus_1838098.txt_173_314	obj
+corpus_1838098.txt_323_413	obj
+corpus_1838098.txt_414_532	obj
+corpus_1838098.txt_533_835	subj
+corpus_1838098.txt_844_919	obj
+corpus_1838098.txt_920_1068	obj
+corpus_1838098.txt_1069_1405	subj
+corpus_1838098.txt_1414_1533	subj
+corpus_1838098.txt_1542_1812	subj
+corpus_1838098.txt_1813_1997	obj
+corpus_1838098.txt_2006_2198	obj
+corpus_1838098.txt_2199_2354	obj
+corpus_1838098.txt_2363_2577	subj
+corpus_1838098.txt_2586_2692	obj
+corpus_1838098.txt_2701_2710	obj

@@ -1,0 +1,6 @@
+corpus_1821300.txt_2271_2276	neutral
+corpus_1821300.txt_2277_2287	negative
+corpus_1821300.txt_2335_2342	neutral
+corpus_1821300.txt_2360_2370	neutral
+corpus_1821300.txt_2389_2395	negative
+corpus_1821300.txt_2421_2425	neutral

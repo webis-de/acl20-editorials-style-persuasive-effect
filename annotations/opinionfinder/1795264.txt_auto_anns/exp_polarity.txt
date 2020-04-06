@@ -1,0 +1,10 @@
+corpus_1795264.txt_2257_2265	neutral
+corpus_1795264.txt_2270_2276	neutral
+corpus_1795264.txt_2337_2343	neutral
+corpus_1795264.txt_2447_2453	neutral
+corpus_1795264.txt_2491_2496	neutral
+corpus_1795264.txt_2497_2503	positive
+corpus_1795264.txt_2504_2514	positive
+corpus_1795264.txt_2515_2528	negative
+corpus_1795264.txt_2533_2542	positive
+corpus_1795264.txt_2560_2565	neutral

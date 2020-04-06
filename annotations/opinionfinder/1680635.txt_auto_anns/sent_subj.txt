@@ -1,0 +1,13 @@
+corpus_1680635.txt_9_271	subj
+corpus_1680635.txt_272_413	subj
+corpus_1680635.txt_414_596	subj
+corpus_1680635.txt_605_955	subj
+corpus_1680635.txt_964_1208	obj
+corpus_1680635.txt_1209_1337	subj
+corpus_1680635.txt_1346_1722	subj
+corpus_1680635.txt_1731_2017	subj
+corpus_1680635.txt_2026_2402	subj
+corpus_1680635.txt_2411_2743	subj
+corpus_1680635.txt_2752_2926	obj
+corpus_1680635.txt_2927_3175	subj
+corpus_1680635.txt_3184_3193	obj

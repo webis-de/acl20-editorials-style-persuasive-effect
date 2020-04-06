@@ -1,0 +1,17 @@
+corpus_1758222.txt_9_187	obj
+corpus_1758222.txt_196_370	unknown
+corpus_1758222.txt_371_543	unknown
+corpus_1758222.txt_544_677	unknown
+corpus_1758222.txt_686_1086	unknown
+corpus_1758222.txt_1095_1219	unknown
+corpus_1758222.txt_1220_1472	unknown
+corpus_1758222.txt_1481_1655	unknown
+corpus_1758222.txt_1664_1809	obj
+corpus_1758222.txt_1810_2022	unknown
+corpus_1758222.txt_2031_2079	unknown
+corpus_1758222.txt_2080_2347	unknown
+corpus_1758222.txt_2356_2416	unknown
+corpus_1758222.txt_2417_2533	unknown
+corpus_1758222.txt_2534_2643	unknown
+corpus_1758222.txt_2644_2741	unknown
+corpus_1758222.txt_2750_2758	obj

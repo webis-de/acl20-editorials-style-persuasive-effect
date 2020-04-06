@@ -1,0 +1,3 @@
+corpus_1673910.txt_2668_2675	neutral
+corpus_1673910.txt_2679_2689	neutral
+corpus_1673910.txt_2690_2695	positive

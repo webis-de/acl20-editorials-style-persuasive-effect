@@ -1,0 +1,7 @@
+corpus_1710401.txt_2193_2201	neutral
+corpus_1710401.txt_2212_2222	positive
+corpus_1710401.txt_2254_2263	neutral
+corpus_1710401.txt_2267_2270	neutral
+corpus_1710401.txt_2300_2306	neutral
+corpus_1710401.txt_2348_2354	neutral
+corpus_1710401.txt_2420_2426	neutral

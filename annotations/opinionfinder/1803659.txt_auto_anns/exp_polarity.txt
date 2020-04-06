@@ -1,0 +1,16 @@
+corpus_1803659.txt_2080_2085	neutral
+corpus_1803659.txt_2094_2099	neutral
+corpus_1803659.txt_2141_2150	neutral
+corpus_1803659.txt_2199_2207	neutral
+corpus_1803659.txt_2215_2219	neutral
+corpus_1803659.txt_2262_2269	neutral
+corpus_1803659.txt_2270_2277	neutral
+corpus_1803659.txt_2301_2306	positive
+corpus_1803659.txt_2329_2334	neutral
+corpus_1803659.txt_2364_2372	neutral
+corpus_1803659.txt_2403_2413	negative
+corpus_1803659.txt_2414_2417	negative
+corpus_1803659.txt_2430_2437	neutral
+corpus_1803659.txt_2457_2461	neutral
+corpus_1803659.txt_2471_2476	negative
+corpus_1803659.txt_2482_2486	neutral

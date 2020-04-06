@@ -1,0 +1,17 @@
+corpus_1758222.txt_9_187	obj
+corpus_1758222.txt_196_370	obj
+corpus_1758222.txt_371_543	subj
+corpus_1758222.txt_544_677	obj
+corpus_1758222.txt_686_1086	subj
+corpus_1758222.txt_1095_1219	subj
+corpus_1758222.txt_1220_1472	subj
+corpus_1758222.txt_1481_1655	obj
+corpus_1758222.txt_1664_1809	obj
+corpus_1758222.txt_1810_2022	obj
+corpus_1758222.txt_2031_2079	subj
+corpus_1758222.txt_2080_2347	subj
+corpus_1758222.txt_2356_2416	obj
+corpus_1758222.txt_2417_2533	obj
+corpus_1758222.txt_2534_2643	subj
+corpus_1758222.txt_2644_2741	obj
+corpus_1758222.txt_2750_2758	obj

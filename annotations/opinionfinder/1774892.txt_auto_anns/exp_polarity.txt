@@ -1,0 +1,6 @@
+corpus_1774892.txt_2540_2545	neutral
+corpus_1774892.txt_2560_2566	negative
+corpus_1774892.txt_2606_2616	negative
+corpus_1774892.txt_2721_2729	neutral
+corpus_1774892.txt_2747_2754	neutral
+corpus_1774892.txt_2776_2783	neutral

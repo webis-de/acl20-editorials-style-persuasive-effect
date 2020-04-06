@@ -1,0 +1,5 @@
+corpus_1698569.txt_2555_2559	neutral
+corpus_1698569.txt_2571_2578	neutral
+corpus_1698569.txt_2585_2587	neutral
+corpus_1698569.txt_2600_2604	neutral
+corpus_1698569.txt_2627_2637	neutral

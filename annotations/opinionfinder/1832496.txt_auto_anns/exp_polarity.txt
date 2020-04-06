@@ -1,0 +1,3 @@
+corpus_1832496.txt_3230_3237	positive
+corpus_1832496.txt_3238_3243	neutral
+corpus_1832496.txt_3261_3272	neutral

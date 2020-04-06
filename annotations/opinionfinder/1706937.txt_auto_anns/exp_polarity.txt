@@ -1,0 +1,5 @@
+corpus_1706937.txt_2630_2637	negative
+corpus_1706937.txt_2643_2651	negative
+corpus_1706937.txt_2693_2697	neutral
+corpus_1706937.txt_2701_2708	negative
+corpus_1706937.txt_2709_2713	neutral

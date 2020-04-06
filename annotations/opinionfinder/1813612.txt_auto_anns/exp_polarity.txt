@@ -1,0 +1,12 @@
+corpus_1813612.txt_1867_1877	neutral
+corpus_1813612.txt_1978_1984	neutral
+corpus_1813612.txt_2045_2052	positive
+corpus_1813612.txt_2053_2059	negative
+corpus_1813612.txt_2127_2134	positive
+corpus_1813612.txt_2139_2145	neutral
+corpus_1813612.txt_2188_2194	neutral
+corpus_1813612.txt_2337_2344	neutral
+corpus_1813612.txt_2359_2365	neutral
+corpus_1813612.txt_2418_2423	neutral
+corpus_1813612.txt_2449_2466	negative
+corpus_1813612.txt_2479_2491	negative

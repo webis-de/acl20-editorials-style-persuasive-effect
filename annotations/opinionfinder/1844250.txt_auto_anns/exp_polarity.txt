@@ -1,0 +1,9 @@
+corpus_1844250.txt_2531_2535	neutral
+corpus_1844250.txt_2563_2573	neutral
+corpus_1844250.txt_2597_2602	neutral
+corpus_1844250.txt_2636_2640	neutral
+corpus_1844250.txt_2746_2752	neutral
+corpus_1844250.txt_2799_2803	neutral
+corpus_1844250.txt_2887_2893	neutral
+corpus_1844250.txt_2901_2910	neutral
+corpus_1844250.txt_2919_2926	neutral

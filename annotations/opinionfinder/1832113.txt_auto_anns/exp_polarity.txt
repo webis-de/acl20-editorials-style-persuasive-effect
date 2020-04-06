@@ -1,0 +1,9 @@
+corpus_1832113.txt_3311_3315	positive
+corpus_1832113.txt_3319_3324	neutral
+corpus_1832113.txt_3352_3365	positive
+corpus_1832113.txt_3422_3426	neutral
+corpus_1832113.txt_3427_3435	neutral
+corpus_1832113.txt_3472_3482	neutral
+corpus_1832113.txt_3505_3511	positive
+corpus_1832113.txt_3518_3524	neutral
+corpus_1832113.txt_3525_3530	neutral

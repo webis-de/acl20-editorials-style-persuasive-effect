@@ -1,0 +1,13 @@
+corpus_1693956.txt_1885_1897	neutral
+corpus_1693956.txt_1898_1906	neutral
+corpus_1693956.txt_1942_1948	neutral
+corpus_1693956.txt_1956_1958	neutral
+corpus_1693956.txt_1959_1963	negative
+corpus_1693956.txt_2012_2018	neutral
+corpus_1693956.txt_2184_2190	neutral
+corpus_1693956.txt_2280_2290	neutral
+corpus_1693956.txt_2427_2436	neutral
+corpus_1693956.txt_2474_2480	neutral
+corpus_1693956.txt_2491_2502	neutral
+corpus_1693956.txt_2550_2556	negative
+corpus_1693956.txt_2603_2612	neutral

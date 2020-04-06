@@ -1,0 +1,11 @@
+corpus_1656568.txt_2949_2953	neutral
+corpus_1656568.txt_2954_2962	negative
+corpus_1656568.txt_2985_2990	negative
+corpus_1656568.txt_2996_3000	negative
+corpus_1656568.txt_3056_3061	negative
+corpus_1656568.txt_3073_3082	negative
+corpus_1656568.txt_3124_3131	negative
+corpus_1656568.txt_3136_3143	negative
+corpus_1656568.txt_3148_3156	negative
+corpus_1656568.txt_3177_3186	negative
+corpus_1656568.txt_3188_3195	negative

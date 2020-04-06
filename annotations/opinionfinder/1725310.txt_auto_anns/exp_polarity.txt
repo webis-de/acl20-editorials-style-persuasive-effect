@@ -1,0 +1,3 @@
+corpus_1725310.txt_3061_3065	positive
+corpus_1725310.txt_3066_3071	negative
+corpus_1725310.txt_3090_3100	negative

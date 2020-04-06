@@ -1,0 +1,5 @@
+corpus_1827135.txt_2943_2949	neutral
+corpus_1827135.txt_2997_3005	neutral
+corpus_1827135.txt_3019_3024	neutral
+corpus_1827135.txt_3028_3036	positive
+corpus_1827135.txt_3090_3096	neutral

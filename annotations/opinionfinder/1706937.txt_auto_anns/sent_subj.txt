@@ -1,0 +1,13 @@
+corpus_1706937.txt_9_241	subj
+corpus_1706937.txt_242_425	subj
+corpus_1706937.txt_434_781	obj
+corpus_1706937.txt_782_956	obj
+corpus_1706937.txt_965_1282	subj
+corpus_1706937.txt_1283_1476	subj
+corpus_1706937.txt_1485_1758	subj
+corpus_1706937.txt_1767_1846	subj
+corpus_1706937.txt_1847_2082	obj
+corpus_1706937.txt_2091_2420	subj
+corpus_1706937.txt_2429_2522	obj
+corpus_1706937.txt_2523_2626	obj
+corpus_1706937.txt_2627_2741	subj

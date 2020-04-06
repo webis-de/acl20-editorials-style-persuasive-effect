@@ -1,0 +1,3 @@
+corpus_1806247.txt_2947_2951	neutral
+corpus_1806247.txt_2986_2993	neutral
+corpus_1806247.txt_2997_3003	neutral

@@ -1,0 +1,16 @@
+corpus_1781023.txt_9_166	unknown
+corpus_1781023.txt_167_376	subj
+corpus_1781023.txt_385_575	unknown
+corpus_1781023.txt_576_756	unknown
+corpus_1781023.txt_765_999	subj
+corpus_1781023.txt_1000_1172	unknown
+corpus_1781023.txt_1181_1393	unknown
+corpus_1781023.txt_1394_1642	unknown
+corpus_1781023.txt_1651_1841	subj
+corpus_1781023.txt_1842_1969	unknown
+corpus_1781023.txt_1970_2041	obj
+corpus_1781023.txt_2050_2152	obj
+corpus_1781023.txt_2153_2326	unknown
+corpus_1781023.txt_2327_2562	unknown
+corpus_1781023.txt_2571_2673	obj
+corpus_1781023.txt_2682_2692	obj

@@ -1,0 +1,11 @@
+corpus_1654869.txt_2657_2667	neutral
+corpus_1654869.txt_2696_2705	positive
+corpus_1654869.txt_2709_2714	positive
+corpus_1654869.txt_2727_2735	negative
+corpus_1654869.txt_2784_2789	neutral
+corpus_1654869.txt_2790_2795	neutral
+corpus_1654869.txt_2848_2858	negative
+corpus_1654869.txt_3072_3076	neutral
+corpus_1654869.txt_3082_3088	neutral
+corpus_1654869.txt_3120_3126	neutral
+corpus_1654869.txt_3130_3134	neutral

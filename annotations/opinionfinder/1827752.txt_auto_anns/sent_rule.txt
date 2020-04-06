@@ -1,0 +1,14 @@
+corpus_1827752.txt_9_346	unknown
+corpus_1827752.txt_355_502	unknown
+corpus_1827752.txt_503_730	subj
+corpus_1827752.txt_739_939	unknown
+corpus_1827752.txt_948_1100	unknown
+corpus_1827752.txt_1101_1179	unknown
+corpus_1827752.txt_1180_1441	unknown
+corpus_1827752.txt_1450_1711	unknown
+corpus_1827752.txt_1712_1850	unknown
+corpus_1827752.txt_1859_2045	subj
+corpus_1827752.txt_2046_2193	unknown
+corpus_1827752.txt_2194_2388	unknown
+corpus_1827752.txt_2389_2522	obj
+corpus_1827752.txt_2531_2540	obj

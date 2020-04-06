@@ -1,0 +1,16 @@
+corpus_1640273.txt_9_116	obj
+corpus_1640273.txt_117_500	obj
+corpus_1640273.txt_509_599	subj
+corpus_1640273.txt_600_699	obj
+corpus_1640273.txt_700_897	obj
+corpus_1640273.txt_906_1032	obj
+corpus_1640273.txt_1033_1309	subj
+corpus_1640273.txt_1310_1591	subj
+corpus_1640273.txt_1600_1775	subj
+corpus_1640273.txt_1776_1977	subj
+corpus_1640273.txt_1986_2047	obj
+corpus_1640273.txt_2048_2122	obj
+corpus_1640273.txt_2123_2357	subj
+corpus_1640273.txt_2366_2474	subj
+corpus_1640273.txt_2475_2715	obj
+corpus_1640273.txt_2724_2733	obj

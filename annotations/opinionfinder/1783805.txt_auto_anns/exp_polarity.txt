@@ -1,0 +1,8 @@
+corpus_1783805.txt_2611_2615	neutral
+corpus_1783805.txt_2628_2632	neutral
+corpus_1783805.txt_2750_2755	neutral
+corpus_1783805.txt_2768_2773	neutral
+corpus_1783805.txt_2774_2781	neutral
+corpus_1783805.txt_2803_2808	neutral
+corpus_1783805.txt_2878_2884	negative
+corpus_1783805.txt_2889_2898	negative

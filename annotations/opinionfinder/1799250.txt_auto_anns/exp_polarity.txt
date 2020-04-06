@@ -1,0 +1,8 @@
+corpus_1799250.txt_2898_2904	neutral
+corpus_1799250.txt_2921_2926	neutral
+corpus_1799250.txt_3055_3061	neutral
+corpus_1799250.txt_3089_3096	neutral
+corpus_1799250.txt_3113_3121	neutral
+corpus_1799250.txt_3143_3153	neutral
+corpus_1799250.txt_3237_3248	neutral
+corpus_1799250.txt_3249_3257	neutral

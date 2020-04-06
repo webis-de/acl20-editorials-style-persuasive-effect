@@ -1,0 +1,12 @@
+corpus_1816527.txt_1955_1962	neutral
+corpus_1816527.txt_1968_1976	neutral
+corpus_1816527.txt_2037_2043	neutral
+corpus_1816527.txt_2047_2058	neutral
+corpus_1816527.txt_2116_2124	neutral
+corpus_1816527.txt_2173_2180	neutral
+corpus_1816527.txt_2215_2221	positive
+corpus_1816527.txt_2302_2310	neutral
+corpus_1816527.txt_2314_2322	positive
+corpus_1816527.txt_2353_2358	neutral
+corpus_1816527.txt_2379_2392	neutral
+corpus_1816527.txt_2587_2594	neutral

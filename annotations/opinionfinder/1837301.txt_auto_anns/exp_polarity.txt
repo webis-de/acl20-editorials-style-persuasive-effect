@@ -1,0 +1,14 @@
+corpus_1837301.txt_2426_2430	neutral
+corpus_1837301.txt_2593_2598	neutral
+corpus_1837301.txt_2631_2635	neutral
+corpus_1837301.txt_2684_2692	positive
+corpus_1837301.txt_2697_2701	neutral
+corpus_1837301.txt_2710_2715	neutral
+corpus_1837301.txt_2738_2744	negative
+corpus_1837301.txt_2779_2786	neutral
+corpus_1837301.txt_2800_2804	neutral
+corpus_1837301.txt_2844_2850	neutral
+corpus_1837301.txt_2889_2893	neutral
+corpus_1837301.txt_2967_2977	positive
+corpus_1837301.txt_3015_3023	negative
+corpus_1837301.txt_3080_3083	neutral

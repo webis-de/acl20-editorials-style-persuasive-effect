@@ -1,0 +1,17 @@
+corpus_1698360.txt_2705_2717	neutral
+corpus_1698360.txt_2758_2765	neutral
+corpus_1698360.txt_2770_2775	positive
+corpus_1698360.txt_2791_2802	neutral
+corpus_1698360.txt_2807_2811	neutral
+corpus_1698360.txt_2812_2817	neutral
+corpus_1698360.txt_2845_2850	neutral
+corpus_1698360.txt_2880_2886	neutral
+corpus_1698360.txt_2887_2896	neutral
+corpus_1698360.txt_2902_2907	neutral
+corpus_1698360.txt_2952_2962	neutral
+corpus_1698360.txt_2975_2980	neutral
+corpus_1698360.txt_2988_2995	neutral
+corpus_1698360.txt_2996_3003	positive
+corpus_1698360.txt_3054_3061	positive
+corpus_1698360.txt_3082_3091	neutral
+corpus_1698360.txt_3128_3135	positive

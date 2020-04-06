@@ -1,0 +1,5 @@
+corpus_1769942.txt_2626_2633	neutral
+corpus_1769942.txt_2634_2638	positive
+corpus_1769942.txt_2639_2645	neutral
+corpus_1769942.txt_2666_2673	neutral
+corpus_1769942.txt_2692_2696	neutral

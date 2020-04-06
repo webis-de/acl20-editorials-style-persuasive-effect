@@ -1,0 +1,6 @@
+corpus_1821298.txt_3290_3294	negative
+corpus_1821298.txt_3300_3304	neutral
+corpus_1821298.txt_3305_3311	negative
+corpus_1821298.txt_3328_3333	neutral
+corpus_1821298.txt_3337_3341	neutral
+corpus_1821298.txt_3359_3368	neutral

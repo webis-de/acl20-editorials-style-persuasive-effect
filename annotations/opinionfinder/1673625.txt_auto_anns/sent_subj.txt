@@ -1,0 +1,17 @@
+corpus_1673625.txt_9_311	subj
+corpus_1673625.txt_312_604	subj
+corpus_1673625.txt_613_801	obj
+corpus_1673625.txt_802_879	obj
+corpus_1673625.txt_880_1023	subj
+corpus_1673625.txt_1024_1285	subj
+corpus_1673625.txt_1294_1382	obj
+corpus_1673625.txt_1383_1615	obj
+corpus_1673625.txt_1616_1741	obj
+corpus_1673625.txt_1750_1870	obj
+corpus_1673625.txt_1871_2125	subj
+corpus_1673625.txt_2126_2379	subj
+corpus_1673625.txt_2388_2680	subj
+corpus_1673625.txt_2689_2901	subj
+corpus_1673625.txt_2902_3166	subj
+corpus_1673625.txt_3167_3285	subj
+corpus_1673625.txt_3294_3303	obj

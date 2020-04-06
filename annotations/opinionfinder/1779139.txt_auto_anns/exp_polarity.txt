@@ -1,0 +1,6 @@
+corpus_1779139.txt_2827_2837	neutral
+corpus_1779139.txt_2864_2873	neutral
+corpus_1779139.txt_2934_2938	positive
+corpus_1779139.txt_2939_2950	positive
+corpus_1779139.txt_2954_2958	positive
+corpus_1779139.txt_2968_2976	neutral

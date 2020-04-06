@@ -1,0 +1,2 @@
+corpus_1822375.txt_2774_2780	neutral
+corpus_1822375.txt_2840_2850	positive

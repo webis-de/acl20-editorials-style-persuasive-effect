@@ -1,0 +1,15 @@
+corpus_1826377.txt_9_225	unknown
+corpus_1826377.txt_234_459	unknown
+corpus_1826377.txt_460_617	unknown
+corpus_1826377.txt_618_767	unknown
+corpus_1826377.txt_776_1101	unknown
+corpus_1826377.txt_1110_1248	unknown
+corpus_1826377.txt_1249_1382	unknown
+corpus_1826377.txt_1391_1630	unknown
+corpus_1826377.txt_1631_1730	unknown
+corpus_1826377.txt_1739_2033	unknown
+corpus_1826377.txt_2042_2176	obj
+corpus_1826377.txt_2177_2265	obj
+corpus_1826377.txt_2266_2348	unknown
+corpus_1826377.txt_2357_2465	unknown
+corpus_1826377.txt_2474_2483	obj

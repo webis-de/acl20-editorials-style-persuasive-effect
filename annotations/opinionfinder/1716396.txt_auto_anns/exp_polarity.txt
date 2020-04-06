@@ -1,0 +1,11 @@
+corpus_1716396.txt_3102_3107	neutral
+corpus_1716396.txt_3112_3119	negative
+corpus_1716396.txt_3123_3132	neutral
+corpus_1716396.txt_3138_3143	neutral
+corpus_1716396.txt_3164_3174	negative
+corpus_1716396.txt_3274_3278	positive
+corpus_1716396.txt_3334_3338	neutral
+corpus_1716396.txt_3342_3353	neutral
+corpus_1716396.txt_3403_3410	neutral
+corpus_1716396.txt_3454_3464	neutral
+corpus_1716396.txt_3502_3514	neutral

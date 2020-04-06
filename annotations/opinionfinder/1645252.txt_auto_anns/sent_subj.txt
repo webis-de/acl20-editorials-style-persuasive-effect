@@ -1,0 +1,13 @@
+corpus_1645252.txt_9_197	subj
+corpus_1645252.txt_206_564	subj
+corpus_1645252.txt_573_660	obj
+corpus_1645252.txt_661_751	obj
+corpus_1645252.txt_752_1196	subj
+corpus_1645252.txt_1197_1329	subj
+corpus_1645252.txt_1338_1552	subj
+corpus_1645252.txt_1561_1662	obj
+corpus_1645252.txt_1663_1751	obj
+corpus_1645252.txt_1752_2181	obj
+corpus_1645252.txt_2190_2333	obj
+corpus_1645252.txt_2334_2470	obj
+corpus_1645252.txt_2479_2488	obj

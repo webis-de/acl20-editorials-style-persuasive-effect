@@ -1,0 +1,6 @@
+corpus_1847028.txt_3094_3099	neutral
+corpus_1847028.txt_3155_3162	neutral
+corpus_1847028.txt_3199_3206	neutral
+corpus_1847028.txt_3207_3217	neutral
+corpus_1847028.txt_3228_3231	neutral
+corpus_1847028.txt_3242_3246	neutral

@@ -1,0 +1,9 @@
+corpus_1800285.txt_2249_2253	neutral
+corpus_1800285.txt_2302_2304	neutral
+corpus_1800285.txt_2305_2310	neutral
+corpus_1800285.txt_2327_2329	neutral
+corpus_1800285.txt_2330_2334	positive
+corpus_1800285.txt_2338_2346	neutral
+corpus_1800285.txt_2347_2355	positive
+corpus_1800285.txt_2382_2388	positive
+corpus_1800285.txt_2400_2405	negative

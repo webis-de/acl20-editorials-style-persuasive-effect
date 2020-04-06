@@ -1,0 +1,17 @@
+corpus_1691841.txt_9_269	unknown
+corpus_1691841.txt_270_460	unknown
+corpus_1691841.txt_469_567	unknown
+corpus_1691841.txt_568_731	unknown
+corpus_1691841.txt_732_918	unknown
+corpus_1691841.txt_927_1124	unknown
+corpus_1691841.txt_1125_1297	unknown
+corpus_1691841.txt_1306_1480	unknown
+corpus_1691841.txt_1481_1636	unknown
+corpus_1691841.txt_1645_1759	unknown
+corpus_1691841.txt_1760_1919	obj
+corpus_1691841.txt_1920_2018	obj
+corpus_1691841.txt_2019_2139	obj
+corpus_1691841.txt_2148_2239	obj
+corpus_1691841.txt_2240_2401	unknown
+corpus_1691841.txt_2402_2594	unknown
+corpus_1691841.txt_2603_2612	obj

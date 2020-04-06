@@ -1,0 +1,15 @@
+corpus_1819457.txt_9_191	unknown
+corpus_1819457.txt_192_507	unknown
+corpus_1819457.txt_516_728	unknown
+corpus_1819457.txt_729_952	unknown
+corpus_1819457.txt_961_1112	unknown
+corpus_1819457.txt_1113_1250	unknown
+corpus_1819457.txt_1259_1500	unknown
+corpus_1819457.txt_1501_1555	unknown
+corpus_1819457.txt_1564_1696	unknown
+corpus_1819457.txt_1697_1907	unknown
+corpus_1819457.txt_1908_2050	unknown
+corpus_1819457.txt_2059_2321	unknown
+corpus_1819457.txt_2330_2449	subj
+corpus_1819457.txt_2450_2552	unknown
+corpus_1819457.txt_2561_2570	obj

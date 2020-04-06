@@ -1,0 +1,13 @@
+corpus_1721070.txt_3160_3166	neutral
+corpus_1721070.txt_3264_3269	neutral
+corpus_1721070.txt_3344_3351	neutral
+corpus_1721070.txt_3373_3381	neutral
+corpus_1721070.txt_3385_3388	negative
+corpus_1721070.txt_3389_3397	negative
+corpus_1721070.txt_3398_3402	negative
+corpus_1721070.txt_3407_3410	neutral
+corpus_1721070.txt_3424_3431	negative
+corpus_1721070.txt_3432_3438	neutral
+corpus_1721070.txt_3461_3468	neutral
+corpus_1721070.txt_3502_3508	neutral
+corpus_1721070.txt_3520_3525	neutral

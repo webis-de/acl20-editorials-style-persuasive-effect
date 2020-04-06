@@ -1,0 +1,9 @@
+corpus_1764904.txt_2904_2908	neutral
+corpus_1764904.txt_3015_3022	neutral
+corpus_1764904.txt_3065_3069	neutral
+corpus_1764904.txt_3075_3081	negative
+corpus_1764904.txt_3088_3092	neutral
+corpus_1764904.txt_3175_3180	neutral
+corpus_1764904.txt_3184_3189	neutral
+corpus_1764904.txt_3281_3286	neutral
+corpus_1764904.txt_3290_3298	neutral

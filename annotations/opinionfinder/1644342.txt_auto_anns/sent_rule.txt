@@ -1,0 +1,12 @@
+corpus_1644342.txt_9_268	subj
+corpus_1644342.txt_269_509	subj
+corpus_1644342.txt_510_693	unknown
+corpus_1644342.txt_702_1050	subj
+corpus_1644342.txt_1051_1247	unknown
+corpus_1644342.txt_1248_1448	unknown
+corpus_1644342.txt_1457_1636	unknown
+corpus_1644342.txt_1637_1870	subj
+corpus_1644342.txt_1871_2176	subj
+corpus_1644342.txt_2185_2503	unknown
+corpus_1644342.txt_2504_2664	unknown
+corpus_1644342.txt_2673_2682	unknown

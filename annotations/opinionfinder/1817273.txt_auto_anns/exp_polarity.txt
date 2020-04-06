@@ -1,0 +1,3 @@
+corpus_1817273.txt_2174_2179	neutral
+corpus_1817273.txt_2193_2198	positive
+corpus_1817273.txt_2253_2262	negative

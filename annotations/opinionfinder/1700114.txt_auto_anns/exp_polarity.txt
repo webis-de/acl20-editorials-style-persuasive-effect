@@ -1,0 +1,4 @@
+corpus_1700114.txt_2615_2619	neutral
+corpus_1700114.txt_2661_2670	positive
+corpus_1700114.txt_2694_2698	neutral
+corpus_1700114.txt_2725_2732	positive

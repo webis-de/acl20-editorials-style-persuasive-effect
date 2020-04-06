@@ -1,0 +1,10 @@
+corpus_1794304.txt_2789_2793	neutral
+corpus_1794304.txt_2794_2801	positive
+corpus_1794304.txt_2806_2815	neutral
+corpus_1794304.txt_2830_2836	neutral
+corpus_1794304.txt_2847_2853	neutral
+corpus_1794304.txt_2890_2896	neutral
+corpus_1794304.txt_2903_2910	neutral
+corpus_1794304.txt_2994_3004	neutral
+corpus_1794304.txt_3009_3013	positive
+corpus_1794304.txt_3033_3035	neutral

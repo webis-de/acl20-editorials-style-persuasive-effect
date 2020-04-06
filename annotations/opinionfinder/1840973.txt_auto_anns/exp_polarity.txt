@@ -1,0 +1,3 @@
+corpus_1840973.txt_3145_3151	neutral
+corpus_1840973.txt_3170_3182	neutral
+corpus_1840973.txt_3183_3191	negative

@@ -1,0 +1,8 @@
+corpus_1850318.txt_3171_3176	neutral
+corpus_1850318.txt_3177_3182	neutral
+corpus_1850318.txt_3209_3214	neutral
+corpus_1850318.txt_3253_3263	neutral
+corpus_1850318.txt_3290_3299	positive
+corpus_1850318.txt_3371_3376	neutral
+corpus_1850318.txt_3377_3381	neutral
+corpus_1850318.txt_3385_3395	neutral

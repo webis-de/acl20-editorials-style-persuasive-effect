@@ -1,0 +1,3 @@
+corpus_1773359.txt_2750_2757	neutral
+corpus_1773359.txt_2780_2785	neutral
+corpus_1773359.txt_2786_2792	positive

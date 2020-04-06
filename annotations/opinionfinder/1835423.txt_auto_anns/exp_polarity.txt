@@ -1,0 +1,6 @@
+corpus_1835423.txt_2914_2923	neutral
+corpus_1835423.txt_2935_2938	negative
+corpus_1835423.txt_2958_2962	neutral
+corpus_1835423.txt_2990_2998	neutral
+corpus_1835423.txt_3019_3023	neutral
+corpus_1835423.txt_3024_3028	negative

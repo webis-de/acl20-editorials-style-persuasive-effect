@@ -1,0 +1,15 @@
+corpus_1652835.txt_9_339	unknown
+corpus_1652835.txt_340_712	subj
+corpus_1652835.txt_721_1050	unknown
+corpus_1652835.txt_1051_1272	unknown
+corpus_1652835.txt_1273_1395	unknown
+corpus_1652835.txt_1395_1617	unknown
+corpus_1652835.txt_1617_1720	unknown
+corpus_1652835.txt_1729_1928	unknown
+corpus_1652835.txt_1929_2159	unknown
+corpus_1652835.txt_2160_2353	unknown
+corpus_1652835.txt_2354_2514	unknown
+corpus_1652835.txt_2523_2753	unknown
+corpus_1652835.txt_2754_2973	unknown
+corpus_1652835.txt_2974_3236	unknown
+corpus_1652835.txt_3245_3254	unknown

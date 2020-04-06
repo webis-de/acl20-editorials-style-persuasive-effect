@@ -1,0 +1,15 @@
+corpus_1761247.txt_9_130	unknown
+corpus_1761247.txt_131_277	unknown
+corpus_1761247.txt_286_369	unknown
+corpus_1761247.txt_370_695	unknown
+corpus_1761247.txt_704_973	unknown
+corpus_1761247.txt_982_1167	unknown
+corpus_1761247.txt_1168_1358	subj
+corpus_1761247.txt_1367_1613	unknown
+corpus_1761247.txt_1614_1764	unknown
+corpus_1761247.txt_1773_2024	unknown
+corpus_1761247.txt_2025_2046	unknown
+corpus_1761247.txt_2055_2309	unknown
+corpus_1761247.txt_2310_2455	unknown
+corpus_1761247.txt_2464_2640	unknown
+corpus_1761247.txt_2649_2658	unknown

@@ -1,0 +1,16 @@
+corpus_1795609.txt_9_325	unknown
+corpus_1795609.txt_326_565	obj
+corpus_1795609.txt_574_611	obj
+corpus_1795609.txt_612_868	unknown
+corpus_1795609.txt_877_1203	unknown
+corpus_1795609.txt_1204_1360	subj
+corpus_1795609.txt_1369_1601	unknown
+corpus_1795609.txt_1602_1645	unknown
+corpus_1795609.txt_1646_1774	obj
+corpus_1795609.txt_1775_1970	unknown
+corpus_1795609.txt_1979_2021	unknown
+corpus_1795609.txt_2022_2081	obj
+corpus_1795609.txt_2082_2254	unknown
+corpus_1795609.txt_2255_2620	unknown
+corpus_1795609.txt_2629_2822	unknown
+corpus_1795609.txt_2831_2842	obj

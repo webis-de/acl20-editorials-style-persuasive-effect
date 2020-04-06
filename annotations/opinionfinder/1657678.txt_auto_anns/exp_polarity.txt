@@ -1,0 +1,3 @@
+corpus_1657678.txt_2469_2472	negative
+corpus_1657678.txt_2473_2481	negative
+corpus_1657678.txt_2556_2561	neutral

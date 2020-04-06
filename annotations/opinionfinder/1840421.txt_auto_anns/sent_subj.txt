@@ -1,0 +1,15 @@
+corpus_1840421.txt_9_215	obj
+corpus_1840421.txt_215_244	obj
+corpus_1840421.txt_245_277	obj
+corpus_1840421.txt_286_790	subj
+corpus_1840421.txt_799_924	subj
+corpus_1840421.txt_925_1090	subj
+corpus_1840421.txt_1091_1344	subj
+corpus_1840421.txt_1353_1754	subj
+corpus_1840421.txt_1763_1904	subj
+corpus_1840421.txt_1905_2129	subj
+corpus_1840421.txt_2130_2288	subj
+corpus_1840421.txt_2297_2532	subj
+corpus_1840421.txt_2533_2701	subj
+corpus_1840421.txt_2702_2777	subj
+corpus_1840421.txt_2786_2797	obj

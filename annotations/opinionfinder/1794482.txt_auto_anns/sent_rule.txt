@@ -1,0 +1,16 @@
+corpus_1794482.txt_9_154	unknown
+corpus_1794482.txt_155_313	unknown
+corpus_1794482.txt_314_458	unknown
+corpus_1794482.txt_467_608	subj
+corpus_1794482.txt_609_797	unknown
+corpus_1794482.txt_806_1017	subj
+corpus_1794482.txt_1018_1192	unknown
+corpus_1794482.txt_1201_1395	unknown
+corpus_1794482.txt_1396_1592	unknown
+corpus_1794482.txt_1601_1702	unknown
+corpus_1794482.txt_1703_1975	unknown
+corpus_1794482.txt_1976_2173	unknown
+corpus_1794482.txt_2182_2337	unknown
+corpus_1794482.txt_2338_2428	unknown
+corpus_1794482.txt_2429_2589	subj
+corpus_1794482.txt_2598_2607	unknown

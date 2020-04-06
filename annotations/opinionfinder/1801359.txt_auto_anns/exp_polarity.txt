@@ -1,0 +1,14 @@
+corpus_1801359.txt_2016_2022	neutral
+corpus_1801359.txt_2039_2046	neutral
+corpus_1801359.txt_2064_2075	negative
+corpus_1801359.txt_2079_2089	negative
+corpus_1801359.txt_2094_2100	neutral
+corpus_1801359.txt_2139_2147	positive
+corpus_1801359.txt_2195_2206	negative
+corpus_1801359.txt_2255_2263	negative
+corpus_1801359.txt_2264_2274	negative
+corpus_1801359.txt_2386_2392	neutral
+corpus_1801359.txt_2393_2400	negative
+corpus_1801359.txt_2406_2412	neutral
+corpus_1801359.txt_2439_2442	neutral
+corpus_1801359.txt_2453_2457	neutral

@@ -1,0 +1,15 @@
+corpus_1834147.txt_2007_2011	neutral
+corpus_1834147.txt_2012_2021	positive
+corpus_1834147.txt_2044_2049	neutral
+corpus_1834147.txt_2096_2107	neutral
+corpus_1834147.txt_2120_2124	neutral
+corpus_1834147.txt_2147_2156	neutral
+corpus_1834147.txt_2188_2198	positive
+corpus_1834147.txt_2224_2229	neutral
+corpus_1834147.txt_2239_2245	positive
+corpus_1834147.txt_2287_2292	neutral
+corpus_1834147.txt_2301_2310	neutral
+corpus_1834147.txt_2314_2324	neutral
+corpus_1834147.txt_2359_2366	neutral
+corpus_1834147.txt_2483_2494	neutral
+corpus_1834147.txt_2567_2572	neutral

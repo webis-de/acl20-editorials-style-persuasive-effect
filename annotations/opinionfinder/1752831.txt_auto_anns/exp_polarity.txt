@@ -1,0 +1,4 @@
+corpus_1752831.txt_2159_2165	neutral
+corpus_1752831.txt_2271_2278	neutral
+corpus_1752831.txt_2298_2304	positive
+corpus_1752831.txt_2324_2328	neutral

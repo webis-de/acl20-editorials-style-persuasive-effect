@@ -1,0 +1,13 @@
+corpus_1823663.txt_2423_2430	negative
+corpus_1823663.txt_2435_2445	negative
+corpus_1823663.txt_2457_2463	positive
+corpus_1823663.txt_2467_2471	negative
+corpus_1823663.txt_2476_2484	negative
+corpus_1823663.txt_2485_2490	negative
+corpus_1823663.txt_2491_2497	neutral
+corpus_1823663.txt_2501_2505	neutral
+corpus_1823663.txt_2516_2524	neutral
+corpus_1823663.txt_2588_2596	negative
+corpus_1823663.txt_2660_2667	positive
+corpus_1823663.txt_2732_2738	neutral
+corpus_1823663.txt_2742_2744	neutral

@@ -1,0 +1,6 @@
+corpus_1812813.txt_3177_3181	positive
+corpus_1812813.txt_3228_3238	negative
+corpus_1812813.txt_3263_3267	positive
+corpus_1812813.txt_3268_3272	positive
+corpus_1812813.txt_3313_3317	negative
+corpus_1812813.txt_3322_3333	negative

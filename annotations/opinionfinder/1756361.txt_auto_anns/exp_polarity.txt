@@ -1,0 +1,8 @@
+corpus_1756361.txt_3032_3036	neutral
+corpus_1756361.txt_3037_3043	neutral
+corpus_1756361.txt_3054_3062	neutral
+corpus_1756361.txt_3076_3082	neutral
+corpus_1756361.txt_3086_3091	neutral
+corpus_1756361.txt_3167_3172	neutral
+corpus_1756361.txt_3184_3194	negative
+corpus_1756361.txt_3266_3275	neutral

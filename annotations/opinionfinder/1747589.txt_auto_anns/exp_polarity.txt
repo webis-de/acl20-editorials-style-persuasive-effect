@@ -1,0 +1,16 @@
+corpus_1747589.txt_1959_1964	neutral
+corpus_1747589.txt_1990_2001	positive
+corpus_1747589.txt_2005_2012	negative
+corpus_1747589.txt_2013_2017	negative
+corpus_1747589.txt_2040_2048	neutral
+corpus_1747589.txt_2049_2056	neutral
+corpus_1747589.txt_2131_2140	positive
+corpus_1747589.txt_2198_2207	neutral
+corpus_1747589.txt_2208_2221	negative
+corpus_1747589.txt_2246_2254	positive
+corpus_1747589.txt_2295_2300	positive
+corpus_1747589.txt_2309_2314	neutral
+corpus_1747589.txt_2342_2348	neutral
+corpus_1747589.txt_2358_2368	neutral
+corpus_1747589.txt_2372_2376	positive
+corpus_1747589.txt_2450_2459	positive

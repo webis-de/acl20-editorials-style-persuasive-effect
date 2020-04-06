@@ -1,0 +1,15 @@
+corpus_1658391.txt_9_170	obj
+corpus_1658391.txt_171_322	obj
+corpus_1658391.txt_331_526	obj
+corpus_1658391.txt_535_792	obj
+corpus_1658391.txt_793_1039	subj
+corpus_1658391.txt_1048_1179	obj
+corpus_1658391.txt_1180_1370	subj
+corpus_1658391.txt_1371_1557	subj
+corpus_1658391.txt_1566_1718	subj
+corpus_1658391.txt_1719_2019	subj
+corpus_1658391.txt_2020_2189	subj
+corpus_1658391.txt_2198_2400	subj
+corpus_1658391.txt_2401_2627	subj
+corpus_1658391.txt_2636_2934	subj
+corpus_1658391.txt_2943_2954	obj

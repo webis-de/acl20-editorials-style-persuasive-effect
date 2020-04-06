@@ -1,0 +1,13 @@
+corpus_1841792.txt_2311_2317	negative
+corpus_1841792.txt_2322_2332	neutral
+corpus_1841792.txt_2353_2360	negative
+corpus_1841792.txt_2368_2376	negative
+corpus_1841792.txt_2393_2398	neutral
+corpus_1841792.txt_2404_2412	negative
+corpus_1841792.txt_2413_2420	neutral
+corpus_1841792.txt_2427_2433	negative
+corpus_1841792.txt_2439_2443	neutral
+corpus_1841792.txt_2447_2455	neutral
+corpus_1841792.txt_2469_2475	negative
+corpus_1841792.txt_2489_2497	positive
+corpus_1841792.txt_2502_2512	negative

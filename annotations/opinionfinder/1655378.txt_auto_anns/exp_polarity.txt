@@ -1,0 +1,7 @@
+corpus_1655378.txt_2941_2945	positive
+corpus_1655378.txt_2994_3003	neutral
+corpus_1655378.txt_3014_3020	neutral
+corpus_1655378.txt_3023_3029	positive
+corpus_1655378.txt_3030_3042	neutral
+corpus_1655378.txt_3129_3133	neutral
+corpus_1655378.txt_3143_3150	negative

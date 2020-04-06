@@ -1,0 +1,17 @@
+corpus_1774424.txt_9_299	obj
+corpus_1774424.txt_300_390	obj
+corpus_1774424.txt_399_580	subj
+corpus_1774424.txt_581_790	subj
+corpus_1774424.txt_799_962	obj
+corpus_1774424.txt_963_1080	obj
+corpus_1774424.txt_1089_1153	obj
+corpus_1774424.txt_1154_1476	subj
+corpus_1774424.txt_1477_1632	subj
+corpus_1774424.txt_1641_1972	subj
+corpus_1774424.txt_1973_2152	obj
+corpus_1774424.txt_2161_2694	subj
+corpus_1774424.txt_2703_2855	obj
+corpus_1774424.txt_2856_2951	obj
+corpus_1774424.txt_2952_3057	subj
+corpus_1774424.txt_3058_3119	subj
+corpus_1774424.txt_3128_3137	obj

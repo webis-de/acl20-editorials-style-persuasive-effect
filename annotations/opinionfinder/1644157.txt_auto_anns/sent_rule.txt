@@ -1,0 +1,13 @@
+corpus_1644157.txt_9_283	unknown
+corpus_1644157.txt_292_378	unknown
+corpus_1644157.txt_379_517	unknown
+corpus_1644157.txt_518_743	subj
+corpus_1644157.txt_744_1015	unknown
+corpus_1644157.txt_1024_1305	unknown
+corpus_1644157.txt_1306_1520	unknown
+corpus_1644157.txt_1521_1926	unknown
+corpus_1644157.txt_1935_2105	unknown
+corpus_1644157.txt_2106_2296	unknown
+corpus_1644157.txt_2297_2468	unknown
+corpus_1644157.txt_2477_2727	unknown
+corpus_1644157.txt_2736_2747	obj

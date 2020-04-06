@@ -1,0 +1,15 @@
+corpus_1842995.txt_9_270	subj
+corpus_1842995.txt_271_523	subj
+corpus_1842995.txt_532_630	obj
+corpus_1842995.txt_631_722	obj
+corpus_1842995.txt_723_927	subj
+corpus_1842995.txt_936_1137	subj
+corpus_1842995.txt_1138_1278	obj
+corpus_1842995.txt_1287_1569	subj
+corpus_1842995.txt_1578_1832	subj
+corpus_1842995.txt_1841_2004	subj
+corpus_1842995.txt_2005_2188	obj
+corpus_1842995.txt_2197_2291	obj
+corpus_1842995.txt_2292_2441	obj
+corpus_1842995.txt_2442_2597	subj
+corpus_1842995.txt_2606_2615	obj

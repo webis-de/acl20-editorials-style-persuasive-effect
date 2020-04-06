@@ -1,0 +1,15 @@
+corpus_1659244.txt_3032_3037	neutral
+corpus_1659244.txt_3055_3059	neutral
+corpus_1659244.txt_3060_3066	positive
+corpus_1659244.txt_3071_3075	positive
+corpus_1659244.txt_3111_3115	positive
+corpus_1659244.txt_3116_3121	negative
+corpus_1659244.txt_3126_3135	negative
+corpus_1659244.txt_3156_3160	neutral
+corpus_1659244.txt_3174_3178	positive
+corpus_1659244.txt_3179_3184	positive
+corpus_1659244.txt_3219_3228	neutral
+corpus_1659244.txt_3277_3282	neutral
+corpus_1659244.txt_3327_3329	neutral
+corpus_1659244.txt_3346_3353	neutral
+corpus_1659244.txt_3374_3379	neutral

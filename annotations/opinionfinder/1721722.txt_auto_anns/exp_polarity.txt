@@ -1,0 +1,4 @@
+corpus_1721722.txt_2960_2969	neutral
+corpus_1721722.txt_3034_3039	neutral
+corpus_1721722.txt_3061_3069	positive
+corpus_1721722.txt_3083_3092	neutral

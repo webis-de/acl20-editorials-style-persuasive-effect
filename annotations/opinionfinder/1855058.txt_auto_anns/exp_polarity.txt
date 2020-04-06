@@ -1,0 +1,7 @@
+corpus_1855058.txt_3355_3361	neutral
+corpus_1855058.txt_3380_3386	negative
+corpus_1855058.txt_3468_3477	negative
+corpus_1855058.txt_3479_3489	negative
+corpus_1855058.txt_3521_3528	neutral
+corpus_1855058.txt_3548_3556	neutral
+corpus_1855058.txt_3564_3567	neutral

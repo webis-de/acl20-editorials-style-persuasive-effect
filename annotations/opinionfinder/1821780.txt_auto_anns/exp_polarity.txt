@@ -1,0 +1,13 @@
+corpus_1821780.txt_1884_1889	positive
+corpus_1821780.txt_1890_1894	positive
+corpus_1821780.txt_1898_1907	neutral
+corpus_1821780.txt_1963_1972	neutral
+corpus_1821780.txt_2036_2045	neutral
+corpus_1821780.txt_2078_2083	neutral
+corpus_1821780.txt_2084_2092	negative
+corpus_1821780.txt_2107_2113	neutral
+corpus_1821780.txt_2165_2170	neutral
+corpus_1821780.txt_2176_2186	negative
+corpus_1821780.txt_2232_2241	neutral
+corpus_1821780.txt_2292_2296	positive
+corpus_1821780.txt_2323_2327	neutral

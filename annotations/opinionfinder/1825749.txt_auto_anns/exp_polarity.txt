@@ -1,0 +1,2 @@
+corpus_1825749.txt_2880_2883	neutral
+corpus_1825749.txt_2884_2888	negative

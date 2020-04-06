@@ -1,0 +1,10 @@
+corpus_1658445.txt_2310_2313	neutral
+corpus_1658445.txt_2402_2411	negative
+corpus_1658445.txt_2412_2417	negative
+corpus_1658445.txt_2421_2426	neutral
+corpus_1658445.txt_2435_2440	negative
+corpus_1658445.txt_2463_2472	positive
+corpus_1658445.txt_2479_2485	neutral
+corpus_1658445.txt_2489_2499	positive
+corpus_1658445.txt_2517_2523	neutral
+corpus_1658445.txt_2527_2531	negative

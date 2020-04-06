@@ -1,0 +1,10 @@
+corpus_1645252.txt_1371_1379	positive
+corpus_1645252.txt_1424_1431	neutral
+corpus_1645252.txt_1436_1441	neutral
+corpus_1645252.txt_1467_1471	neutral
+corpus_1645252.txt_1547_1551	neutral
+corpus_1645252.txt_1613_1618	neutral
+corpus_1645252.txt_1864_1873	neutral
+corpus_1645252.txt_1930_1939	neutral
+corpus_1645252.txt_1985_1994	neutral
+corpus_1645252.txt_2190_2196	neutral

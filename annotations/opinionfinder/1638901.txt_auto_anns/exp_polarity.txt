@@ -1,0 +1,12 @@
+corpus_1638901.txt_1868_1873	neutral
+corpus_1638901.txt_1942_1946	neutral
+corpus_1638901.txt_2009_2015	neutral
+corpus_1638901.txt_2019_2026	neutral
+corpus_1638901.txt_2110_2114	neutral
+corpus_1638901.txt_2126_2132	positive
+corpus_1638901.txt_2175_2186	neutral
+corpus_1638901.txt_2205_2211	neutral
+corpus_1638901.txt_2220_2226	positive
+corpus_1638901.txt_2292_2296	positive
+corpus_1638901.txt_2404_2410	neutral
+corpus_1638901.txt_2466_2471	neutral

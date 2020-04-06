@@ -1,0 +1,17 @@
+corpus_1643013.txt_9_125	obj
+corpus_1643013.txt_126_317	obj
+corpus_1643013.txt_318_465	subj
+corpus_1643013.txt_466_576	subj
+corpus_1643013.txt_577_779	subj
+corpus_1643013.txt_788_1065	subj
+corpus_1643013.txt_1066_1307	subj
+corpus_1643013.txt_1316_1508	obj
+corpus_1643013.txt_1509_1675	obj
+corpus_1643013.txt_1676_1840	obj
+corpus_1643013.txt_1841_1923	subj
+corpus_1643013.txt_1924_2060	subj
+corpus_1643013.txt_2069_2189	subj
+corpus_1643013.txt_2190_2310	subj
+corpus_1643013.txt_2311_2511	subj
+corpus_1643013.txt_2512_2658	subj
+corpus_1643013.txt_2667_2676	obj

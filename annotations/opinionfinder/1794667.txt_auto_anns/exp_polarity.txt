@@ -1,0 +1,12 @@
+corpus_1794667.txt_2779_2782	neutral
+corpus_1794667.txt_2836_2840	neutral
+corpus_1794667.txt_2844_2848	neutral
+corpus_1794667.txt_2860_2864	negative
+corpus_1794667.txt_2865_2871	neutral
+corpus_1794667.txt_2905_2907	neutral
+corpus_1794667.txt_2913_2917	positive
+corpus_1794667.txt_2921_2925	neutral
+corpus_1794667.txt_2992_2996	neutral
+corpus_1794667.txt_3193_3199	neutral
+corpus_1794667.txt_3223_3227	neutral
+corpus_1794667.txt_3272_3281	neutral

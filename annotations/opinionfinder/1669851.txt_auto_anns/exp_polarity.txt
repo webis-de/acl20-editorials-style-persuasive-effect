@@ -1,0 +1,6 @@
+corpus_1669851.txt_3198_3202	neutral
+corpus_1669851.txt_3302_3310	neutral
+corpus_1669851.txt_3422_3432	neutral
+corpus_1669851.txt_3483_3491	neutral
+corpus_1669851.txt_3504_3513	neutral
+corpus_1669851.txt_3553_3559	neutral

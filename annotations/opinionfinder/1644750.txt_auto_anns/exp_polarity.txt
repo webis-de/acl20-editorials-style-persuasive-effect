@@ -1,0 +1,10 @@
+corpus_1644750.txt_2324_2330	positive
+corpus_1644750.txt_2411_2417	positive
+corpus_1644750.txt_2496_2502	negative
+corpus_1644750.txt_2524_2532	neutral
+corpus_1644750.txt_2539_2544	neutral
+corpus_1644750.txt_2548_2553	negative
+corpus_1644750.txt_2568_2577	negative
+corpus_1644750.txt_2587_2593	negative
+corpus_1644750.txt_2598_2602	neutral
+corpus_1644750.txt_2617_2621	neutral

@@ -1,0 +1,10 @@
+corpus_1820702.txt_1871_1876	negative
+corpus_1820702.txt_1939_1945	neutral
+corpus_1820702.txt_1975_1985	neutral
+corpus_1820702.txt_2053_2062	neutral
+corpus_1820702.txt_2154_2160	neutral
+corpus_1820702.txt_2181_2188	neutral
+corpus_1820702.txt_2240_2244	neutral
+corpus_1820702.txt_2294_2301	positive
+corpus_1820702.txt_2338_2344	neutral
+corpus_1820702.txt_2418_2431	neutral

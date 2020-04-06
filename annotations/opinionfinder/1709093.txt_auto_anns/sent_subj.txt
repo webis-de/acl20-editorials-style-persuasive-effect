@@ -1,0 +1,16 @@
+corpus_1709093.txt_9_179	obj
+corpus_1709093.txt_180_245	subj
+corpus_1709093.txt_246_399	obj
+corpus_1709093.txt_400_561	subj
+corpus_1709093.txt_570_849	subj
+corpus_1709093.txt_850_1049	subj
+corpus_1709093.txt_1050_1228	subj
+corpus_1709093.txt_1229_1300	subj
+corpus_1709093.txt_1309_1473	subj
+corpus_1709093.txt_1474_1598	obj
+corpus_1709093.txt_1599_1782	subj
+corpus_1709093.txt_1783_2076	subj
+corpus_1709093.txt_2085_2188	obj
+corpus_1709093.txt_2189_2436	obj
+corpus_1709093.txt_2437_2620	subj
+corpus_1709093.txt_2629_2638	obj

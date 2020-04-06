@@ -1,0 +1,14 @@
+corpus_1726728.txt_9_105	unknown
+corpus_1726728.txt_106_256	subj
+corpus_1726728.txt_257_515	subj
+corpus_1726728.txt_524_694	unknown
+corpus_1726728.txt_695_918	subj
+corpus_1726728.txt_927_1205	unknown
+corpus_1726728.txt_1205_1441	unknown
+corpus_1726728.txt_1442_1574	unknown
+corpus_1726728.txt_1575_1612	unknown
+corpus_1726728.txt_1621_1835	unknown
+corpus_1726728.txt_1836_2041	unknown
+corpus_1726728.txt_2050_2262	unknown
+corpus_1726728.txt_2263_2481	unknown
+corpus_1726728.txt_2490_2499	unknown

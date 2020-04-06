@@ -1,0 +1,9 @@
+corpus_1711254.txt_2445_2449	neutral
+corpus_1711254.txt_2450_2458	neutral
+corpus_1711254.txt_2459_2468	neutral
+corpus_1711254.txt_2497_2501	neutral
+corpus_1711254.txt_2531_2538	neutral
+corpus_1711254.txt_2577_2585	neutral
+corpus_1711254.txt_2593_2601	neutral
+corpus_1711254.txt_2626_2631	neutral
+corpus_1711254.txt_2639_2646	neutral

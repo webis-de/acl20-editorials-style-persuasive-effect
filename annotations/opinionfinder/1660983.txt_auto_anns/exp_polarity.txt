@@ -1,0 +1,10 @@
+corpus_1660983.txt_2612_2616	neutral
+corpus_1660983.txt_2636_2645	neutral
+corpus_1660983.txt_2649_2657	neutral
+corpus_1660983.txt_2735_2740	neutral
+corpus_1660983.txt_2749_2755	negative
+corpus_1660983.txt_2782_2790	neutral
+corpus_1660983.txt_2791_2799	neutral
+corpus_1660983.txt_2876_2881	neutral
+corpus_1660983.txt_2929_2934	neutral
+corpus_1660983.txt_2935_2942	neutral

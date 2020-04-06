@@ -1,0 +1,11 @@
+corpus_1761247.txt_2106_2112	neutral
+corpus_1761247.txt_2115_2120	neutral
+corpus_1761247.txt_2191_2199	neutral
+corpus_1761247.txt_2200_2205	neutral
+corpus_1761247.txt_2262_2270	neutral
+corpus_1761247.txt_2357_2368	positive
+corpus_1761247.txt_2420_2424	neutral
+corpus_1761247.txt_2495_2507	neutral
+corpus_1761247.txt_2511_2520	neutral
+corpus_1761247.txt_2537_2546	neutral
+corpus_1761247.txt_2621_2630	negative

@@ -1,0 +1,13 @@
+corpus_1771677.txt_2189_2195	neutral
+corpus_1771677.txt_2268_2270	neutral
+corpus_1771677.txt_2281_2287	neutral
+corpus_1771677.txt_2288_2294	positive
+corpus_1771677.txt_2385_2390	neutral
+corpus_1771677.txt_2393_2404	positive
+corpus_1771677.txt_2409_2419	neutral
+corpus_1771677.txt_2483_2489	neutral
+corpus_1771677.txt_2596_2601	neutral
+corpus_1771677.txt_2607_2611	neutral
+corpus_1771677.txt_2673_2678	neutral
+corpus_1771677.txt_2679_2684	neutral
+corpus_1771677.txt_2685_2691	neutral

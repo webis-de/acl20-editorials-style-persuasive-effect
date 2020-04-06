@@ -1,0 +1,5 @@
+corpus_1844052.txt_3384_3393	neutral
+corpus_1844052.txt_3397_3402	neutral
+corpus_1844052.txt_3416_3421	negative
+corpus_1844052.txt_3422_3426	neutral
+corpus_1844052.txt_3461_3465	neutral

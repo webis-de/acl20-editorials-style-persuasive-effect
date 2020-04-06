@@ -1,0 +1,15 @@
+corpus_1747905.txt_2720_2725	neutral
+corpus_1747905.txt_2726_2730	neutral
+corpus_1747905.txt_2760_2773	negative
+corpus_1747905.txt_2775_2780	neutral
+corpus_1747905.txt_2790_2795	negative
+corpus_1747905.txt_2799_2806	neutral
+corpus_1747905.txt_2821_2827	neutral
+corpus_1747905.txt_2846_2853	neutral
+corpus_1747905.txt_2892_2899	negative
+corpus_1747905.txt_2900_2906	negative
+corpus_1747905.txt_2958_2962	neutral
+corpus_1747905.txt_2973_2978	neutral
+corpus_1747905.txt_3011_3017	neutral
+corpus_1747905.txt_3038_3043	neutral
+corpus_1747905.txt_3049_3055	positive

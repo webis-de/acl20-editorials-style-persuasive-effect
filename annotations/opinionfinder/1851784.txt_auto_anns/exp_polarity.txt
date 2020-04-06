@@ -1,0 +1,4 @@
+corpus_1851784.txt_2718_2723	neutral
+corpus_1851784.txt_2729_2737	positive
+corpus_1851784.txt_2738_2744	neutral
+corpus_1851784.txt_2809_2814	negative

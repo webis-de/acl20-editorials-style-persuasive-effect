@@ -1,0 +1,11 @@
+corpus_1761532.txt_2984_2988	positive
+corpus_1761532.txt_3004_3011	positive
+corpus_1761532.txt_3032_3043	positive
+corpus_1761532.txt_3047_3052	neutral
+corpus_1761532.txt_3087_3092	positive
+corpus_1761532.txt_3110_3118	positive
+corpus_1761532.txt_3166_3172	neutral
+corpus_1761532.txt_3196_3203	neutral
+corpus_1761532.txt_3220_3228	positive
+corpus_1761532.txt_3229_3235	neutral
+corpus_1761532.txt_3260_3263	neutral

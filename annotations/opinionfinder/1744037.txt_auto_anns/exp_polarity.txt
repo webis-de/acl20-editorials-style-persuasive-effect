@@ -1,0 +1,10 @@
+corpus_1744037.txt_2432_2440	neutral
+corpus_1744037.txt_2477_2492	neutral
+corpus_1744037.txt_2502_2509	neutral
+corpus_1744037.txt_2539_2549	negative
+corpus_1744037.txt_2561_2565	positive
+corpus_1744037.txt_2579_2587	neutral
+corpus_1744037.txt_2604_2609	neutral
+corpus_1744037.txt_2613_2617	neutral
+corpus_1744037.txt_2630_2638	neutral
+corpus_1744037.txt_2639_2648	neutral

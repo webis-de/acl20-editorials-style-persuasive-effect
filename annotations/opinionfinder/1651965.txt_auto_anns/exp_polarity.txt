@@ -1,0 +1,8 @@
+corpus_1651965.txt_2792_2798	neutral
+corpus_1651965.txt_2802_2811	positive
+corpus_1651965.txt_2846_2852	neutral
+corpus_1651965.txt_2893_2903	neutral
+corpus_1651965.txt_2964_2969	neutral
+corpus_1651965.txt_3030_3036	neutral
+corpus_1651965.txt_3047_3055	neutral
+corpus_1651965.txt_3112_3116	neutral

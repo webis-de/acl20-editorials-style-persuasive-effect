@@ -1,0 +1,15 @@
+corpus_1761247.txt_9_130	obj
+corpus_1761247.txt_131_277	subj
+corpus_1761247.txt_286_369	obj
+corpus_1761247.txt_370_695	obj
+corpus_1761247.txt_704_973	subj
+corpus_1761247.txt_982_1167	subj
+corpus_1761247.txt_1168_1358	subj
+corpus_1761247.txt_1367_1613	subj
+corpus_1761247.txt_1614_1764	obj
+corpus_1761247.txt_1773_2024	obj
+corpus_1761247.txt_2025_2046	subj
+corpus_1761247.txt_2055_2309	subj
+corpus_1761247.txt_2310_2455	obj
+corpus_1761247.txt_2464_2640	obj
+corpus_1761247.txt_2649_2658	obj

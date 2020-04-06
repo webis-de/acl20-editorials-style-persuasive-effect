@@ -1,0 +1,14 @@
+corpus_1843372.txt_9_253	subj
+corpus_1843372.txt_262_366	unknown
+corpus_1843372.txt_367_652	unknown
+corpus_1843372.txt_661_817	unknown
+corpus_1843372.txt_818_911	unknown
+corpus_1843372.txt_920_1250	unknown
+corpus_1843372.txt_1251_1406	unknown
+corpus_1843372.txt_1407_1666	unknown
+corpus_1843372.txt_1675_1836	unknown
+corpus_1843372.txt_1837_2160	unknown
+corpus_1843372.txt_2161_2301	unknown
+corpus_1843372.txt_2310_2476	unknown
+corpus_1843372.txt_2477_2571	unknown
+corpus_1843372.txt_2580_2589	obj

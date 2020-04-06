@@ -1,0 +1,15 @@
+corpus_1795264.txt_9_174	subj
+corpus_1795264.txt_183_384	subj
+corpus_1795264.txt_385_586	subj
+corpus_1795264.txt_595_916	subj
+corpus_1795264.txt_925_1145	subj
+corpus_1795264.txt_1146_1368	subj
+corpus_1795264.txt_1377_1456	subj
+corpus_1795264.txt_1457_1601	obj
+corpus_1795264.txt_1602_1789	obj
+corpus_1795264.txt_1798_1952	obj
+corpus_1795264.txt_1953_2110	obj
+corpus_1795264.txt_2111_2252	obj
+corpus_1795264.txt_2253_2385	obj
+corpus_1795264.txt_2394_2599	subj
+corpus_1795264.txt_2608_2617	obj

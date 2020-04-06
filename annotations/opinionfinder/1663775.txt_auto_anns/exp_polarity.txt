@@ -1,0 +1,11 @@
+corpus_1663775.txt_2905_2913	positive
+corpus_1663775.txt_2940_2951	neutral
+corpus_1663775.txt_2963_2968	neutral
+corpus_1663775.txt_2984_2996	neutral
+corpus_1663775.txt_3000_3007	neutral
+corpus_1663775.txt_3061_3068	positive
+corpus_1663775.txt_3069_3074	positive
+corpus_1663775.txt_3075_3083	positive
+corpus_1663775.txt_3101_3106	neutral
+corpus_1663775.txt_3119_3125	neutral
+corpus_1663775.txt_3151_3159	neutral

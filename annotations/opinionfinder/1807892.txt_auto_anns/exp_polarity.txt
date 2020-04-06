@@ -1,0 +1,13 @@
+corpus_1807892.txt_2656_2661	neutral
+corpus_1807892.txt_2685_2691	neutral
+corpus_1807892.txt_2706_2709	neutral
+corpus_1807892.txt_2736_2743	neutral
+corpus_1807892.txt_2757_2762	neutral
+corpus_1807892.txt_2767_2776	neutral
+corpus_1807892.txt_2805_2809	neutral
+corpus_1807892.txt_2818_2829	neutral
+corpus_1807892.txt_2879_2883	neutral
+corpus_1807892.txt_2889_2897	negative
+corpus_1807892.txt_2902_2906	neutral
+corpus_1807892.txt_2914_2922	negative
+corpus_1807892.txt_2937_2942	negative

@@ -1,0 +1,10 @@
+corpus_1853974.txt_3094_3102	neutral
+corpus_1853974.txt_3114_3121	neutral
+corpus_1853974.txt_3132_3142	neutral
+corpus_1853974.txt_3188_3196	neutral
+corpus_1853974.txt_3224_3233	neutral
+corpus_1853974.txt_3241_3250	neutral
+corpus_1853974.txt_3289_3296	neutral
+corpus_1853974.txt_3297_3304	neutral
+corpus_1853974.txt_3324_3330	neutral
+corpus_1853974.txt_3352_3359	neutral

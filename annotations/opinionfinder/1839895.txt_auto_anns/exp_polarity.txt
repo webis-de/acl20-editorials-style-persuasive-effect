@@ -1,0 +1,15 @@
+corpus_1839895.txt_2783_2792	neutral
+corpus_1839895.txt_2793_2798	positive
+corpus_1839895.txt_2827_2836	positive
+corpus_1839895.txt_2840_2844	neutral
+corpus_1839895.txt_2917_2927	neutral
+corpus_1839895.txt_3004_3009	neutral
+corpus_1839895.txt_3022_3031	positive
+corpus_1839895.txt_3032_3036	negative
+corpus_1839895.txt_3040_3047	negative
+corpus_1839895.txt_3066_3076	negative
+corpus_1839895.txt_3141_3147	negative
+corpus_1839895.txt_3148_3158	negative
+corpus_1839895.txt_3242_3246	neutral
+corpus_1839895.txt_3250_3254	positive
+corpus_1839895.txt_3288_3295	neutral

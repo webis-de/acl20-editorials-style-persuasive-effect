@@ -1,0 +1,15 @@
+corpus_1671629.txt_2324_2330	neutral
+corpus_1671629.txt_2347_2354	negative
+corpus_1671629.txt_2411_2417	positive
+corpus_1671629.txt_2418_2424	negative
+corpus_1671629.txt_2498_2506	neutral
+corpus_1671629.txt_2523_2528	neutral
+corpus_1671629.txt_2539_2546	neutral
+corpus_1671629.txt_2671_2683	neutral
+corpus_1671629.txt_2684_2695	negative
+corpus_1671629.txt_2700_2710	negative
+corpus_1671629.txt_2718_2723	neutral
+corpus_1671629.txt_2732_2738	neutral
+corpus_1671629.txt_2841_2848	negative
+corpus_1671629.txt_2850_2855	neutral
+corpus_1671629.txt_2909_2918	negative

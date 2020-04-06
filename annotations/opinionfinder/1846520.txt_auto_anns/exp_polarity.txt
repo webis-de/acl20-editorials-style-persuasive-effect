@@ -1,0 +1,9 @@
+corpus_1846520.txt_3063_3068	neutral
+corpus_1846520.txt_3088_3092	negative
+corpus_1846520.txt_3105_3112	negative
+corpus_1846520.txt_3117_3126	neutral
+corpus_1846520.txt_3130_3138	negative
+corpus_1846520.txt_3139_3146	positive
+corpus_1846520.txt_3178_3183	neutral
+corpus_1846520.txt_3212_3216	positive
+corpus_1846520.txt_3227_3236	neutral

@@ -1,0 +1,7 @@
+corpus_1744436.txt_2289_2296	positive
+corpus_1744436.txt_2300_2305	neutral
+corpus_1744436.txt_2317_2321	negative
+corpus_1744436.txt_2325_2332	neutral
+corpus_1744436.txt_2411_2419	neutral
+corpus_1744436.txt_2423_2427	neutral
+corpus_1744436.txt_2429_2438	neutral

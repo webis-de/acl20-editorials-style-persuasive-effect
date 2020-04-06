@@ -1,0 +1,7 @@
+corpus_1679927.txt_3498_3502	neutral
+corpus_1679927.txt_3503_3506	negative
+corpus_1679927.txt_3507_3516	negative
+corpus_1679927.txt_3520_3525	negative
+corpus_1679927.txt_3531_3542	neutral
+corpus_1679927.txt_3630_3634	neutral
+corpus_1679927.txt_3715_3720	neutral

@@ -1,0 +1,12 @@
+corpus_1676761.txt_2065_2074	neutral
+corpus_1676761.txt_2124_2130	neutral
+corpus_1676761.txt_2193_2197	neutral
+corpus_1676761.txt_2268_2273	neutral
+corpus_1676761.txt_2311_2315	neutral
+corpus_1676761.txt_2367_2377	neutral
+corpus_1676761.txt_2378_2388	neutral
+corpus_1676761.txt_2494_2499	neutral
+corpus_1676761.txt_2500_2507	neutral
+corpus_1676761.txt_2532_2538	neutral
+corpus_1676761.txt_2561_2566	neutral
+corpus_1676761.txt_2587_2591	neutral

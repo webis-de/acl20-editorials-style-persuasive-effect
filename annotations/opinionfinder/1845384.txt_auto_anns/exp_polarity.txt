@@ -1,0 +1,6 @@
+corpus_1845384.txt_3031_3035	neutral
+corpus_1845384.txt_3036_3040	positive
+corpus_1845384.txt_3118_3129	positive
+corpus_1845384.txt_3167_3172	neutral
+corpus_1845384.txt_3181_3188	neutral
+corpus_1845384.txt_3201_3205	positive

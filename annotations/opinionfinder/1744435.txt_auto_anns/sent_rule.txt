@@ -1,0 +1,15 @@
+corpus_1744435.txt_9_100	unknown
+corpus_1744435.txt_101_312	unknown
+corpus_1744435.txt_313_427	unknown
+corpus_1744435.txt_436_581	unknown
+corpus_1744435.txt_582_813	unknown
+corpus_1744435.txt_814_1072	subj
+corpus_1744435.txt_1081_1290	subj
+corpus_1744435.txt_1291_1508	unknown
+corpus_1744435.txt_1517_1791	unknown
+corpus_1744435.txt_1800_2028	unknown
+corpus_1744435.txt_2037_2286	subj
+corpus_1744435.txt_2287_2424	unknown
+corpus_1744435.txt_2433_2681	unknown
+corpus_1744435.txt_2682_2820	unknown
+corpus_1744435.txt_2821_2935	obj

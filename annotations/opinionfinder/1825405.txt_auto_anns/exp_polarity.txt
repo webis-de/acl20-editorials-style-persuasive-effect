@@ -1,0 +1,17 @@
+corpus_1825405.txt_1887_1891	neutral
+corpus_1825405.txt_1895_1902	neutral
+corpus_1825405.txt_1978_1983	neutral
+corpus_1825405.txt_2054_2060	neutral
+corpus_1825405.txt_2161_2167	neutral
+corpus_1825405.txt_2246_2259	neutral
+corpus_1825405.txt_2283_2291	negative
+corpus_1825405.txt_2301_2308	neutral
+corpus_1825405.txt_2361_2375	neutral
+corpus_1825405.txt_2422_2428	positive
+corpus_1825405.txt_2469_2478	neutral
+corpus_1825405.txt_2509_2516	negative
+corpus_1825405.txt_2674_2680	neutral
+corpus_1825405.txt_2697_2703	negative
+corpus_1825405.txt_2749_2754	neutral
+corpus_1825405.txt_2766_2774	neutral
+corpus_1825405.txt_2798_2807	neutral

@@ -1,0 +1,8 @@
+corpus_1693488.txt_2943_2947	neutral
+corpus_1693488.txt_2973_2978	neutral
+corpus_1693488.txt_3012_3018	neutral
+corpus_1693488.txt_3029_3040	neutral
+corpus_1693488.txt_3054_3058	neutral
+corpus_1693488.txt_3096_3101	neutral
+corpus_1693488.txt_3124_3129	neutral
+corpus_1693488.txt_3162_3168	positive

@@ -1,0 +1,17 @@
+corpus_1841791.txt_9_220	subj
+corpus_1841791.txt_229_413	obj
+corpus_1841791.txt_414_571	subj
+corpus_1841791.txt_580_799	subj
+corpus_1841791.txt_800_1063	subj
+corpus_1841791.txt_1072_1371	subj
+corpus_1841791.txt_1380_1593	subj
+corpus_1841791.txt_1594_1760	obj
+corpus_1841791.txt_1761_2003	subj
+corpus_1841791.txt_2004_2172	subj
+corpus_1841791.txt_2181_2375	subj
+corpus_1841791.txt_2376_2522	subj
+corpus_1841791.txt_2531_2775	obj
+corpus_1841791.txt_2776_2864	subj
+corpus_1841791.txt_2873_3068	subj
+corpus_1841791.txt_3069_3175	obj
+corpus_1841791.txt_3184_3193	obj

@@ -1,0 +1,14 @@
+corpus_1674802.txt_2882_2891	neutral
+corpus_1674802.txt_2892_2898	positive
+corpus_1674802.txt_2927_2933	positive
+corpus_1674802.txt_3082_3089	neutral
+corpus_1674802.txt_3102_3107	neutral
+corpus_1674802.txt_3108_3115	negative
+corpus_1674802.txt_3116_3124	neutral
+corpus_1674802.txt_3143_3152	neutral
+corpus_1674802.txt_3218_3225	neutral
+corpus_1674802.txt_3237_3243	neutral
+corpus_1674802.txt_3244_3254	negative
+corpus_1674802.txt_3264_3271	neutral
+corpus_1674802.txt_3272_3281	neutral
+corpus_1674802.txt_3308_3314	neutral

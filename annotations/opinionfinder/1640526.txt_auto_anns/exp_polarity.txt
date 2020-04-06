@@ -1,0 +1,2 @@
+corpus_1640526.txt_2766_2771	neutral
+corpus_1640526.txt_2795_2802	positive

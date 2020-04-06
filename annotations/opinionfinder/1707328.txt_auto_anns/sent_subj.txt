@@ -1,0 +1,17 @@
+corpus_1707328.txt_9_223	obj
+corpus_1707328.txt_224_338	obj
+corpus_1707328.txt_347_531	obj
+corpus_1707328.txt_532_707	subj
+corpus_1707328.txt_708_956	subj
+corpus_1707328.txt_965_1066	obj
+corpus_1707328.txt_1066_1312	obj
+corpus_1707328.txt_1313_1451	obj
+corpus_1707328.txt_1460_1521	subj
+corpus_1707328.txt_1522_1644	subj
+corpus_1707328.txt_1645_1760	obj
+corpus_1707328.txt_1769_1960	subj
+corpus_1707328.txt_1961_2064	subj
+corpus_1707328.txt_2065_2258	obj
+corpus_1707328.txt_2267_2466	subj
+corpus_1707328.txt_2467_2604	subj
+corpus_1707328.txt_2613_2622	obj

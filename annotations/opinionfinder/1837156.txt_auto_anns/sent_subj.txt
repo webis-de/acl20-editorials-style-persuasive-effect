@@ -1,0 +1,16 @@
+corpus_1837156.txt_9_221	subj
+corpus_1837156.txt_222_358	obj
+corpus_1837156.txt_367_693	subj
+corpus_1837156.txt_702_1006	subj
+corpus_1837156.txt_1015_1139	obj
+corpus_1837156.txt_1140_1236	obj
+corpus_1837156.txt_1237_1329	subj
+corpus_1837156.txt_1330_1479	subj
+corpus_1837156.txt_1480_1754	subj
+corpus_1837156.txt_1763_1942	subj
+corpus_1837156.txt_1943_2166	subj
+corpus_1837156.txt_2175_2447	subj
+corpus_1837156.txt_2448_2722	subj
+corpus_1837156.txt_2723_2849	subj
+corpus_1837156.txt_2850_3106	subj
+corpus_1837156.txt_3115_3126	obj

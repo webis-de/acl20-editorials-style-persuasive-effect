@@ -1,0 +1,7 @@
+corpus_1811987.txt_3022_3028	neutral
+corpus_1811987.txt_3031_3039	neutral
+corpus_1811987.txt_3078_3084	neutral
+corpus_1811987.txt_3097_3102	neutral
+corpus_1811987.txt_3114_3121	neutral
+corpus_1811987.txt_3152_3156	neutral
+corpus_1811987.txt_3174_3183	neutral

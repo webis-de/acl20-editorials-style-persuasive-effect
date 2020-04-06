@@ -1,0 +1,4 @@
+corpus_1839718.txt_2389_2395	negative
+corpus_1839718.txt_2404_2411	negative
+corpus_1839718.txt_2428_2434	neutral
+corpus_1839718.txt_2484_2488	neutral

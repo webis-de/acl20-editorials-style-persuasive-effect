@@ -1,0 +1,16 @@
+corpus_1828383.txt_9_105	subj
+corpus_1828383.txt_106_327	subj
+corpus_1828383.txt_336_539	obj
+corpus_1828383.txt_540_588	subj
+corpus_1828383.txt_589_670	subj
+corpus_1828383.txt_679_807	subj
+corpus_1828383.txt_808_1009	subj
+corpus_1828383.txt_1010_1237	subj
+corpus_1828383.txt_1246_1532	subj
+corpus_1828383.txt_1541_1652	subj
+corpus_1828383.txt_1653_1845	subj
+corpus_1828383.txt_1846_2037	subj
+corpus_1828383.txt_2046_2108	obj
+corpus_1828383.txt_2109_2280	subj
+corpus_1828383.txt_2289_2451	subj
+corpus_1828383.txt_2460_2469	obj

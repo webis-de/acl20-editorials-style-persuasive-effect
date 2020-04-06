@@ -1,0 +1,8 @@
+corpus_1846108.txt_3181_3192	negative
+corpus_1846108.txt_3202_3210	negative
+corpus_1846108.txt_3234_3240	neutral
+corpus_1846108.txt_3315_3319	neutral
+corpus_1846108.txt_3370_3375	neutral
+corpus_1846108.txt_3379_3388	neutral
+corpus_1846108.txt_3393_3398	positive
+corpus_1846108.txt_3413_3423	neutral

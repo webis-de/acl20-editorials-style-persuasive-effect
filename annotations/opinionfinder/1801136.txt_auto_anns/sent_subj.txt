@@ -1,0 +1,14 @@
+corpus_1801136.txt_9_181	obj
+corpus_1801136.txt_182_397	obj
+corpus_1801136.txt_406_679	obj
+corpus_1801136.txt_680_882	obj
+corpus_1801136.txt_891_1096	subj
+corpus_1801136.txt_1097_1348	subj
+corpus_1801136.txt_1357_1492	subj
+corpus_1801136.txt_1493_1739	subj
+corpus_1801136.txt_1748_1944	subj
+corpus_1801136.txt_1945_2079	subj
+corpus_1801136.txt_2080_2232	subj
+corpus_1801136.txt_2241_2490	subj
+corpus_1801136.txt_2499_2695	subj
+corpus_1801136.txt_2704_2713	obj

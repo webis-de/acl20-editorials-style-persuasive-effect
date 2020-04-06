@@ -1,0 +1,15 @@
+corpus_1806815.txt_9_96	unknown
+corpus_1806815.txt_97_307	unknown
+corpus_1806815.txt_308_540	subj
+corpus_1806815.txt_549_602	unknown
+corpus_1806815.txt_603_879	subj
+corpus_1806815.txt_880_1144	unknown
+corpus_1806815.txt_1153_1277	unknown
+corpus_1806815.txt_1278_1685	unknown
+corpus_1806815.txt_1694_1931	unknown
+corpus_1806815.txt_1940_2081	unknown
+corpus_1806815.txt_2082_2240	unknown
+corpus_1806815.txt_2249_2463	unknown
+corpus_1806815.txt_2472_2622	unknown
+corpus_1806815.txt_2623_2743	unknown
+corpus_1806815.txt_2752_2761	obj

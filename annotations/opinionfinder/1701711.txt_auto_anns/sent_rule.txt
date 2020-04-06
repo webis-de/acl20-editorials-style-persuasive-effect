@@ -1,0 +1,16 @@
+corpus_1701711.txt_9_200	unknown
+corpus_1701711.txt_201_237	subj
+corpus_1701711.txt_238_366	unknown
+corpus_1701711.txt_375_472	unknown
+corpus_1701711.txt_473_598	unknown
+corpus_1701711.txt_599_918	unknown
+corpus_1701711.txt_927_1060	unknown
+corpus_1701711.txt_1061_1159	obj
+corpus_1701711.txt_1160_1540	unknown
+corpus_1701711.txt_1541_1620	obj
+corpus_1701711.txt_1629_1825	obj
+corpus_1701711.txt_1834_1935	unknown
+corpus_1701711.txt_1936_2162	unknown
+corpus_1701711.txt_2171_2519	unknown
+corpus_1701711.txt_2520_2583	obj
+corpus_1701711.txt_2592_2601	obj

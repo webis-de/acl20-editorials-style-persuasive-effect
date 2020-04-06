@@ -1,0 +1,5 @@
+corpus_1842995.txt_2459_2464	negative
+corpus_1842995.txt_2487_2492	negative
+corpus_1842995.txt_2513_2517	negative
+corpus_1842995.txt_2524_2529	negative
+corpus_1842995.txt_2581_2591	negative

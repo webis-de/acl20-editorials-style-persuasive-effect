@@ -1,0 +1,5 @@
+corpus_1811523.txt_2275_2279	neutral
+corpus_1811523.txt_2310_2316	neutral
+corpus_1811523.txt_2337_2343	neutral
+corpus_1811523.txt_2354_2356	neutral
+corpus_1811523.txt_2363_2370	neutral

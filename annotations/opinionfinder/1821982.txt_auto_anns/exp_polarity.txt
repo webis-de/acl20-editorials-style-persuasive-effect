@@ -1,0 +1,9 @@
+corpus_1821982.txt_2455_2461	neutral
+corpus_1821982.txt_2510_2516	positive
+corpus_1821982.txt_2577_2585	positive
+corpus_1821982.txt_2710_2716	neutral
+corpus_1821982.txt_2720_2724	neutral
+corpus_1821982.txt_2742_2751	neutral
+corpus_1821982.txt_2757_2762	neutral
+corpus_1821982.txt_2827_2835	neutral
+corpus_1821982.txt_2865_2872	neutral

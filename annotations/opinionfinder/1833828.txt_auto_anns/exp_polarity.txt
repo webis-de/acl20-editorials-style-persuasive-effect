@@ -1,0 +1,7 @@
+corpus_1833828.txt_3130_3132	neutral
+corpus_1833828.txt_3136_3141	neutral
+corpus_1833828.txt_3192_3201	neutral
+corpus_1833828.txt_3226_3233	neutral
+corpus_1833828.txt_3278_3288	neutral
+corpus_1833828.txt_3310_3314	neutral
+corpus_1833828.txt_3345_3350	neutral

@@ -1,0 +1,3 @@
+corpus_1702471.txt_3195_3200	neutral
+corpus_1702471.txt_3272_3276	neutral
+corpus_1702471.txt_3328_3332	neutral

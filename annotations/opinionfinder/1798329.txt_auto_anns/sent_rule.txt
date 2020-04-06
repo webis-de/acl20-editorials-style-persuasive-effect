@@ -1,0 +1,17 @@
+corpus_1798329.txt_9_83	unknown
+corpus_1798329.txt_84_133	unknown
+corpus_1798329.txt_134_274	unknown
+corpus_1798329.txt_275_440	subj
+corpus_1798329.txt_449_616	unknown
+corpus_1798329.txt_625_823	unknown
+corpus_1798329.txt_824_1016	subj
+corpus_1798329.txt_1025_1289	unknown
+corpus_1798329.txt_1290_1541	unknown
+corpus_1798329.txt_1542_1750	unknown
+corpus_1798329.txt_1759_2016	unknown
+corpus_1798329.txt_2017_2073	unknown
+corpus_1798329.txt_2074_2182	unknown
+corpus_1798329.txt_2191_2463	unknown
+corpus_1798329.txt_2464_2645	unknown
+corpus_1798329.txt_2654_2902	unknown
+corpus_1798329.txt_2911_2920	obj

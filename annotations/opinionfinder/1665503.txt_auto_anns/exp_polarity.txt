@@ -1,0 +1,14 @@
+corpus_1665503.txt_3070_3079	neutral
+corpus_1665503.txt_3136_3140	positive
+corpus_1665503.txt_3156_3160	neutral
+corpus_1665503.txt_3177_3181	neutral
+corpus_1665503.txt_3183_3190	neutral
+corpus_1665503.txt_3202_3208	positive
+corpus_1665503.txt_3271_3280	negative
+corpus_1665503.txt_3285_3295	negative
+corpus_1665503.txt_3340_3347	neutral
+corpus_1665503.txt_3470_3474	neutral
+corpus_1665503.txt_3506_3510	neutral
+corpus_1665503.txt_3546_3551	neutral
+corpus_1665503.txt_3552_3560	neutral
+corpus_1665503.txt_3561_3567	negative

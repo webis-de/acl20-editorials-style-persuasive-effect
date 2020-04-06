@@ -1,0 +1,12 @@
+corpus_1675402.txt_2613_2624	neutral
+corpus_1675402.txt_2632_2639	neutral
+corpus_1675402.txt_2640_2648	negative
+corpus_1675402.txt_2711_2719	neutral
+corpus_1675402.txt_2814_2818	neutral
+corpus_1675402.txt_2839_2848	neutral
+corpus_1675402.txt_2866_2870	neutral
+corpus_1675402.txt_2971_2976	neutral
+corpus_1675402.txt_2985_2989	neutral
+corpus_1675402.txt_3015_3019	positive
+corpus_1675402.txt_3020_3026	neutral
+corpus_1675402.txt_3051_3056	neutral

@@ -1,0 +1,13 @@
+corpus_1706937.txt_9_241	unknown
+corpus_1706937.txt_242_425	unknown
+corpus_1706937.txt_434_781	unknown
+corpus_1706937.txt_782_956	unknown
+corpus_1706937.txt_965_1282	unknown
+corpus_1706937.txt_1283_1476	unknown
+corpus_1706937.txt_1485_1758	unknown
+corpus_1706937.txt_1767_1846	unknown
+corpus_1706937.txt_1847_2082	unknown
+corpus_1706937.txt_2091_2420	unknown
+corpus_1706937.txt_2429_2522	unknown
+corpus_1706937.txt_2523_2626	obj
+corpus_1706937.txt_2627_2741	unknown

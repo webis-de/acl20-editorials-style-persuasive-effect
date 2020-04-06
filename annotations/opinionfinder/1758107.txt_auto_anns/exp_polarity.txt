@@ -1,0 +1,5 @@
+corpus_1758107.txt_3224_3234	positive
+corpus_1758107.txt_3241_3250	negative
+corpus_1758107.txt_3275_3281	positive
+corpus_1758107.txt_3304_3312	neutral
+corpus_1758107.txt_3314_3324	negative

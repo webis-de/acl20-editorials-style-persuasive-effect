@@ -1,0 +1,14 @@
+corpus_1817273.txt_9_244	obj
+corpus_1817273.txt_245_290	unknown
+corpus_1817273.txt_291_400	subj
+corpus_1817273.txt_409_489	unknown
+corpus_1817273.txt_490_634	obj
+corpus_1817273.txt_635_723	obj
+corpus_1817273.txt_732_945	obj
+corpus_1817273.txt_954_1123	unknown
+corpus_1817273.txt_1132_1319	unknown
+corpus_1817273.txt_1328_1522	unknown
+corpus_1817273.txt_1531_1858	unknown
+corpus_1817273.txt_1867_2146	unknown
+corpus_1817273.txt_2155_2308	unknown
+corpus_1817273.txt_2317_2439	obj

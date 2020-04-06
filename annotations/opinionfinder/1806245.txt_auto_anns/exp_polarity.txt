@@ -1,0 +1,13 @@
+corpus_1806245.txt_2991_2998	negative
+corpus_1806245.txt_3028_3035	neutral
+corpus_1806245.txt_3043_3048	neutral
+corpus_1806245.txt_3076_3082	negative
+corpus_1806245.txt_3087_3096	negative
+corpus_1806245.txt_3113_3121	neutral
+corpus_1806245.txt_3140_3146	neutral
+corpus_1806245.txt_3147_3153	neutral
+corpus_1806245.txt_3210_3218	negative
+corpus_1806245.txt_3295_3302	neutral
+corpus_1806245.txt_3304_3311	negative
+corpus_1806245.txt_3316_3322	negative
+corpus_1806245.txt_3340_3346	neutral

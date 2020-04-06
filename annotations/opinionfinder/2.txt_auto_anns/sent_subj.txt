@@ -1,0 +1,13 @@
+corpus_1644157.txt_9_283	obj
+corpus_1644157.txt_292_378	obj
+corpus_1644157.txt_379_517	obj
+corpus_1644157.txt_518_743	subj
+corpus_1644157.txt_744_1015	subj
+corpus_1644157.txt_1024_1305	subj
+corpus_1644157.txt_1306_1520	subj
+corpus_1644157.txt_1521_1926	subj
+corpus_1644157.txt_1935_2105	subj
+corpus_1644157.txt_2106_2296	subj
+corpus_1644157.txt_2297_2468	subj
+corpus_1644157.txt_2477_2727	subj
+corpus_1644157.txt_2736_2747	obj

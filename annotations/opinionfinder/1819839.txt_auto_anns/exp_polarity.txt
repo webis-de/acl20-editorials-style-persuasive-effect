@@ -1,0 +1,5 @@
+corpus_1819839.txt_3066_3071	neutral
+corpus_1819839.txt_3161_3170	neutral
+corpus_1819839.txt_3205_3214	neutral
+corpus_1819839.txt_3222_3230	neutral
+corpus_1819839.txt_3235_3241	neutral

@@ -1,0 +1,3 @@
+corpus_1818424.txt_2245_2250	neutral
+corpus_1818424.txt_2255_2259	neutral
+corpus_1818424.txt_2260_2268	positive

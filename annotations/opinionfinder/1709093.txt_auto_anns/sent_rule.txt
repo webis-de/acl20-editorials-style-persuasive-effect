@@ -1,0 +1,16 @@
+corpus_1709093.txt_9_179	unknown
+corpus_1709093.txt_180_245	subj
+corpus_1709093.txt_246_399	unknown
+corpus_1709093.txt_400_561	unknown
+corpus_1709093.txt_570_849	unknown
+corpus_1709093.txt_850_1049	subj
+corpus_1709093.txt_1050_1228	unknown
+corpus_1709093.txt_1229_1300	unknown
+corpus_1709093.txt_1309_1473	unknown
+corpus_1709093.txt_1474_1598	unknown
+corpus_1709093.txt_1599_1782	unknown
+corpus_1709093.txt_1783_2076	unknown
+corpus_1709093.txt_2085_2188	unknown
+corpus_1709093.txt_2189_2436	unknown
+corpus_1709093.txt_2437_2620	unknown
+corpus_1709093.txt_2629_2638	unknown

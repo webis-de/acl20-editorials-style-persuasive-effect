@@ -1,0 +1,15 @@
+corpus_1818732.txt_9_221	obj
+corpus_1818732.txt_230_640	unknown
+corpus_1818732.txt_649_716	unknown
+corpus_1818732.txt_717_865	obj
+corpus_1818732.txt_866_1007	obj
+corpus_1818732.txt_1016_1039	obj
+corpus_1818732.txt_1040_1332	unknown
+corpus_1818732.txt_1341_1439	unknown
+corpus_1818732.txt_1440_1731	unknown
+corpus_1818732.txt_1740_1903	subj
+corpus_1818732.txt_1904_2050	unknown
+corpus_1818732.txt_2051_2157	unknown
+corpus_1818732.txt_2166_2403	unknown
+corpus_1818732.txt_2412_2690	unknown
+corpus_1818732.txt_2699_2710	unknown

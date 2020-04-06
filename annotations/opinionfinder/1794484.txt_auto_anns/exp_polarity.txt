@@ -1,0 +1,13 @@
+corpus_1794484.txt_1924_1929	positive
+corpus_1794484.txt_1933_1938	neutral
+corpus_1794484.txt_1939_1951	negative
+corpus_1794484.txt_1952_1959	negative
+corpus_1794484.txt_1988_1996	neutral
+corpus_1794484.txt_2227_2236	positive
+corpus_1794484.txt_2237_2244	neutral
+corpus_1794484.txt_2267_2271	neutral
+corpus_1794484.txt_2324_2331	negative
+corpus_1794484.txt_2360_2364	neutral
+corpus_1794484.txt_2415_2421	neutral
+corpus_1794484.txt_2452_2458	neutral
+corpus_1794484.txt_2526_2531	neutral

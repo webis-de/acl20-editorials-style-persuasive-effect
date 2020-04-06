@@ -1,0 +1,7 @@
+corpus_1768201.txt_2964_2974	negative
+corpus_1768201.txt_3017_3021	neutral
+corpus_1768201.txt_3153_3166	neutral
+corpus_1768201.txt_3234_3245	negative
+corpus_1768201.txt_3269_3273	neutral
+corpus_1768201.txt_3292_3297	neutral
+corpus_1768201.txt_3303_3307	positive

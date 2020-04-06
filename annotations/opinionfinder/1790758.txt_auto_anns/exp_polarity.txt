@@ -1,0 +1,6 @@
+corpus_1790758.txt_2861_2867	neutral
+corpus_1790758.txt_2880_2885	neutral
+corpus_1790758.txt_2922_2932	neutral
+corpus_1790758.txt_2953_2961	neutral
+corpus_1790758.txt_2966_2977	neutral
+corpus_1790758.txt_3036_3041	neutral

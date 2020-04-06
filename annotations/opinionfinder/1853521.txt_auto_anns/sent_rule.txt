@@ -1,0 +1,16 @@
+corpus_1853521.txt_9_301	unknown
+corpus_1853521.txt_310_410	unknown
+corpus_1853521.txt_411_641	unknown
+corpus_1853521.txt_650_833	unknown
+corpus_1853521.txt_842_871	unknown
+corpus_1853521.txt_872_1029	unknown
+corpus_1853521.txt_1029_1256	unknown
+corpus_1853521.txt_1265_1580	unknown
+corpus_1853521.txt_1581_1599	unknown
+corpus_1853521.txt_1600_1805	subj
+corpus_1853521.txt_1814_2018	unknown
+corpus_1853521.txt_2027_2299	subj
+corpus_1853521.txt_2300_2449	subj
+corpus_1853521.txt_2458_2683	unknown
+corpus_1853521.txt_2684_2959	unknown
+corpus_1853521.txt_2968_2993	unknown

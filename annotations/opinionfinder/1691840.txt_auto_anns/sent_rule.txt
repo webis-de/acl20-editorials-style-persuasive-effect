@@ -1,0 +1,16 @@
+corpus_1691840.txt_9_233	unknown
+corpus_1691840.txt_234_539	unknown
+corpus_1691840.txt_548_793	subj
+corpus_1691840.txt_794_989	unknown
+corpus_1691840.txt_990_1168	subj
+corpus_1691840.txt_1177_1358	unknown
+corpus_1691840.txt_1359_1460	unknown
+corpus_1691840.txt_1461_1611	unknown
+corpus_1691840.txt_1620_1774	subj
+corpus_1691840.txt_1783_2028	subj
+corpus_1691840.txt_2029_2146	unknown
+corpus_1691840.txt_2147_2323	unknown
+corpus_1691840.txt_2332_2430	unknown
+corpus_1691840.txt_2431_2559	unknown
+corpus_1691840.txt_2560_2705	unknown
+corpus_1691840.txt_2714_2723	obj

@@ -1,0 +1,16 @@
+corpus_1702472.txt_9_130	subj
+corpus_1702472.txt_131_188	subj
+corpus_1702472.txt_189_339	subj
+corpus_1702472.txt_348_505	obj
+corpus_1702472.txt_506_782	subj
+corpus_1702472.txt_791_854	obj
+corpus_1702472.txt_855_1101	obj
+corpus_1702472.txt_1110_1252	obj
+corpus_1702472.txt_1253_1498	subj
+corpus_1702472.txt_1499_1714	obj
+corpus_1702472.txt_1715_1814	subj
+corpus_1702472.txt_1823_2081	subj
+corpus_1702472.txt_2082_2207	obj
+corpus_1702472.txt_2216_2406	obj
+corpus_1702472.txt_2407_2669	subj
+corpus_1702472.txt_2678_2687	obj

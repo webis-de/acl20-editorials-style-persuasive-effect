@@ -1,0 +1,6 @@
+corpus_1830419.txt_2569_2574	neutral
+corpus_1830419.txt_2586_2592	neutral
+corpus_1830419.txt_2659_2665	neutral
+corpus_1830419.txt_2669_2675	neutral
+corpus_1830419.txt_2716_2721	neutral
+corpus_1830419.txt_2749_2754	neutral

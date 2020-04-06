@@ -1,0 +1,4 @@
+corpus_1826583.txt_2407_2411	neutral
+corpus_1826583.txt_2421_2425	negative
+corpus_1826583.txt_2433_2438	neutral
+corpus_1826583.txt_2448_2454	neutral

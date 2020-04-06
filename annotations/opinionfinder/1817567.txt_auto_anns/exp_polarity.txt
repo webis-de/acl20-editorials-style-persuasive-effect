@@ -1,0 +1,16 @@
+corpus_1817567.txt_1936_1942	neutral
+corpus_1817567.txt_1997_2004	neutral
+corpus_1817567.txt_2011_2013	neutral
+corpus_1817567.txt_2014_2019	neutral
+corpus_1817567.txt_2020_2027	neutral
+corpus_1817567.txt_2055_2061	neutral
+corpus_1817567.txt_2065_2074	negative
+corpus_1817567.txt_2110_2114	neutral
+corpus_1817567.txt_2196_2201	neutral
+corpus_1817567.txt_2251_2261	negative
+corpus_1817567.txt_2262_2268	positive
+corpus_1817567.txt_2319_2325	neutral
+corpus_1817567.txt_2383_2391	neutral
+corpus_1817567.txt_2418_2422	neutral
+corpus_1817567.txt_2434_2444	neutral
+corpus_1817567.txt_2481_2487	neutral

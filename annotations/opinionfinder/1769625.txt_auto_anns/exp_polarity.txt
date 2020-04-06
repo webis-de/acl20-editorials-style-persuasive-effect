@@ -1,0 +1,7 @@
+corpus_1769625.txt_2890_2897	positive
+corpus_1769625.txt_2904_2912	neutral
+corpus_1769625.txt_2918_2922	positive
+corpus_1769625.txt_2923_2930	positive
+corpus_1769625.txt_2957_2961	neutral
+corpus_1769625.txt_2982_2990	neutral
+corpus_1769625.txt_2999_3007	positive

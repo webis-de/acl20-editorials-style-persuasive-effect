@@ -1,0 +1,3 @@
+corpus_1684108.txt_2496_2500	neutral
+corpus_1684108.txt_2515_2521	neutral
+corpus_1684108.txt_2562_2570	neutral

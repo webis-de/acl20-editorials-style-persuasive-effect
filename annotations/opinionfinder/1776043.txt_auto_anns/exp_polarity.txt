@@ -1,0 +1,14 @@
+corpus_1776043.txt_2727_2735	neutral
+corpus_1776043.txt_2736_2739	negative
+corpus_1776043.txt_2740_2744	negative
+corpus_1776043.txt_2880_2887	neutral
+corpus_1776043.txt_2897_2904	neutral
+corpus_1776043.txt_2972_2979	neutral
+corpus_1776043.txt_3006_3013	positive
+corpus_1776043.txt_3044_3052	neutral
+corpus_1776043.txt_3081_3086	neutral
+corpus_1776043.txt_3180_3189	neutral
+corpus_1776043.txt_3190_3194	negative
+corpus_1776043.txt_3198_3205	neutral
+corpus_1776043.txt_3219_3229	neutral
+corpus_1776043.txt_3240_3244	neutral

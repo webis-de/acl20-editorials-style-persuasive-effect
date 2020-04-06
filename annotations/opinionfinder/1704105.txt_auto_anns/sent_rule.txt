@@ -1,0 +1,15 @@
+corpus_1704105.txt_9_163	unknown
+corpus_1704105.txt_164_422	unknown
+corpus_1704105.txt_431_624	unknown
+corpus_1704105.txt_633_868	obj
+corpus_1704105.txt_869_1024	unknown
+corpus_1704105.txt_1025_1186	unknown
+corpus_1704105.txt_1195_1358	subj
+corpus_1704105.txt_1359_1472	unknown
+corpus_1704105.txt_1481_1675	unknown
+corpus_1704105.txt_1676_1754	unknown
+corpus_1704105.txt_1755_1933	unknown
+corpus_1704105.txt_1942_2019	unknown
+corpus_1704105.txt_2020_2300	subj
+corpus_1704105.txt_2301_2497	unknown
+corpus_1704105.txt_2506_2515	unknown

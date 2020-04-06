@@ -1,0 +1,6 @@
+corpus_1652155.txt_3294_3301	neutral
+corpus_1652155.txt_3303_3307	neutral
+corpus_1652155.txt_3308_3311	neutral
+corpus_1652155.txt_3312_3320	negative
+corpus_1652155.txt_3340_3351	neutral
+corpus_1652155.txt_3352_3360	neutral

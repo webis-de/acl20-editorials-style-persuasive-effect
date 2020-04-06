@@ -1,0 +1,9 @@
+corpus_1691686.txt_1997_2002	neutral
+corpus_1691686.txt_2009_2011	neutral
+corpus_1691686.txt_2032_2040	negative
+corpus_1691686.txt_2084_2089	neutral
+corpus_1691686.txt_2315_2322	neutral
+corpus_1691686.txt_2335_2339	neutral
+corpus_1691686.txt_2394_2399	neutral
+corpus_1691686.txt_2415_2422	neutral
+corpus_1691686.txt_2437_2441	neutral

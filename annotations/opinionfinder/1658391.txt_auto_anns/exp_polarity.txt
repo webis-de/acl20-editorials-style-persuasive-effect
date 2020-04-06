@@ -1,0 +1,8 @@
+corpus_1658391.txt_2651_2659	neutral
+corpus_1658391.txt_2664_2673	neutral
+corpus_1658391.txt_2717_2722	negative
+corpus_1658391.txt_2727_2737	negative
+corpus_1658391.txt_2773_2779	neutral
+corpus_1658391.txt_2820_2825	positive
+corpus_1658391.txt_2885_2889	neutral
+corpus_1658391.txt_2927_2933	negative

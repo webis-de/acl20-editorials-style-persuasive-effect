@@ -1,0 +1,17 @@
+corpus_1827988.txt_9_222	unknown
+corpus_1827988.txt_231_322	unknown
+corpus_1827988.txt_323_445	unknown
+corpus_1827988.txt_446_591	unknown
+corpus_1827988.txt_600_681	unknown
+corpus_1827988.txt_682_780	unknown
+corpus_1827988.txt_781_994	unknown
+corpus_1827988.txt_1003_1212	unknown
+corpus_1827988.txt_1213_1397	unknown
+corpus_1827988.txt_1406_1590	unknown
+corpus_1827988.txt_1591_1818	unknown
+corpus_1827988.txt_1827_2036	unknown
+corpus_1827988.txt_2045_2210	unknown
+corpus_1827988.txt_2211_2371	unknown
+corpus_1827988.txt_2380_2499	unknown
+corpus_1827988.txt_2508_2710	unknown
+corpus_1827988.txt_2711_2767	unknown

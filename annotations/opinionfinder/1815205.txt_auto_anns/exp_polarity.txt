@@ -1,0 +1,8 @@
+corpus_1815205.txt_2930_2939	negative
+corpus_1815205.txt_2950_2954	neutral
+corpus_1815205.txt_3096_3103	neutral
+corpus_1815205.txt_3118_3124	negative
+corpus_1815205.txt_3141_3148	neutral
+corpus_1815205.txt_3159_3167	positive
+corpus_1815205.txt_3237_3252	negative
+corpus_1815205.txt_3257_3264	negative

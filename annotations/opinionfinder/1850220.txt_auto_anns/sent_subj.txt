@@ -1,0 +1,16 @@
+corpus_1850220.txt_9_169	subj
+corpus_1850220.txt_178_341	subj
+corpus_1850220.txt_350_491	subj
+corpus_1850220.txt_492_712	subj
+corpus_1850220.txt_721_797	obj
+corpus_1850220.txt_806_1052	subj
+corpus_1850220.txt_1053_1249	obj
+corpus_1850220.txt_1258_1349	obj
+corpus_1850220.txt_1350_1459	obj
+corpus_1850220.txt_1468_1613	subj
+corpus_1850220.txt_1614_1776	subj
+corpus_1850220.txt_1777_1916	subj
+corpus_1850220.txt_1925_2180	subj
+corpus_1850220.txt_2181_2323	subj
+corpus_1850220.txt_2332_2509	subj
+corpus_1850220.txt_2518_2528	obj

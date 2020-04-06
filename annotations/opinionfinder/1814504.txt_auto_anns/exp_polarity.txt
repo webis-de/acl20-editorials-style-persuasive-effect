@@ -1,0 +1,6 @@
+corpus_1814504.txt_2615_2619	positive
+corpus_1814504.txt_2635_2639	neutral
+corpus_1814504.txt_2640_2646	neutral
+corpus_1814504.txt_2687_2694	negative
+corpus_1814504.txt_2695_2703	negative
+corpus_1814504.txt_2707_2714	positive

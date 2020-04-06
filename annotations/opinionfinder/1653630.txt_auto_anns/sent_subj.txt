@@ -1,0 +1,16 @@
+corpus_1653630.txt_9_300	obj
+corpus_1653630.txt_301_466	subj
+corpus_1653630.txt_467_632	subj
+corpus_1653630.txt_641_1013	subj
+corpus_1653630.txt_1022_1131	obj
+corpus_1653630.txt_1132_1284	obj
+corpus_1653630.txt_1285_1440	subj
+corpus_1653630.txt_1441_1713	subj
+corpus_1653630.txt_1722_1914	subj
+corpus_1653630.txt_1915_2123	subj
+corpus_1653630.txt_2124_2296	obj
+corpus_1653630.txt_2297_2333	obj
+corpus_1653630.txt_2334_2453	subj
+corpus_1653630.txt_2454_2609	obj
+corpus_1653630.txt_2610_2728	subj
+corpus_1653630.txt_2737_2746	obj

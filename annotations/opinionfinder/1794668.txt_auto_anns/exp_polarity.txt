@@ -1,0 +1,9 @@
+corpus_1794668.txt_2302_2306	neutral
+corpus_1794668.txt_2337_2345	neutral
+corpus_1794668.txt_2360_2364	neutral
+corpus_1794668.txt_2373_2377	neutral
+corpus_1794668.txt_2403_2411	neutral
+corpus_1794668.txt_2505_2508	neutral
+corpus_1794668.txt_2520_2525	neutral
+corpus_1794668.txt_2538_2548	negative
+corpus_1794668.txt_2571_2576	negative

@@ -1,0 +1,17 @@
+corpus_1811342.txt_9_34	unknown
+corpus_1811342.txt_35_256	unknown
+corpus_1811342.txt_265_580	unknown
+corpus_1811342.txt_589_733	unknown
+corpus_1811342.txt_734_900	unknown
+corpus_1811342.txt_901_1104	obj
+corpus_1811342.txt_1105_1193	unknown
+corpus_1811342.txt_1202_1399	unknown
+corpus_1811342.txt_1400_1518	unknown
+corpus_1811342.txt_1527_1663	obj
+corpus_1811342.txt_1664_1810	unknown
+corpus_1811342.txt_1811_2141	unknown
+corpus_1811342.txt_2150_2311	unknown
+corpus_1811342.txt_2312_2476	unknown
+corpus_1811342.txt_2485_2662	unknown
+corpus_1811342.txt_2663_2737	unknown
+corpus_1811342.txt_2746_2755	obj

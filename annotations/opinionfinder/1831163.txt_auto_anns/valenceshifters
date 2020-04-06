@@ -1,0 +1,4 @@
+1	63,66	matchfeat	type="negation" 
+2	1770,1773	matchfeat	type="negation" 
+3	1770,1778	matchfeat	type="notshifter" 
+4	2308,2314	matchfeat	type="genshifter" 

@@ -1,0 +1,16 @@
+corpus_1822578.txt_9_299	obj
+corpus_1822578.txt_308_480	obj
+corpus_1822578.txt_481_643	obj
+corpus_1822578.txt_644_850	obj
+corpus_1822578.txt_859_1097	obj
+corpus_1822578.txt_1106_1276	obj
+corpus_1822578.txt_1277_1325	obj
+corpus_1822578.txt_1326_1533	subj
+corpus_1822578.txt_1542_1757	subj
+corpus_1822578.txt_1758_1881	obj
+corpus_1822578.txt_1882_1997	obj
+corpus_1822578.txt_2006_2265	obj
+corpus_1822578.txt_2266_2455	subj
+corpus_1822578.txt_2464_2584	subj
+corpus_1822578.txt_2585_2691	subj
+corpus_1822578.txt_2700_2709	obj

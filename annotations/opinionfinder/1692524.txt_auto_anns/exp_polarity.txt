@@ -1,0 +1,6 @@
+corpus_1692524.txt_3474_3479	neutral
+corpus_1692524.txt_3500_3506	positive
+corpus_1692524.txt_3512_3517	neutral
+corpus_1692524.txt_3518_3520	neutral
+corpus_1692524.txt_3521_3529	negative
+corpus_1692524.txt_3530_3537	neutral

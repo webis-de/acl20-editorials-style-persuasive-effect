@@ -1,0 +1,16 @@
+corpus_1656568.txt_9_89	obj
+corpus_1656568.txt_90_311	obj
+corpus_1656568.txt_320_704	subj
+corpus_1656568.txt_713_1100	subj
+corpus_1656568.txt_1109_1292	subj
+corpus_1656568.txt_1293_1513	obj
+corpus_1656568.txt_1514_1697	subj
+corpus_1656568.txt_1698_1827	obj
+corpus_1656568.txt_1836_2096	obj
+corpus_1656568.txt_2105_2405	subj
+corpus_1656568.txt_2414_2570	subj
+corpus_1656568.txt_2571_2829	obj
+corpus_1656568.txt_2838_2949	subj
+corpus_1656568.txt_2949_3201	subj
+corpus_1656568.txt_3202_3310	obj
+corpus_1656568.txt_3319_3330	obj

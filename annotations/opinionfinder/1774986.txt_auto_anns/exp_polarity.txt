@@ -1,0 +1,4 @@
+corpus_1774986.txt_3411_3415	neutral
+corpus_1774986.txt_3458_3466	neutral
+corpus_1774986.txt_3470_3474	positive
+corpus_1774986.txt_3483_3489	neutral

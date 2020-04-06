@@ -1,0 +1,7 @@
+corpus_1824429.txt_3240_3246	neutral
+corpus_1824429.txt_3259_3263	neutral
+corpus_1824429.txt_3286_3300	neutral
+corpus_1824429.txt_3316_3321	neutral
+corpus_1824429.txt_3367_3372	neutral
+corpus_1824429.txt_3398_3405	negative
+corpus_1824429.txt_3409_3415	neutral

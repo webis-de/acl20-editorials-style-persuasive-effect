@@ -1,0 +1,10 @@
+corpus_1821045.txt_2964_2969	neutral
+corpus_1821045.txt_3012_3016	neutral
+corpus_1821045.txt_3017_3024	positive
+corpus_1821045.txt_3042_3049	neutral
+corpus_1821045.txt_3081_3088	neutral
+corpus_1821045.txt_3100_3105	neutral
+corpus_1821045.txt_3106_3111	neutral
+corpus_1821045.txt_3119_3123	neutral
+corpus_1821045.txt_3190_3197	neutral
+corpus_1821045.txt_3198_3203	neutral

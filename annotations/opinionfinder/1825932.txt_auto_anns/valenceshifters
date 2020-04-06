@@ -1,0 +1,6 @@
+1	1179,1182	matchfeat	type="negation" 
+2	1603,1613	matchfeat	type="shiftneg" 
+3	2010,2012	matchfeat	type="negation" 
+4	2432,2435	matchfeat	type="negation" 
+5	2432,2440	matchfeat	type="notshifter" 
+6	2521,2524	matchfeat	type="negation" 

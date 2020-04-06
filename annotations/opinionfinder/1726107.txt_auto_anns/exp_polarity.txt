@@ -1,0 +1,4 @@
+corpus_1726107.txt_3002_3008	neutral
+corpus_1726107.txt_3028_3034	neutral
+corpus_1726107.txt_3051_3056	neutral
+corpus_1726107.txt_3066_3070	neutral

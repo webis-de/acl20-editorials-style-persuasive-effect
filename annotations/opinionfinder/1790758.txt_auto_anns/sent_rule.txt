@@ -1,0 +1,17 @@
+corpus_1790758.txt_9_222	unknown
+corpus_1790758.txt_223_470	unknown
+corpus_1790758.txt_479_522	unknown
+corpus_1790758.txt_523_756	obj
+corpus_1790758.txt_757_801	unknown
+corpus_1790758.txt_810_928	unknown
+corpus_1790758.txt_937_1193	unknown
+corpus_1790758.txt_1202_1349	unknown
+corpus_1790758.txt_1350_1626	unknown
+corpus_1790758.txt_1635_1963	unknown
+corpus_1790758.txt_1964_2075	unknown
+corpus_1790758.txt_2084_2325	unknown
+corpus_1790758.txt_2326_2574	unknown
+corpus_1790758.txt_2583_2649	unknown
+corpus_1790758.txt_2650_2829	unknown
+corpus_1790758.txt_2830_3073	unknown
+corpus_1790758.txt_3082_3090	unknown

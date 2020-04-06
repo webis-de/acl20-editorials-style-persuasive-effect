@@ -1,0 +1,16 @@
+corpus_1665894.txt_9_172	obj
+corpus_1665894.txt_181_423	unknown
+corpus_1665894.txt_424_600	unknown
+corpus_1665894.txt_601_823	subj
+corpus_1665894.txt_832_1002	subj
+corpus_1665894.txt_1003_1263	unknown
+corpus_1665894.txt_1272_1350	unknown
+corpus_1665894.txt_1351_1536	obj
+corpus_1665894.txt_1545_1687	unknown
+corpus_1665894.txt_1688_1855	unknown
+corpus_1665894.txt_1856_1973	unknown
+corpus_1665894.txt_1974_2108	unknown
+corpus_1665894.txt_2109_2366	unknown
+corpus_1665894.txt_2375_2553	unknown
+corpus_1665894.txt_2554_2708	unknown
+corpus_1665894.txt_2709_2767	obj

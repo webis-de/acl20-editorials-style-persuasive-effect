@@ -1,0 +1,11 @@
+corpus_1691840.txt_2351_2356	neutral
+corpus_1691840.txt_2357_2366	neutral
+corpus_1691840.txt_2370_2378	positive
+corpus_1691840.txt_2400_2404	neutral
+corpus_1691840.txt_2455_2461	neutral
+corpus_1691840.txt_2487_2492	neutral
+corpus_1691840.txt_2507_2511	neutral
+corpus_1691840.txt_2550_2555	neutral
+corpus_1691840.txt_2588_2597	neutral
+corpus_1691840.txt_2602_2606	neutral
+corpus_1691840.txt_2656_2661	neutral

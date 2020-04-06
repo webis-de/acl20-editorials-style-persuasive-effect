@@ -1,0 +1,10 @@
+corpus_1658390.txt_2913_2916	neutral
+corpus_1658390.txt_3005_3014	negative
+corpus_1658390.txt_3015_3020	negative
+corpus_1658390.txt_3024_3029	neutral
+corpus_1658390.txt_3038_3043	negative
+corpus_1658390.txt_3066_3075	positive
+corpus_1658390.txt_3082_3088	neutral
+corpus_1658390.txt_3092_3102	positive
+corpus_1658390.txt_3120_3126	neutral
+corpus_1658390.txt_3130_3134	negative

@@ -1,0 +1,16 @@
+corpus_1646839.txt_2652_2659	neutral
+corpus_1646839.txt_2694_2702	neutral
+corpus_1646839.txt_2731_2739	neutral
+corpus_1646839.txt_2750_2759	neutral
+corpus_1646839.txt_2826_2833	neutral
+corpus_1646839.txt_2858_2863	neutral
+corpus_1646839.txt_2864_2871	neutral
+corpus_1646839.txt_2905_2915	negative
+corpus_1646839.txt_2986_2992	negative
+corpus_1646839.txt_3004_3011	negative
+corpus_1646839.txt_3033_3039	negative
+corpus_1646839.txt_3070_3075	negative
+corpus_1646839.txt_3076_3082	negative
+corpus_1646839.txt_3103_3109	neutral
+corpus_1646839.txt_3110_3119	neutral
+corpus_1646839.txt_3120_3131	neutral

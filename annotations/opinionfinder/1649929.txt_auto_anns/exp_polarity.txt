@@ -1,0 +1,9 @@
+corpus_1649929.txt_2390_2400	neutral
+corpus_1649929.txt_2401_2408	positive
+corpus_1649929.txt_2409_2413	neutral
+corpus_1649929.txt_2437_2441	neutral
+corpus_1649929.txt_2499_2505	neutral
+corpus_1649929.txt_2541_2545	neutral
+corpus_1649929.txt_2598_2603	neutral
+corpus_1649929.txt_2624_2633	neutral
+corpus_1649929.txt_2673_2686	neutral

@@ -1,0 +1,15 @@
+corpus_1676640.txt_9_276	unknown
+corpus_1676640.txt_277_443	unknown
+corpus_1676640.txt_444_543	unknown
+corpus_1676640.txt_552_753	unknown
+corpus_1676640.txt_754_898	unknown
+corpus_1676640.txt_899_939	obj
+corpus_1676640.txt_940_970	obj
+corpus_1676640.txt_979_1248	unknown
+corpus_1676640.txt_1249_1459	unknown
+corpus_1676640.txt_1468_1745	unknown
+corpus_1676640.txt_1754_1975	unknown
+corpus_1676640.txt_1976_2262	unknown
+corpus_1676640.txt_2271_2536	unknown
+corpus_1676640.txt_2537_2771	unknown
+corpus_1676640.txt_2780_3011	subj

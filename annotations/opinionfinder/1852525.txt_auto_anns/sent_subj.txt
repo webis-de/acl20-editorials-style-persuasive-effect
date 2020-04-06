@@ -1,0 +1,13 @@
+corpus_1852525.txt_9_304	subj
+corpus_1852525.txt_305_486	subj
+corpus_1852525.txt_495_684	subj
+corpus_1852525.txt_685_886	subj
+corpus_1852525.txt_887_1112	subj
+corpus_1852525.txt_1121_1377	subj
+corpus_1852525.txt_1378_1518	subj
+corpus_1852525.txt_1527_1699	subj
+corpus_1852525.txt_1700_1855	subj
+corpus_1852525.txt_1864_2041	subj
+corpus_1852525.txt_2042_2206	obj
+corpus_1852525.txt_2207_2442	subj
+corpus_1852525.txt_2451_2460	obj

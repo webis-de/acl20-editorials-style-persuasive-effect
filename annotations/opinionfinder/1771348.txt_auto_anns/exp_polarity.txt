@@ -1,0 +1,6 @@
+corpus_1771348.txt_2315_2319	neutral
+corpus_1771348.txt_2320_2330	positive
+corpus_1771348.txt_2382_2384	neutral
+corpus_1771348.txt_2392_2396	neutral
+corpus_1771348.txt_2406_2411	neutral
+corpus_1771348.txt_2426_2430	neutral

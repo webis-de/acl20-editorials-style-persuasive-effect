@@ -1,0 +1,11 @@
+corpus_1837200.txt_2582_2593	neutral
+corpus_1837200.txt_2595_2598	neutral
+corpus_1837200.txt_2622_2635	neutral
+corpus_1837200.txt_2733_2737	neutral
+corpus_1837200.txt_2788_2797	neutral
+corpus_1837200.txt_2810_2816	neutral
+corpus_1837200.txt_2817_2828	neutral
+corpus_1837200.txt_2917_2923	neutral
+corpus_1837200.txt_2927_2931	neutral
+corpus_1837200.txt_2935_2940	neutral
+corpus_1837200.txt_2955_2961	neutral

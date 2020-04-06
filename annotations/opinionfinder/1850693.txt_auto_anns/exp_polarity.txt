@@ -1,0 +1,3 @@
+corpus_1850693.txt_3303_3310	positive
+corpus_1850693.txt_3371_3375	positive
+corpus_1850693.txt_3379_3383	negative

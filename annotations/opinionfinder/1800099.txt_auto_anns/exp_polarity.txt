@@ -1,0 +1,6 @@
+corpus_1800099.txt_3105_3109	neutral
+corpus_1800099.txt_3124_3132	positive
+corpus_1800099.txt_3133_3141	positive
+corpus_1800099.txt_3156_3160	positive
+corpus_1800099.txt_3161_3168	neutral
+corpus_1800099.txt_3172_3179	neutral

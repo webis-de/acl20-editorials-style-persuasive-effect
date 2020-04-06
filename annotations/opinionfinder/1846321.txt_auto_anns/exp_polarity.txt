@@ -1,0 +1,7 @@
+corpus_1846321.txt_2962_2966	neutral
+corpus_1846321.txt_2972_2981	neutral
+corpus_1846321.txt_3078_3083	neutral
+corpus_1846321.txt_3144_3149	neutral
+corpus_1846321.txt_3153_3157	neutral
+corpus_1846321.txt_3235_3242	positive
+corpus_1846321.txt_3250_3256	neutral

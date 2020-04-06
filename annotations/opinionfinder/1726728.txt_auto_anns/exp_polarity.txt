@@ -1,0 +1,13 @@
+corpus_1726728.txt_1894_1906	neutral
+corpus_1726728.txt_1948_1955	negative
+corpus_1726728.txt_2099_2104	neutral
+corpus_1726728.txt_2119_2131	neutral
+corpus_1726728.txt_2185_2192	neutral
+corpus_1726728.txt_2321_2328	neutral
+corpus_1726728.txt_2334_2339	neutral
+corpus_1726728.txt_2393_2397	neutral
+corpus_1726728.txt_2400_2407	neutral
+corpus_1726728.txt_2435_2440	neutral
+corpus_1726728.txt_2441_2443	neutral
+corpus_1726728.txt_2444_2448	positive
+corpus_1726728.txt_2463_2469	neutral

@@ -1,0 +1,17 @@
+corpus_1676758.txt_2163_2167	neutral
+corpus_1676758.txt_2227_2233	negative
+corpus_1676758.txt_2273_2278	neutral
+corpus_1676758.txt_2340_2352	neutral
+corpus_1676758.txt_2359_2365	neutral
+corpus_1676758.txt_2372_2378	positive
+corpus_1676758.txt_2379_2387	neutral
+corpus_1676758.txt_2391_2403	neutral
+corpus_1676758.txt_2423_2427	neutral
+corpus_1676758.txt_2435_2440	neutral
+corpus_1676758.txt_2467_2473	negative
+corpus_1676758.txt_2499_2507	negative
+corpus_1676758.txt_2527_2532	neutral
+corpus_1676758.txt_2546_2550	positive
+corpus_1676758.txt_2566_2571	neutral
+corpus_1676758.txt_2591_2596	negative
+corpus_1676758.txt_2597_2606	negative

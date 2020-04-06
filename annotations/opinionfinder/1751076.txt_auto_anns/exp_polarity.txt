@@ -1,0 +1,10 @@
+corpus_1751076.txt_2391_2399	neutral
+corpus_1751076.txt_2400_2405	neutral
+corpus_1751076.txt_2439_2443	neutral
+corpus_1751076.txt_2477_2481	neutral
+corpus_1751076.txt_2496_2502	neutral
+corpus_1751076.txt_2503_2509	negative
+corpus_1751076.txt_2534_2538	neutral
+corpus_1751076.txt_2598_2603	neutral
+corpus_1751076.txt_2616_2622	neutral
+corpus_1751076.txt_2664_2670	neutral

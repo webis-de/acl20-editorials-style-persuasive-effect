@@ -1,0 +1,4 @@
+corpus_1820318.txt_2842_2847	neutral
+corpus_1820318.txt_2851_2859	neutral
+corpus_1820318.txt_2915_2925	neutral
+corpus_1820318.txt_2952_2956	neutral

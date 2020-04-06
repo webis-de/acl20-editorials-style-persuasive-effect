@@ -1,0 +1,11 @@
+corpus_1836888.txt_1971_1974	neutral
+corpus_1836888.txt_1975_1984	neutral
+corpus_1836888.txt_1999_2005	neutral
+corpus_1836888.txt_2052_2058	neutral
+corpus_1836888.txt_2148_2156	neutral
+corpus_1836888.txt_2233_2239	neutral
+corpus_1836888.txt_2256_2262	neutral
+corpus_1836888.txt_2284_2290	neutral
+corpus_1836888.txt_2294_2304	neutral
+corpus_1836888.txt_2320_2326	neutral
+corpus_1836888.txt_2330_2337	neutral

@@ -1,0 +1,4 @@
+corpus_1787348.txt_2635_2639	neutral
+corpus_1787348.txt_2654_2659	neutral
+corpus_1787348.txt_2663_2667	neutral
+corpus_1787348.txt_2673_2680	negative

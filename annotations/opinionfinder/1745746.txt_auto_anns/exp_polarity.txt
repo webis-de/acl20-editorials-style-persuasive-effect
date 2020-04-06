@@ -1,0 +1,5 @@
+corpus_1745746.txt_3001_3005	neutral
+corpus_1745746.txt_3025_3029	neutral
+corpus_1745746.txt_3063_3070	neutral
+corpus_1745746.txt_3110_3122	neutral
+corpus_1745746.txt_3168_3173	neutral

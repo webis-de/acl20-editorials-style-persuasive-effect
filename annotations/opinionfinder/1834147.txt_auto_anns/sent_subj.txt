@@ -1,0 +1,13 @@
+corpus_1834147.txt_9_118	obj
+corpus_1834147.txt_119_204	obj
+corpus_1834147.txt_205_437	subj
+corpus_1834147.txt_446_796	subj
+corpus_1834147.txt_797_887	obj
+corpus_1834147.txt_896_1094	subj
+corpus_1834147.txt_1095_1241	obj
+corpus_1834147.txt_1250_1437	obj
+corpus_1834147.txt_1438_1931	subj
+corpus_1834147.txt_1940_2216	subj
+corpus_1834147.txt_2217_2386	subj
+corpus_1834147.txt_2395_2590	obj
+corpus_1834147.txt_2591_2642	obj

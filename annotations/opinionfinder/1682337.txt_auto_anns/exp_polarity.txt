@@ -1,0 +1,7 @@
+corpus_1682337.txt_2320_2324	neutral
+corpus_1682337.txt_2344_2352	neutral
+corpus_1682337.txt_2386_2391	neutral
+corpus_1682337.txt_2393_2400	neutral
+corpus_1682337.txt_2445_2450	neutral
+corpus_1682337.txt_2464_2471	neutral
+corpus_1682337.txt_2511_2518	neutral

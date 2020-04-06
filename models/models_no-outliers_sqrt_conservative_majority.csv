@@ -1,0 +1,64 @@
+,macro,micro,accuracy,challenging,no_effect,reinforcing,params,features,ideology
+5,0.37,0.38,0.38,0.3,0.42,0.39,"{'C': 1, 'class_weight': 'balanced'}","('lemma',)",conservative_majority
+17,0.36,0.36,0.36,0.34,0.38,0.36,"{'C': 1, 'class_weight': 'balanced'}","('mpqa_arg', 'lemma')",conservative_majority
+13,0.36,0.37,0.37,0.26,0.44,0.39,"{'C': 100, 'class_weight': 'balanced'}","('nrc', 'adu')",conservative_majority
+55,0.35,0.36,0.36,0.31,0.36,0.39,"{'C': 1, 'class_weight': 'balanced'}","('mpqa_arg', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+29,0.35,0.36,0.36,0.3,0.34,0.43,"{'C': 100, 'class_weight': 'balanced'}","('liwc', 'mpqa_subjobg', 'lemma')",conservative_majority
+10,0.35,0.35,0.35,0.29,0.33,0.41,"{'C': 100, 'class_weight': 'balanced'}","('liwc', 'lemma')",conservative_majority
+33,0.34,0.35,0.35,0.23,0.44,0.35,"{'C': 0.1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'lemma')",conservative_majority
+40,0.34,0.35,0.35,0.3,0.32,0.42,"{'C': 100, 'class_weight': 'balanced'}","('mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+14,0.34,0.35,0.35,0.31,0.35,0.37,"{'C': 1, 'class_weight': 'balanced'}","('nrc', 'lemma')",conservative_majority
+30,0.34,0.34,0.34,0.29,0.35,0.37,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'adu', 'lemma')",conservative_majority
+16,0.34,0.34,0.34,0.29,0.3,0.42,"{'C': 0.1, 'class_weight': 'balanced'}","('mpqa_arg', 'adu')",conservative_majority
+19,0.34,0.35,0.35,0.27,0.31,0.44,"{'C': 100, 'class_weight': 'balanced'}","('mpqa_subjobg', 'lemma')",conservative_majority
+54,0.34,0.34,0.34,0.31,0.36,0.35,"{'C': 10, 'class_weight': 'balanced'}","('nrc', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+38,0.33,0.34,0.34,0.3,0.34,0.36,"{'C': 1, 'class_weight': 'balanced'}","('mpqa_arg', 'mpqa_subjobg', 'lemma')",conservative_majority
+37,0.33,0.33,0.33,0.28,0.33,0.38,"{'C': 0.1, 'class_weight': 'balanced'}","('mpqa_arg', 'mpqa_subjobg', 'adu')",conservative_majority
+36,0.33,0.34,0.34,0.26,0.37,0.36,"{'C': 1, 'class_weight': 'balanced'}","('nrc', 'adu', 'lemma')",conservative_majority
+34,0.33,0.34,0.34,0.25,0.42,0.33,"{'C': 10, 'class_weight': 'balanced'}","('nrc', 'mpqa_subjobg', 'adu')",conservative_majority
+23,0.33,0.34,0.34,0.26,0.38,0.34,"{'C': 0.01, 'class_weight': 'balanced'}","('liwc', 'nrc', 'adu')",conservative_majority
+53,0.33,0.33,0.33,0.29,0.32,0.37,"{'C': 1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'adu', 'lemma')",conservative_majority
+44,0.33,0.34,0.34,0.28,0.38,0.34,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_subjobg', 'adu')",conservative_majority
+50,0.33,0.33,0.33,0.29,0.36,0.33,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+62,0.33,0.33,0.33,0.31,0.33,0.34,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+48,0.33,0.33,0.33,0.32,0.33,0.34,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'mpqa_subjobg', 'lemma')",conservative_majority
+6,0.33,0.33,0.33,0.28,0.38,0.31,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc')",conservative_majority
+61,0.33,0.33,0.33,0.31,0.32,0.36,"{'C': 1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+58,0.33,0.33,0.33,0.3,0.32,0.37,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'adu', 'lemma')",conservative_majority
+59,0.33,0.33,0.33,0.27,0.38,0.33,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+11,0.33,0.34,0.34,0.24,0.4,0.36,"{'C': 10, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg')",conservative_majority
+8,0.33,0.33,0.33,0.31,0.36,0.31,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_subjobg')",conservative_majority
+49,0.32,0.32,0.32,0.28,0.32,0.35,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'adu', 'lemma')",conservative_majority
+20,0.32,0.34,0.34,0.24,0.31,0.42,"{'C': 100, 'class_weight': 'balanced'}","('adu', 'lemma')",conservative_majority
+27,0.32,0.33,0.33,0.32,0.31,0.35,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'lemma')",conservative_majority
+46,0.31,0.32,0.32,0.23,0.39,0.32,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'adu', 'lemma')",conservative_majority
+60,0.31,0.31,0.31,0.28,0.3,0.35,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'mpqa_subjobg', 'adu', 'lemma')",conservative_majority
+42,0.31,0.32,0.32,0.22,0.38,0.34,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'adu')",conservative_majority
+52,0.31,0.32,0.32,0.29,0.27,0.39,"{'C': 1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'mpqa_subjobg', 'lemma')",conservative_majority
+4,0.31,0.31,0.31,0.29,0.24,0.39,"{'C': 10, 'class_weight': 'balanced'}","('adu',)",conservative_majority
+56,0.31,0.32,0.32,0.23,0.41,0.31,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'mpqa_subjobg', 'adu')",conservative_majority
+9,0.31,0.31,0.31,0.28,0.3,0.34,"{'C': 100, 'class_weight': 'balanced'}","('liwc', 'adu')",conservative_majority
+26,0.31,0.31,0.31,0.25,0.37,0.3,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'adu')",conservative_majority
+35,0.31,0.31,0.31,0.26,0.34,0.32,"{'C': 1, 'class_weight': 'balanced'}","('nrc', 'mpqa_subjobg', 'lemma')",conservative_majority
+7,0.3,0.3,0.3,0.26,0.32,0.31,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg')",conservative_majority
+39,0.3,0.31,0.31,0.21,0.34,0.36,"{'C': 10, 'class_weight': 'balanced'}","('mpqa_arg', 'adu', 'lemma')",conservative_majority
+21,0.3,0.31,0.31,0.22,0.37,0.32,"{'C': 10, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg')",conservative_majority
+32,0.3,0.31,0.31,0.22,0.34,0.36,"{'C': 0.1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'adu')",conservative_majority
+43,0.3,0.3,0.3,0.25,0.35,0.29,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'lemma')",conservative_majority
+28,0.3,0.3,0.3,0.3,0.28,0.32,"{'C': 100, 'class_weight': 'balanced'}","('liwc', 'mpqa_subjobg', 'adu')",conservative_majority
+47,0.3,0.31,0.31,0.26,0.31,0.34,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'mpqa_subjobg', 'adu')",conservative_majority
+57,0.29,0.3,0.3,0.27,0.33,0.28,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'mpqa_subjobg', 'lemma')",conservative_majority
+31,0.29,0.3,0.3,0.22,0.36,0.29,"{'C': 0.1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'mpqa_subjobg')",conservative_majority
+41,0.29,0.3,0.3,0.27,0.32,0.29,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_arg', 'mpqa_subjobg')",conservative_majority
+24,0.29,0.3,0.3,0.21,0.35,0.3,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'lemma')",conservative_majority
+18,0.29,0.3,0.3,0.25,0.23,0.38,"{'C': 0.1, 'class_weight': 'balanced'}","('mpqa_subjobg', 'adu')",conservative_majority
+15,0.29,0.29,0.29,0.3,0.28,0.29,"{'C': 0.1, 'class_weight': 'balanced'}","('mpqa_arg', 'mpqa_subjobg')",conservative_majority
+12,0.29,0.3,0.3,0.28,0.39,0.22,"{'C': 0.1, 'class_weight': 'balanced'}","('nrc', 'mpqa_subjobg')",conservative_majority
+2,0.29,0.29,0.29,0.31,0.24,0.3,"{'C': 0.1, 'class_weight': 'balanced'}","('mpqa_arg',)",conservative_majority
+45,0.28,0.29,0.29,0.27,0.33,0.25,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_subjobg', 'lemma')",conservative_majority
+51,0.28,0.29,0.29,0.19,0.34,0.32,"{'C': 0.1, 'class_weight': 'balanced'}","('nrc', 'mpqa_arg', 'mpqa_subjobg', 'adu')",conservative_majority
+1,0.28,0.29,0.29,0.26,0.36,0.23,"{'C': 0.1, 'class_weight': 'balanced'}","('nrc',)",conservative_majority
+25,0.28,0.28,0.28,0.27,0.27,0.3,"{'C': 1, 'class_weight': 'balanced'}","('liwc', 'mpqa_arg', 'mpqa_subjobg')",conservative_majority
+22,0.28,0.29,0.29,0.26,0.32,0.26,"{'C': 0.1, 'class_weight': 'balanced'}","('liwc', 'nrc', 'mpqa_subjobg')",conservative_majority
+3,0.26,0.28,0.28,0.2,0.24,0.35,"{'C': 0.1, 'class_weight': 'balanced'}","('mpqa_subjobg',)",conservative_majority
+0,0.25,0.26,0.26,0.21,0.3,0.26,"{'C': 100, 'class_weight': 'balanced'}","('liwc',)",conservative_majority

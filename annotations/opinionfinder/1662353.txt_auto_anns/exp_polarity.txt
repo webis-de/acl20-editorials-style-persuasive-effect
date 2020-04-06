@@ -1,0 +1,13 @@
+corpus_1662353.txt_2629_2633	neutral
+corpus_1662353.txt_2653_2663	negative
+corpus_1662353.txt_2664_2675	neutral
+corpus_1662353.txt_2716_2725	negative
+corpus_1662353.txt_2774_2783	neutral
+corpus_1662353.txt_2824_2829	neutral
+corpus_1662353.txt_2830_2842	neutral
+corpus_1662353.txt_2843_2849	negative
+corpus_1662353.txt_2870_2874	negative
+corpus_1662353.txt_2884_2889	neutral
+corpus_1662353.txt_2917_2928	neutral
+corpus_1662353.txt_2970_2976	neutral
+corpus_1662353.txt_3099_3107	neutral

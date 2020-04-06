@@ -1,0 +1,15 @@
+corpus_1725082.txt_9_248	subj
+corpus_1725082.txt_257_513	subj
+corpus_1725082.txt_514_630	unknown
+corpus_1725082.txt_631_891	unknown
+corpus_1725082.txt_900_1064	unknown
+corpus_1725082.txt_1065_1242	unknown
+corpus_1725082.txt_1243_1412	unknown
+corpus_1725082.txt_1413_1579	subj
+corpus_1725082.txt_1588_1797	unknown
+corpus_1725082.txt_1806_2068	unknown
+corpus_1725082.txt_2069_2238	unknown
+corpus_1725082.txt_2239_2412	unknown
+corpus_1725082.txt_2421_2645	unknown
+corpus_1725082.txt_2654_2813	subj
+corpus_1725082.txt_2822_2831	unknown

@@ -1,0 +1,15 @@
+corpus_1654554.txt_2009_2014	neutral
+corpus_1654554.txt_2018_2023	neutral
+corpus_1654554.txt_2024_2034	neutral
+corpus_1654554.txt_2102_2107	neutral
+corpus_1654554.txt_2108_2113	neutral
+corpus_1654554.txt_2146_2152	neutral
+corpus_1654554.txt_2214_2220	negative
+corpus_1654554.txt_2248_2254	neutral
+corpus_1654554.txt_2312_2320	neutral
+corpus_1654554.txt_2321_2328	neutral
+corpus_1654554.txt_2360_2370	neutral
+corpus_1654554.txt_2383_2387	neutral
+corpus_1654554.txt_2438_2445	neutral
+corpus_1654554.txt_2511_2521	neutral
+corpus_1654554.txt_2539_2544	neutral

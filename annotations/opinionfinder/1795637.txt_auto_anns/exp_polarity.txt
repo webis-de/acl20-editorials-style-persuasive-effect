@@ -1,0 +1,7 @@
+corpus_1795637.txt_2201_2212	positive
+corpus_1795637.txt_2237_2243	neutral
+corpus_1795637.txt_2297_2308	neutral
+corpus_1795637.txt_2409_2417	neutral
+corpus_1795637.txt_2418_2421	neutral
+corpus_1795637.txt_2573_2586	negative
+corpus_1795637.txt_2700_2707	positive

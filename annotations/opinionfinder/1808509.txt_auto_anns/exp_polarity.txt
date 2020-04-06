@@ -1,0 +1,5 @@
+corpus_1808509.txt_3145_3153	negative
+corpus_1808509.txt_3225_3231	neutral
+corpus_1808509.txt_3244_3251	neutral
+corpus_1808509.txt_3279_3285	neutral
+corpus_1808509.txt_3306_3312	neutral

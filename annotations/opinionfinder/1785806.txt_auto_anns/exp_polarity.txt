@@ -1,0 +1,9 @@
+corpus_1785806.txt_2324_2328	neutral
+corpus_1785806.txt_2401_2408	neutral
+corpus_1785806.txt_2409_2414	negative
+corpus_1785806.txt_2529_2535	neutral
+corpus_1785806.txt_2551_2562	neutral
+corpus_1785806.txt_2596_2602	positive
+corpus_1785806.txt_2627_2631	neutral
+corpus_1785806.txt_2661_2671	neutral
+corpus_1785806.txt_2684_2693	positive

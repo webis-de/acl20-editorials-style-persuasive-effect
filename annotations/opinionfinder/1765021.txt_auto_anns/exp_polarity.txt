@@ -1,0 +1,5 @@
+corpus_1765021.txt_2773_2779	neutral
+corpus_1765021.txt_2780_2785	positive
+corpus_1765021.txt_2842_2846	neutral
+corpus_1765021.txt_2884_2888	neutral
+corpus_1765021.txt_2894_2903	positive

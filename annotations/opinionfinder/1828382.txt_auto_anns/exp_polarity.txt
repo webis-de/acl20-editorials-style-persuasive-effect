@@ -1,0 +1,11 @@
+corpus_1828382.txt_3115_3125	neutral
+corpus_1828382.txt_3131_3136	neutral
+corpus_1828382.txt_3165_3169	neutral
+corpus_1828382.txt_3175_3183	neutral
+corpus_1828382.txt_3216_3221	neutral
+corpus_1828382.txt_3222_3226	neutral
+corpus_1828382.txt_3257_3262	neutral
+corpus_1828382.txt_3263_3270	neutral
+corpus_1828382.txt_3274_3280	positive
+corpus_1828382.txt_3311_3321	neutral
+corpus_1828382.txt_3339_3348	negative

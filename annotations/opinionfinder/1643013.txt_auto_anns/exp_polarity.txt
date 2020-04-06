@@ -1,0 +1,8 @@
+corpus_1643013.txt_2555_2561	positive
+corpus_1643013.txt_2563_2567	positive
+corpus_1643013.txt_2572_2576	neutral
+corpus_1643013.txt_2577_2583	positive
+corpus_1643013.txt_2599_2607	positive
+corpus_1643013.txt_2608_2615	positive
+corpus_1643013.txt_2617_2627	neutral
+corpus_1643013.txt_2650_2657	neutral

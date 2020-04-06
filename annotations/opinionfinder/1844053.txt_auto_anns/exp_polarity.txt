@@ -1,0 +1,3 @@
+corpus_1844053.txt_2363_2374	negative
+corpus_1844053.txt_2375_2381	negative
+corpus_1844053.txt_2438_2443	neutral

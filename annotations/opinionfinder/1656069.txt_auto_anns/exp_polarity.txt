@@ -1,0 +1,4 @@
+corpus_1656069.txt_3523_3529	neutral
+corpus_1656069.txt_3535_3540	neutral
+corpus_1656069.txt_3553_3561	positive
+corpus_1656069.txt_3562_3568	positive

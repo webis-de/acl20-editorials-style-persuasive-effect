@@ -1,0 +1,11 @@
+corpus_1677325.txt_2811_2816	neutral
+corpus_1677325.txt_2820_2826	negative
+corpus_1677325.txt_2842_2847	neutral
+corpus_1677325.txt_2850_2857	neutral
+corpus_1677325.txt_2858_2866	positive
+corpus_1677325.txt_2870_2874	negative
+corpus_1677325.txt_2875_2879	neutral
+corpus_1677325.txt_2907_2911	neutral
+corpus_1677325.txt_2935_2941	neutral
+corpus_1677325.txt_2983_2987	positive
+corpus_1677325.txt_2988_2992	neutral

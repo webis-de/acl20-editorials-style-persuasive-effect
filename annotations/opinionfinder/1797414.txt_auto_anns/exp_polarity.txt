@@ -1,0 +1,3 @@
+corpus_1797414.txt_3052_3056	neutral
+corpus_1797414.txt_3057_3066	positive
+corpus_1797414.txt_3093_3100	positive

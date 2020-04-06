@@ -1,0 +1,15 @@
+corpus_1745747.txt_2344_2348	neutral
+corpus_1745747.txt_2349_2354	negative
+corpus_1745747.txt_2382_2389	negative
+corpus_1745747.txt_2415_2423	neutral
+corpus_1745747.txt_2432_2436	neutral
+corpus_1745747.txt_2444_2451	neutral
+corpus_1745747.txt_2452_2458	neutral
+corpus_1745747.txt_2468_2476	negative
+corpus_1745747.txt_2499_2505	neutral
+corpus_1745747.txt_2579_2583	neutral
+corpus_1745747.txt_2601_2605	neutral
+corpus_1745747.txt_2663_2668	neutral
+corpus_1745747.txt_2738_2745	negative
+corpus_1745747.txt_2746_2752	neutral
+corpus_1745747.txt_2775_2782	negative

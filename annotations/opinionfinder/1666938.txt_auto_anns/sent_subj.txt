@@ -1,0 +1,16 @@
+corpus_1666938.txt_9_270	subj
+corpus_1666938.txt_279_376	obj
+corpus_1666938.txt_377_467	subj
+corpus_1666938.txt_468_658	subj
+corpus_1666938.txt_667_932	subj
+corpus_1666938.txt_933_1131	subj
+corpus_1666938.txt_1140_1332	subj
+corpus_1666938.txt_1341_1436	subj
+corpus_1666938.txt_1437_1565	subj
+corpus_1666938.txt_1566_1631	subj
+corpus_1666938.txt_1640_1894	subj
+corpus_1666938.txt_1895_2048	subj
+corpus_1666938.txt_2057_2155	subj
+corpus_1666938.txt_2156_2330	subj
+corpus_1666938.txt_2339_2478	subj
+corpus_1666938.txt_2487_2496	obj

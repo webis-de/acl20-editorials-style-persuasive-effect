@@ -1,0 +1,10 @@
+corpus_1652424.txt_2378_2383	neutral
+corpus_1652424.txt_2384_2392	negative
+corpus_1652424.txt_2403_2410	positive
+corpus_1652424.txt_2527_2537	neutral
+corpus_1652424.txt_2569_2573	positive
+corpus_1652424.txt_2625_2633	neutral
+corpus_1652424.txt_2697_2709	negative
+corpus_1652424.txt_2720_2726	neutral
+corpus_1652424.txt_2740_2745	neutral
+corpus_1652424.txt_2766_2770	neutral

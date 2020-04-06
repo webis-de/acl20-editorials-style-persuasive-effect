@@ -1,0 +1,15 @@
+corpus_1671629.txt_9_241	subj
+corpus_1671629.txt_242_399	subj
+corpus_1671629.txt_408_646	subj
+corpus_1671629.txt_647_793	subj
+corpus_1671629.txt_794_979	subj
+corpus_1671629.txt_988_1282	subj
+corpus_1671629.txt_1283_1642	subj
+corpus_1671629.txt_1651_1787	obj
+corpus_1671629.txt_1788_1965	subj
+corpus_1671629.txt_1966_2307	subj
+corpus_1671629.txt_2308_2478	subj
+corpus_1671629.txt_2487_2775	subj
+corpus_1671629.txt_2776_2849	obj
+corpus_1671629.txt_2850_2949	obj
+corpus_1671629.txt_2958_2967	obj

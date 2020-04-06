@@ -1,0 +1,9 @@
+corpus_1843708.txt_2557_2563	neutral
+corpus_1843708.txt_2575_2580	neutral
+corpus_1843708.txt_2589_2594	neutral
+corpus_1843708.txt_2598_2602	neutral
+corpus_1843708.txt_2691_2701	neutral
+corpus_1843708.txt_2705_2711	positive
+corpus_1843708.txt_2816_2826	negative
+corpus_1843708.txt_2868_2875	negative
+corpus_1843708.txt_2898_2905	neutral

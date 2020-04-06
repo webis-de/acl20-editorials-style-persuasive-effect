@@ -1,0 +1,64 @@
+,feature_types,k,silhouette
+5,"('adus',)",6,0.7576476917598961
+2,"('mpqa_sentiment',)",6,0.7026220213231192
+1,"('mpqa_subj',)",6,0.6905341436676045
+14,"('mpqa_subj', 'adus')",7,0.47833312193796124
+16,"('mpqa_sentiment', 'liwc')",6,0.4179849811970595
+26,"('mpqa_args', 'mpqa_sentiment', 'liwc')",6,0.4176294974204977
+39,"('mpqa_sentiment', 'liwc', 'adus')",6,0.41727820991343917
+18,"('nrc', 'liwc')",6,0.4161012777377856
+28,"('mpqa_args', 'nrc', 'liwc')",6,0.4157492508529763
+4,"('liwc',)",6,0.4152821732333099
+9,"('mpqa_args', 'liwc')",6,0.41492359560529424
+20,"('liwc', 'adus')",6,0.4145608389353428
+30,"('mpqa_args', 'liwc', 'adus')",6,0.4142038638422829
+13,"('mpqa_subj', 'liwc')",6,0.4140949690078562
+59,"('mpqa_args', 'mpqa_subj', 'nrc', 'liwc', 'adus')",6,0.41381035566967045
+23,"('mpqa_args', 'mpqa_subj', 'liwc')",6,0.4137389238105543
+36,"('mpqa_subj', 'liwc', 'adus')",6,0.41337934201327825
+37,"('mpqa_sentiment', 'nrc', 'liwc')",6,0.4133332412752834
+46,"('mpqa_args', 'mpqa_subj', 'liwc', 'adus')",6,0.4130249365012641
+47,"('mpqa_args', 'mpqa_sentiment', 'nrc', 'liwc')",6,0.41298792643993026
+55,"('mpqa_sentiment', 'nrc', 'liwc', 'adus')",6,0.4126560562161309
+60,"('mpqa_args', 'mpqa_sentiment', 'nrc', 'liwc', 'adus')",6,0.4123122439409115
+51,"('mpqa_subj', 'mpqa_sentiment', 'nrc', 'liwc')",6,0.4122024257915865
+11,"('mpqa_subj', 'mpqa_sentiment')",6,0.4118611530303755
+56,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'nrc', 'liwc')",6,0.4118595073328312
+61,"('mpqa_subj', 'mpqa_sentiment', 'nrc', 'liwc', 'adus')",6,0.41153072874825425
+32,"('mpqa_subj', 'mpqa_sentiment', 'liwc')",6,0.4112112567459532
+62,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'nrc', 'liwc', 'adus')",6,0.4111892915367036
+40,"('nrc', 'liwc', 'adus')",6,0.4069433441601818
+49,"('mpqa_args', 'mpqa_sentiment', 'liwc', 'adus')",6,0.4068104372810518
+50,"('mpqa_args', 'nrc', 'liwc', 'adus')",6,0.406595028462019
+42,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'liwc')",6,0.4063274035005142
+53,"('mpqa_subj', 'mpqa_sentiment', 'liwc', 'adus')",6,0.4059936349719135
+58,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'liwc', 'adus')",6,0.4048771135957485
+34,"('mpqa_subj', 'nrc', 'liwc')",6,0.4047338128439041
+44,"('mpqa_args', 'mpqa_subj', 'nrc', 'liwc')",6,0.4043856582091028
+54,"('mpqa_subj', 'nrc', 'liwc', 'adus')",6,0.404056022275501
+17,"('mpqa_sentiment', 'adus')",7,0.40064180229212565
+0,"('mpqa_args',)",8,0.3698922096535751
+6,"('mpqa_args', 'mpqa_subj')",7,0.33863415299172384
+33,"('mpqa_subj', 'mpqa_sentiment', 'adus')",6,0.3305476613941798
+21,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment')",6,0.3283963194382488
+27,"('mpqa_args', 'mpqa_sentiment', 'adus')",6,0.31705589697813624
+7,"('mpqa_args', 'mpqa_sentiment')",6,0.31435258959375795
+24,"('mpqa_args', 'mpqa_subj', 'adus')",6,0.28931654480058633
+43,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'adus')",6,0.28302772875091164
+10,"('mpqa_args', 'adus')",8,0.24988643542815567
+3,"('nrc',)",7,0.22836147709157853
+19,"('nrc', 'adus')",7,0.21453592472254143
+12,"('mpqa_subj', 'nrc')",7,0.20786599629816202
+35,"('mpqa_subj', 'nrc', 'adus')",8,0.203181558373739
+15,"('mpqa_sentiment', 'nrc')",7,0.20193349244836356
+31,"('mpqa_subj', 'mpqa_sentiment', 'nrc')",7,0.1995131904958791
+38,"('mpqa_sentiment', 'nrc', 'adus')",8,0.19524181678219757
+41,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'nrc')",7,0.1942340320350115
+29,"('mpqa_args', 'nrc', 'adus')",7,0.1857431549261565
+52,"('mpqa_subj', 'mpqa_sentiment', 'nrc', 'adus')",7,0.18489760430041577
+25,"('mpqa_args', 'mpqa_sentiment', 'nrc')",7,0.18342019412517158
+45,"('mpqa_args', 'mpqa_subj', 'nrc', 'adus')",7,0.18296344458282696
+22,"('mpqa_args', 'mpqa_subj', 'nrc')",7,0.17969027360388268
+48,"('mpqa_args', 'mpqa_sentiment', 'nrc', 'adus')",8,0.1748993429191205
+8,"('mpqa_args', 'nrc')",7,0.165783658512494
+57,"('mpqa_args', 'mpqa_subj', 'mpqa_sentiment', 'nrc', 'adus')",7,0.1613910779100963

@@ -1,0 +1,6 @@
+corpus_1782546.txt_3227_3231	neutral
+corpus_1782546.txt_3232_3237	positive
+corpus_1782546.txt_3238_3244	positive
+corpus_1782546.txt_3275_3279	positive
+corpus_1782546.txt_3291_3300	positive
+corpus_1782546.txt_3311_3316	neutral

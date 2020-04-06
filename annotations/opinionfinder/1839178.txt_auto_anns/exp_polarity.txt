@@ -1,0 +1,10 @@
+corpus_1839178.txt_3392_3401	neutral
+corpus_1839178.txt_3413_3417	neutral
+corpus_1839178.txt_3429_3435	neutral
+corpus_1839178.txt_3444_3449	neutral
+corpus_1839178.txt_3460_3465	neutral
+corpus_1839178.txt_3481_3485	neutral
+corpus_1839178.txt_3517_3526	neutral
+corpus_1839178.txt_3579_3589	neutral
+corpus_1839178.txt_3598_3604	neutral
+corpus_1839178.txt_3608_3612	neutral

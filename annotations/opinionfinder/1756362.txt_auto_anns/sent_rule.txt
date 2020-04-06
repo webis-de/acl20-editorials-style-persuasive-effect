@@ -1,0 +1,15 @@
+corpus_1756362.txt_9_368	unknown
+corpus_1756362.txt_377_589	subj
+corpus_1756362.txt_590_749	unknown
+corpus_1756362.txt_758_873	subj
+corpus_1756362.txt_882_1132	unknown
+corpus_1756362.txt_1133_1278	unknown
+corpus_1756362.txt_1287_1486	subj
+corpus_1756362.txt_1487_1686	unknown
+corpus_1756362.txt_1695_1922	unknown
+corpus_1756362.txt_1931_2086	subj
+corpus_1756362.txt_2087_2135	unknown
+corpus_1756362.txt_2144_2429	obj
+corpus_1756362.txt_2438_2512	obj
+corpus_1756362.txt_2513_2549	obj
+corpus_1756362.txt_2558_2566	obj

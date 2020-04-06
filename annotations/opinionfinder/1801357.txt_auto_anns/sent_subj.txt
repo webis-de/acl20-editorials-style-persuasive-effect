@@ -1,0 +1,17 @@
+corpus_1801357.txt_9_215	obj
+corpus_1801357.txt_216_359	obj
+corpus_1801357.txt_360_611	subj
+corpus_1801357.txt_620_742	obj
+corpus_1801357.txt_743_921	subj
+corpus_1801357.txt_922_1014	obj
+corpus_1801357.txt_1015_1288	obj
+corpus_1801357.txt_1297_1481	subj
+corpus_1801357.txt_1482_1651	subj
+corpus_1801357.txt_1652_1926	subj
+corpus_1801357.txt_1935_2018	obj
+corpus_1801357.txt_2019_2232	obj
+corpus_1801357.txt_2233_2452	obj
+corpus_1801357.txt_2453_2551	obj
+corpus_1801357.txt_2560_2782	obj
+corpus_1801357.txt_2783_2928	obj
+corpus_1801357.txt_2937_2946	obj

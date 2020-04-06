@@ -1,0 +1,14 @@
+corpus_1695400.txt_2212_2216	negative
+corpus_1695400.txt_2220_2227	neutral
+corpus_1695400.txt_2239_2243	negative
+corpus_1695400.txt_2247_2252	neutral
+corpus_1695400.txt_2253_2261	negative
+corpus_1695400.txt_2303_2314	positive
+corpus_1695400.txt_2366_2372	neutral
+corpus_1695400.txt_2393_2398	negative
+corpus_1695400.txt_2407_2418	neutral
+corpus_1695400.txt_2422_2426	positive
+corpus_1695400.txt_2444_2453	neutral
+corpus_1695400.txt_2518_2525	negative
+corpus_1695400.txt_2527_2536	negative
+corpus_1695400.txt_2572_2580	positive

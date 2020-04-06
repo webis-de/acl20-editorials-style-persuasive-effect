@@ -1,0 +1,16 @@
+corpus_1788489.txt_2402_2406	neutral
+corpus_1788489.txt_2466_2472	neutral
+corpus_1788489.txt_2542_2552	neutral
+corpus_1788489.txt_2564_2570	neutral
+corpus_1788489.txt_2605_2609	neutral
+corpus_1788489.txt_2637_2643	neutral
+corpus_1788489.txt_2697_2702	neutral
+corpus_1788489.txt_2764_2769	neutral
+corpus_1788489.txt_2789_2795	neutral
+corpus_1788489.txt_2843_2853	neutral
+corpus_1788489.txt_2875_2882	neutral
+corpus_1788489.txt_2947_2949	neutral
+corpus_1788489.txt_3010_3015	neutral
+corpus_1788489.txt_3049_3054	neutral
+corpus_1788489.txt_3099_3107	neutral
+corpus_1788489.txt_3147_3157	neutral

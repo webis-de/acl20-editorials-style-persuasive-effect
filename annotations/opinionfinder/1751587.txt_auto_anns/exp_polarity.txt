@@ -1,0 +1,11 @@
+corpus_1751587.txt_3056_3065	positive
+corpus_1751587.txt_3083_3089	neutral
+corpus_1751587.txt_3121_3125	positive
+corpus_1751587.txt_3147_3157	positive
+corpus_1751587.txt_3178_3186	negative
+corpus_1751587.txt_3187_3191	negative
+corpus_1751587.txt_3234_3239	positive
+corpus_1751587.txt_3240_3245	neutral
+corpus_1751587.txt_3276_3284	negative
+corpus_1751587.txt_3313_3319	neutral
+corpus_1751587.txt_3324_3329	neutral

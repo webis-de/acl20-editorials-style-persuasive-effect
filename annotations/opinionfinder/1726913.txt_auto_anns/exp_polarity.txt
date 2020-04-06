@@ -1,0 +1,10 @@
+corpus_1726913.txt_2672_2677	positive
+corpus_1726913.txt_2688_2697	negative
+corpus_1726913.txt_2715_2721	neutral
+corpus_1726913.txt_2734_2740	neutral
+corpus_1726913.txt_2745_2751	neutral
+corpus_1726913.txt_2757_2761	positive
+corpus_1726913.txt_2778_2788	negative
+corpus_1726913.txt_2794_2799	neutral
+corpus_1726913.txt_2800_2809	neutral
+corpus_1726913.txt_2810_2814	neutral

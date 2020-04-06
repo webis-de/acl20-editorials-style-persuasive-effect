@@ -1,0 +1,17 @@
+corpus_1752831.txt_9_182	obj
+corpus_1752831.txt_183_356	obj
+corpus_1752831.txt_365_398	obj
+corpus_1752831.txt_399_559	obj
+corpus_1752831.txt_568_720	obj
+corpus_1752831.txt_721_811	obj
+corpus_1752831.txt_812_881	obj
+corpus_1752831.txt_882_1069	obj
+corpus_1752831.txt_1078_1192	obj
+corpus_1752831.txt_1193_1338	obj
+corpus_1752831.txt_1339_1519	subj
+corpus_1752831.txt_1528_1804	subj
+corpus_1752831.txt_1813_1978	subj
+corpus_1752831.txt_1979_2144	subj
+corpus_1752831.txt_2153_2199	obj
+corpus_1752831.txt_2200_2397	subj
+corpus_1752831.txt_2406_2415	obj

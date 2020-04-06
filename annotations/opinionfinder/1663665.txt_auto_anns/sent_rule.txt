@@ -1,0 +1,17 @@
+corpus_1663665.txt_9_127	unknown
+corpus_1663665.txt_128_394	subj
+corpus_1663665.txt_403_596	subj
+corpus_1663665.txt_605_773	unknown
+corpus_1663665.txt_774_964	unknown
+corpus_1663665.txt_965_1072	unknown
+corpus_1663665.txt_1081_1286	unknown
+corpus_1663665.txt_1287_1478	subj
+corpus_1663665.txt_1487_1756	unknown
+corpus_1663665.txt_1757_1861	unknown
+corpus_1663665.txt_1870_1889	unknown
+corpus_1663665.txt_1890_2211	unknown
+corpus_1663665.txt_2212_2353	unknown
+corpus_1663665.txt_2354_2542	unknown
+corpus_1663665.txt_2551_2593	unknown
+corpus_1663665.txt_2594_2716	unknown
+corpus_1663665.txt_2725_2736	unknown

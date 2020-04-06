@@ -1,0 +1,16 @@
+corpus_1657678.txt_9_257	unknown
+corpus_1657678.txt_258_457	unknown
+corpus_1657678.txt_466_733	subj
+corpus_1657678.txt_734_963	unknown
+corpus_1657678.txt_972_1051	unknown
+corpus_1657678.txt_1052_1147	unknown
+corpus_1657678.txt_1148_1373	subj
+corpus_1657678.txt_1374_1570	unknown
+corpus_1657678.txt_1579_1627	unknown
+corpus_1657678.txt_1628_2009	unknown
+corpus_1657678.txt_2010_2082	unknown
+corpus_1657678.txt_2083_2219	unknown
+corpus_1657678.txt_2228_2314	obj
+corpus_1657678.txt_2315_2462	obj
+corpus_1657678.txt_2463_2562	unknown
+corpus_1657678.txt_2571_2580	obj

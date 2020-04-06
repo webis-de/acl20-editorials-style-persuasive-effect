@@ -1,0 +1,16 @@
+corpus_1818761.txt_9_40	obj
+corpus_1818761.txt_41_347	unknown
+corpus_1818761.txt_356_692	unknown
+corpus_1818761.txt_701_881	unknown
+corpus_1818761.txt_882_1075	unknown
+corpus_1818761.txt_1084_1239	unknown
+corpus_1818761.txt_1240_1398	unknown
+corpus_1818761.txt_1407_1600	unknown
+corpus_1818761.txt_1601_1729	unknown
+corpus_1818761.txt_1738_1830	obj
+corpus_1818761.txt_1831_2065	unknown
+corpus_1818761.txt_2066_2228	unknown
+corpus_1818761.txt_2237_2366	unknown
+corpus_1818761.txt_2375_2708	unknown
+corpus_1818761.txt_2709_2907	unknown
+corpus_1818761.txt_2916_2926	obj

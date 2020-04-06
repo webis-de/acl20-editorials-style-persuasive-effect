@@ -1,0 +1,6 @@
+corpus_1845336.txt_2276_2280	neutral
+corpus_1845336.txt_2281_2285	positive
+corpus_1845336.txt_2363_2374	positive
+corpus_1845336.txt_2412_2417	neutral
+corpus_1845336.txt_2426_2433	neutral
+corpus_1845336.txt_2446_2450	positive

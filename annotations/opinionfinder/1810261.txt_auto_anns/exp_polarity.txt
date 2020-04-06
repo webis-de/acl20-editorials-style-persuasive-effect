@@ -1,0 +1,4 @@
+corpus_1810261.txt_2996_3001	neutral
+corpus_1810261.txt_3057_3065	neutral
+corpus_1810261.txt_3079_3083	neutral
+corpus_1810261.txt_3084_3087	positive

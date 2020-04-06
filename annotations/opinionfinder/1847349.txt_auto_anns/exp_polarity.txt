@@ -1,0 +1,7 @@
+corpus_1847349.txt_2191_2195	neutral
+corpus_1847349.txt_2196_2206	neutral
+corpus_1847349.txt_2388_2397	neutral
+corpus_1847349.txt_2403_2407	neutral
+corpus_1847349.txt_2453_2457	neutral
+corpus_1847349.txt_2528_2537	neutral
+corpus_1847349.txt_2544_2555	neutral

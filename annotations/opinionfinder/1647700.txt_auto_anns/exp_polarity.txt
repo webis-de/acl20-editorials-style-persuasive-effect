@@ -1,0 +1,2 @@
+corpus_1647700.txt_2430_2434	neutral
+corpus_1647700.txt_2435_2441	positive
