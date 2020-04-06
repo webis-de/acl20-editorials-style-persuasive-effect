@@ -15,7 +15,7 @@ Roxanne El Baff, Henning Wachstmuth, Khalid Al-Khatib and Benno Stein
         year =                2020
       }
     
-[[Paper Link]()] [[Code and Data](./)]
+[[Paper Link]()] 
 
 
 ### Dependency
