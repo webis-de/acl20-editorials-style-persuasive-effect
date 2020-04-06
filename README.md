@@ -2,12 +2,26 @@
 
 This is the code for the paper *Analyzing the Persuasive Effect of Style in News Editorial Argumentation*.
 
+Roxanne El Baff, Henning Wachstmuth, Khalid Al-Khatib and Benno Stein
+
+
+      @InProceedings{elbaff:2020,
+        author =              {Roxanne {El Baff} and Henning Wachsmuth and Khalid Al-Khatib and Benno Stein},
+        booktitle =           {The 58th annual meeting of the Association for Computational Linguistics (ACL) },
+        month =               jul,
+        publisher =           {ACL},
+        site =                {Seattle, USA},
+        title =               {{Analyzing the Persuasive Effect of Style in News Editorial Argumentation}},
+        year =                2020
+      }
+    
+[[Paper Link]()] [[Code and Data](./)]
+
+
+### Dependency
 Python version: 3.6.
 
-The readme file gives an overview on which part of the code is responsible for which section in the paper.
-
-
-We share our trained models, results of significance tests, and the values of the features extracted as detailed below.
+The readme file gives an overview on which part of the code is responsible for which section in the paper. We share our trained models, results of significance tests, and the values of the features extracted as detailed below.
 
 
 ### Overall Experiments
